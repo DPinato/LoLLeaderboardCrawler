@@ -136,10 +136,16 @@ playersRawData.each_with_index { |rawData, i|
 		unless tmp.index(/\s/) == nil then tmp.strip! end
 		tmpPlayer.rank = tmp
 
-		pos = playersRawData[i].index("highest__team", pos) + 15
-		tmp = playersRawData[i][pos, playersRawData[i].index("</div>", pos) - pos]
-		unless tmp.index(/\s/) == nil then tmp.strip! end
-		tmpPlayer.proTeam = tmp
+		# if player is not in a team, this is not present
+		pos = playersRawData[i].index("highest__team", pos)
+		unless pos == nil
+			pos += 15
+			tmp = playersRawData[i][pos, playersRawData[i].index("</div>", pos) - pos]
+			unless tmp.index(/\s/) == nil then tmp.strip! end
+			tmpPlayer.proTeam = tmp
+		else
+			pos = 0		# reset pos
+		end
 
 		pos = playersRawData[i].index("highest__level", pos) + 16
 		tmp = playersRawData[i][pos, playersRawData[i].index("</div>", pos) - pos]
