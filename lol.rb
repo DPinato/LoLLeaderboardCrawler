@@ -1,11 +1,12 @@
 #!/usr/bin/ruby
-# usage: ./RCrawler.rb <config_file>
+# usage: ./lol.rb --region <region>
 # this is meant to be run as a cron job, or through similar means
 # Notes:
 # - looks like the team of a player is not returned anymore :/
 require 'open-uri'
 require 'date'
 require 'csv'
+require 'fileutils'
 
 
 BEGIN {
@@ -23,32 +24,15 @@ END {
 }
 
 
-class Player
-
-  def initialize(id=-1)
-    @objId = id   # useful when using multiple threads
-  end
-
-	attr_accessor :id				# summoner ID (in case name changes)
-	attr_accessor :rank			# rank in the leaderboards
-  attr_accessor :name			# name of the player
-	attr_accessor :tier			# tier of player
-	attr_accessor :lp				# LP
-  attr_accessor :level		# level of account
-	attr_accessor :proTeam	# name of professional team, if player is part of one
-	attr_accessor :win			# number of matches won
-	attr_accessor :loss			# number of matches lost
-
-end
-
 
 # directories of raw HTML code and processed CSV output files
 baseDir = "/Users/davide/Desktop/Code/RUBY/LoLLeaderboardCrawler/"	# directory where this file is located
+FileUtils.cd(baseDir)
 rawFileDir = "logs/"
 csvFileDir = "logs/"
-saveRawHTML = true		# indicates whether the raw web page will be saved to disk, useful for debug
+saveRawHTML = false		# indicates whether the raw web page will be saved to disk, useful for debug
 actLogFileName = "actionlog.log"	# save list of actions done
-
+epochTime = DateTime.now.strftime('%Q')
 
 # the first five players are in special classes
 # use these to locate the data from each player
@@ -143,7 +127,7 @@ if saveRawHTML
 		end
 	end
 
-	epochTime = DateTime.now.strftime('%Q')
+	# epochTime = DateTime.new(DateTime.now.strftime('%Q'))
 	rawFileName = "raw_" + epochTime.to_s + ".log"
 	rawFile = File.open(rawFileDir + rawFileName, 'w')
 	playersRawData.each_with_index { |x, index|
@@ -350,11 +334,12 @@ unless Dir.exist?(csvFileDir)
 	end
 end
 
+
 #epochTime = DateTime.now.strftime('%Q')
 csvFileName = "csv_" + epochTime.to_s + ".log"
 csvFile = File.open(csvFileDir + csvFileName, 'w')
-csvFile << "#timestamp " << DateTime.now.strftime('%Q').to_s << "\n"
-csvFile << "#date " << DateTime.now.to_s << "\n"
+csvFile << "#timestamp " << epochTime.to_s << "\n"
+csvFile << "#date " << DateTime.strptime(epochTime,'%Q').to_s << "\n"
 csvFile << "#players " << players.size << "\n"
 csvFile << "#index,id,rank,name,tier,lp,level,proTeam,win,loss"	<< "\n"	# columns for file
 players.each_with_index { |x, index|
@@ -384,7 +369,7 @@ unless File.exists?(actLogFileName)
 end
 
 actFile = File.open(actLogFileName, 'a')
-actFile << DateTime.strptime(epochTime,'%Q')
+actFile << DateTime.strptime(epochTime,'%Q').to_s
 actFile << "," << epochTime
 actFile << "," << region
 actFile << "," << csvFileName
