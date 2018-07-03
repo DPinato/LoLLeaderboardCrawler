@@ -4,10 +4,10 @@ class Player
     @objId = id   # useful when using multiple threads
   end
 
-	def initialize(date, id, rank, name, tier, lp, level, proTeam, win, loss)
+	def initialize(epoch, id, rank, name, tier, lp, level, proTeam, win, loss, region="", regionID = -1)
 		# this constructor is better when processing the data from the CSV files
 		@id = id
-		@date = Array.new
+		@epoch = Array.new
 		@rank = Array.new
 		@name = Array.new		# I guess a player can change its name
 		@tier = Array.new
@@ -16,14 +16,19 @@ class Player
 		@proTeam = Array.new
 		@win = Array.new
 		@loss = Array.new
+		@region, @regionID = region, regionID
 
-		@date[0], @rank[0], @name[0], @tier[0], @lp[0] = date, rank, name, tier, lp
+		@epoch[0], @rank[0], @name[0], @tier[0], @lp[0] = epoch, rank, name, tier, lp
 		@level[0], @proTeam[0], @win[0], @loss[0] = level, proTeam, win, loss
+
+		@totalGamesPlayed = Array.new
+		@totalGamesPlayed[0] = @win[0] + @loss[0]
+
 	end
 
 	def pushValues(playerObj)
 		if playerObj.is_a?(Player)
-			@date.push(playerObj.date.last)
+			@epoch.push(playerObj.epoch.last)
 			@rank.push(playerObj.rank.last)
 			@name.push(playerObj.name.last)
 			@tier.push(playerObj.tier.last)
@@ -32,12 +37,15 @@ class Player
 			@proTeam.push(playerObj.proTeam.last)
 			@win.push(playerObj.win.last)
 			@loss.push(playerObj.loss.last)
+
+			@totalGamesPlayed.push(playerObj.win.last + playerObj.loss.last)
+
 		end
 	end
 
 	attr_accessor :id				# summoner ID (in case name changes), TODO: is constant
 
-	attr_accessor :date			# date when the variables below were collected
+	attr_accessor :epoch			# epoch when the variables below were collected
 	attr_accessor :rank			# rank in the leaderboards
   attr_accessor :name			# name of the player
 	attr_accessor :tier			# tier of player
@@ -46,5 +54,10 @@ class Player
 	attr_accessor :proTeam	# name of professional team, if player is part of one
 	attr_accessor :win			# number of matches won
 	attr_accessor :loss			# number of matches lost
+
+	# general variables
+	attr_accessor :region			# region where player is located
+	attr_accessor :regionID		# this will make it easier when players are categorised by region
+	attr_accessor :totalGamesPlayed
 
 end
