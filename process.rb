@@ -1,6 +1,6 @@
 #!/usr/bin/ruby
 # usage: ./process.rb
-# this processes the output obtained from lol.#!/usr/bin/env ruby -wKU
+# this processes the output obtained from lol.rb
 
 require 'csv'
 require 'date'
