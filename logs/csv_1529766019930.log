@@ -1,0 +1,1004 @@
+#timestamp 1529766019930
+#date 2018-06-23T15:00:19+00:00
+#players 1000
+#index,id,rank,name,tier,lp,level,proTeam,win,loss
+0,summoner-14010487,1,たこ焼きぼーい,Challenger,1034,56,,157,82
+1,summoner-9030192,2,Sao Yuuki Konno,Challenger,1013,128,,153,123
+2,summoner-13420191,3,aki0831,Challenger,1000,106,,148,91
+3,summoner-6171199,4,ThintoN,Challenger,978,114,,328,290
+4,summoner-6183608,5,むんなたん,Challenger,897,103,,161,121
+5,summoner-6181882,6,Hlde on bush,Challenger,889,71,,178,134
+6,summoner-6162856,7,stridershen,Challenger,863,102,,344,312
+7,summoner-6225446,8,CarterV15,Challenger,852,91,,324,296
+8,summoner-6187061,9,GaengMoyashi,Challenger,820,66,,158,120
+9,summoner-6617806,10,いぬだお,Challenger,808,141,,205,146
+10,summoner-6185542,11,エビルリフト,Challenger,744,50,,78,46
+11,summoner-6920293,12,SKT T1 Fakeru,Challenger,740,86,,152,84
+12,summoner-6183732,13,pveman,Challenger,718,93,,168,147
+13,summoner-14060127,14,YutoriGaeng,Challenger,704,47,,133,87
+14,summoner-13520233,15,A Kat,Challenger,693,73,,165,137
+15,summoner-7651004,16,VX 862097141,Challenger,692,89,,194,157
+16,summoner-6312300,17,Roki,Challenger,670,64,,144,116
+17,summoner-9290195,18,PCG PhantomDeath,Challenger,626,96,,198,156
+18,summoner-13280127,19,Diviv,Challenger,620,47,,96,59
+19,summoner-13450158,20,V3 ionz,Challenger,476,57,,122,77
+20,summoner-6341081,21,Cwn,Challenger,569,164,,145,116
+21,summoner-6295623,22,ecaA,Challenger,558,106,,144,125
+22,summoner-11630173,23,Quickdravv,Challenger,555,135,,145,127
+23,summoner-6162717,24,Alchemyst,Challenger,551,126,,150,114
+24,summoner-6161010,25,TopXiaochen,Challenger,546,78,,123,105
+25,summoner-6174953,26,運げーｗ,Challenger,515,97,,189,166
+26,summoner-12181052,27,HEOES,Challenger,514,140,,175,155
+27,summoner-6471274,28,yorooozu,Challenger,508,47,,96,82
+28,summoner-6290144,29,スケット,Challenger,494,86,,270,240
+29,summoner-14060158,30,QQQQQQQQQQQQQQQ,Challenger,484,75,,108,80
+30,summoner-6189589,31,Ametuyu,Challenger,466,118,,118,104
+31,summoner-7520625,32,Twisted寺田心,Challenger,446,62,,118,84
+32,summoner-6162602,33,아이유,Challenger,455,93,,280,250
+33,summoner-6181591,34,Po1yp,Challenger,350,104,,185,157
+34,summoner-6171527,35,Yorushika,Challenger,445,143,,162,133
+35,summoner-6170784,36,TOXIC JUNGLE,Challenger,430,59,,85,72
+36,summoner-6320643,37,GraceEye,Challenger,426,89,,252,235
+37,summoner-7281138,38,yume,Challenger,424,137,,189,152
+38,summoner-6181586,39,tatsro,Challenger,442,393,,598,572
+39,summoner-6182974,40,あきひさ,Challenger,422,75,,157,140
+40,summoner-13122298,41,ミルクリスピー,Challenger,421,47,,106,69
+41,summoner-11660523,42,カレンちゃん,Challenger,413,124,,211,183
+42,summoner-6181527,43,ふぁんろん,Challenger,411,74,,217,190
+43,summoner-9120163,44,Pajeon so good,Challenger,409,57,,99,61
+44,summoner-12290163,45,Iny Monologuey,Challenger,392,88,,82,62
+45,summoner-7301005,46,Neetkids,Challenger,391,182,,432,413
+46,summoner-14150604,47,木子希,Challenger,382,63,,82,38
+47,summoner-6167327,48,雄 飛,Challenger,381,119,,150,132
+48,summoner-6168586,49,wswgou,Challenger,396,95,,503,463
+49,summoner-6305622,50,cat plz,Challenger,378,56,,160,127
+50,summoner-13260704,51,WanderingPro,Challenger,369,80,,209,163
+51,summoner-6171027,52,Melus,Challenger,368,63,,184,173
+52,summoner-7120713,53,機動戦士ガべダム,Challenger,357,68,,120,111
+53,summoner-6365652,54,shacosu,Challenger,356,71,,191,161
+54,summoner-6691911,55,yüki,Challenger,353,74,,264,241
+55,summoner-9740283,56,Zed or Ded,Challenger,353,66,,171,155
+56,summoner-6188389,57,meru meraka,Challenger,350,85,,181,158
+57,summoner-6734378,58,Momoモモ,Challenger,350,47,,106,90
+58,summoner-9212051,59,i am 98k,Challenger,312,146,,394,383
+59,summoner-6184800,60,Hero Mechanic,Challenger,344,77,,211,199
+60,summoner-6305817,61,KissOnlyOneLady,Challenger,320,97,,322,315
+61,summoner-6680506,62,yuuwo god,Challenger,313,74,,127,101
+62,summoner-6192635,63,Hanimaru,Challenger,301,76,,156,144
+63,summoner-8910191,64,matosan21,Challenger,282,65,,95,69
+64,summoner-6172367,65,find me,Challenger,278,88,,345,339
+65,summoner-6449644,66,Pew,Challenger,270,110,,222,181
+66,summoner-6181437,67,LetMing,Challenger,270,96,,165,153
+67,summoner-6167512,68,rainadazo,Challenger,268,83,,99,79
+68,summoner-6400437,69,れ ぼ,Challenger,267,44,,105,53
+69,summoner-6310793,70,Her Sweet Boy,Challenger,252,58,,84,74
+70,summoner-6250574,71,Clover,Challenger,261,76,,164,158
+71,summoner-8860668,72,黒バブ,Challenger,261,59,,141,128
+72,summoner-6291817,73,いぬが操作中,Challenger,260,113,,155,134
+73,summoner-6322522,74,Manimo,Challenger,257,91,,253,246
+74,summoner-14070227,75,KZ DRAGONCARSΕX,Challenger,257,64,,245,197
+75,summoner-6315148,76,ましょだお,Challenger,268,104,,192,172
+76,summoner-6632946,77,じゅん,Challenger,247,108,,112,106
+77,summoner-6179611,78,大田ＪＡＰＡＮ,Challenger,242,128,,399,387
+78,summoner-6295790,79,隆Dq貢,Challenger,239,110,,130,119
+79,summoner-10170282,80,ヤスオ姫,Challenger,232,84,,293,261
+80,summoner-8890333,81,あちゃももっ,Challenger,230,71,,143,137
+81,summoner-6161825,82,りんヴェン,Challenger,230,89,,94,78
+82,summoner-6335850,83,七彩狐,Challenger,229,47,,65,37
+83,summoner-6175403,84,Poros,Challenger,228,110,,225,221
+84,summoner-6460863,85,pihiro,Challenger,227,110,,166,164
+85,summoner-6309663,86,only CLANE,Challenger,224,41,,79,41
+86,summoner-12851356,87,make it,Challenger,221,102,,447,398
+87,summoner-6292386,88,マスタージョージ3,Challenger,234,78,,120,115
+88,summoner-13680130,89,Not Taka,Challenger,214,59,,135,112
+89,summoner-9230807,90,プチターク,Challenger,213,112,,197,169
+90,summoner-6712777,91,ULookSoCharming,Challenger,210,58,,158,152
+91,summoner-6183091,92,ぼ や ぁ,Challenger,206,103,,202,169
+92,summoner-6181492,93,Pulsar B1257 12A,Challenger,203,125,,312,312
+93,summoner-6298948,94,buff Zephyr,Challenger,203,93,,163,155
+94,summoner-6164660,95,BullchaN,Challenger,201,104,,137,132
+95,summoner-6172424,96,アホ蛙,Challenger,197,97,,193,189
+96,summoner-6165391,97,吉ｘ岡,Challenger,197,114,,181,172
+97,summoner-6891191,98,竜騎士ガイア星7,Challenger,195,79,,205,162
+98,summoner-6160347,99,Sphày,Challenger,194,123,,161,135
+99,summoner-6185077,100,rusaryka,Challenger,192,97,,143,138
+100,summoner-6177133,101,binlingual,Challenger,189,103,,178,140
+101,summoner-6174703,102,reaI gankster,Challenger,188,98,,163,151
+102,summoner-8630207,103,sad little taka,Challenger,184,65,,165,158
+103,summoner-6584337,104,R1cky,Challenger,178,161,,516,496
+104,summoner-8690328,105,Blue baldness,Challenger,178,79,,296,281
+105,summoner-6185975,106,XJR1200,Challenger,176,96,,143,134
+106,summoner-6170012,107,Makinyan,Challenger,171,118,,276,262
+107,summoner-7781117,108,霞ヶ丘 詩羽,Challenger,171,51,,98,77
+108,summoner-6693927,109,Son of IgNar,Challenger,162,78,,150,141
+109,summoner-6301134,110,Macadog,Challenger,161,116,,266,256
+110,summoner-10921145,111,丶ShiN,Challenger,160,153,,499,495
+111,summoner-6172000,112,ピンクビーン,Challenger,160,54,,151,136
+112,summoner-6309437,113,Kinrow,Challenger,154,74,,91,68
+113,summoner-6160488,114,かずーた,Challenger,153,88,,190,191
+114,summoner-6339619,115,やじう,Challenger,153,61,,143,133
+115,summoner-14251050,116,Tilterella,Challenger,52,40,,80,47
+116,summoner-6294950,117,劣等生,Challenger,151,90,,185,176
+117,summoner-7161319,118,täka,Challenger,149,61,,172,133
+118,summoner-6335559,119,神速三段突き,Challenger,125,74,,165,156
+119,summoner-6189451,120,Arfoad,Challenger,138,95,,231,226
+120,summoner-6331505,121,フレンド募集だよ,Challenger,37,128,,461,427
+121,summoner-6180335,122,deusdamandioca,Challenger,135,93,,208,203
+122,summoner-11730304,123,金テユン,Challenger,134,92,,357,341
+123,summoner-6313173,124,Luches,Challenger,130,52,,79,58
+124,summoner-13030412,125,i want ljl duo,Challenger,28,53,,92,64
+125,summoner-6334278,126,Jungle or dodge,Challenger,146,44,,102,67
+126,summoner-6178280,127,西野 七瀬,Challenger,126,49,,97,74
+127,summoner-8900274,128,Good bye,Challenger,125,74,,194,160
+128,summoner-8970997,129,Kreative,Challenger,121,79,,150,144
+129,summoner-6170952,130,Kaoru RabbyHouse,Challenger,137,115,,318,297
+130,summoner-6314778,131,teraares,Challenger,116,102,,501,499
+131,summoner-6186070,132,Yxxl,Challenger,111,75,,158,162
+132,summoner-13440164,133,中卒あやみ,Challenger,5,57,,71,50
+133,summoner-6296785,134,すたこ,Challenger,97,106,,272,256
+134,summoner-6296070,135,cjik0aw2jqnm5uiq,Challenger,86,80,,130,114
+135,summoner-6162796,136,Harunika,Challenger,84,56,,90,84
+136,summoner-6318472,137,炬燵猫,Challenger,80,117,,233,233
+137,summoner-6172110,138,hail and thunder,Challenger,79,70,,161,154
+138,summoner-7231033,139,RooRst,Challenger,78,118,,245,237
+139,summoner-6190278,140,ねのぎだよ,Challenger,78,96,,212,207
+140,summoner-6161059,141,gottui,Challenger,78,81,,210,189
+141,summoner-6290656,142,Pontaloid,Challenger,77,53,,91,79
+142,summoner-6293194,143,あんでぃ,Challenger,75,100,,148,152
+143,summoner-6310287,144,i have ten JB,Challenger,75,86,,143,134
+144,summoner-6432935,145,寒音真咲,Challenger,74,91,,227,236
+145,summoner-6177526,146,Disney Sea,Challenger,74,56,,69,56
+146,summoner-6168193,147,はろーぱいせん,Challenger,73,118,,175,151
+147,summoner-6347695,148,strider hiryu,Challenger,72,112,,351,329
+148,summoner-6161879,149,笙歌醉夢間,Challenger,72,103,,83,73
+149,summoner-6174606,150,AimerLend,Challenger,71,62,,111,97
+150,summoner-6181253,151,まあたそ,Challenger,69,93,,155,141
+151,summoner-6180545,152,Haropoppy,Challenger,65,98,,303,301
+152,summoner-10730180,153,一番弟子,Challenger,79,80,,284,255
+153,summoner-6163447,154,の ぁ,Challenger,61,161,,320,299
+154,summoner-13020818,155,桜の木の下の咲子,Challenger,60,41,,97,66
+155,summoner-6180912,156,ポカスカジャン,Challenger,52,157,,221,205
+156,summoner-6298267,157,ふじもと,Challenger,52,124,,202,211
+157,summoner-6300172,158,tonarinotomato,Challenger,52,82,,178,142
+158,summoner-6186097,159,Novita,Challenger,51,125,,248,244
+159,summoner-6470919,160,Aоi,Challenger,50,124,,499,472
+160,summoner-6175146,161,山嶺巨人郭敬明,Challenger,50,93,,235,225
+161,summoner-10600170,162,Tribute,Challenger,47,69,,225,209
+162,summoner-6301770,163,ゆてん,Challenger,45,114,,87,83
+163,summoner-13850682,164,MagicgirlAnnie,Challenger,45,39,,66,28
+164,summoner-6176255,165,Ninja of Ninjas,Challenger,44,104,,367,371
+165,summoner-13240741,166,代行2,Challenger,44,43,,77,50
+166,summoner-6298473,167,7010,Challenger,42,111,,405,383
+167,summoner-6348796,168,MERRYJANEe,Challenger,42,88,,151,127
+168,summoner-9581269,169,ぁｈｆｋぁんふぁ,Challenger,37,62,,236,194
+169,summoner-9290228,170,Rinas3,Challenger,34,47,,98,77
+170,summoner-14120904,171,ssrzzv,Challenger,33,48,,138,93
+171,summoner-6616296,172,わゎゎゎゎゎゎゎ,Challenger,32,157,,236,206
+172,summoner-6490682,173,霞ヶ丘詩羽先輩,Challenger,44,116,,194,193
+173,summoner-6182369,174,ソーマ,Challenger,28,97,,138,141
+174,summoner-6810221,175,Apocalys,Challenger,27,84,,171,177
+175,summoner-13081132,176,きりりん,Challenger,26,80,,232,216
+176,summoner-6702724,177,androp,Challenger,25,108,,171,165
+177,summoner-8291154,178,ˆºˆŠhadyˆºˆ,Challenger,24,127,,292,271
+178,summoner-6700426,179,Josh,Challenger,23,164,,218,174
+179,summoner-10330185,180,普通のサポート,Challenger,23,68,,138,137
+180,summoner-6181735,181,usg がりある,Challenger,19,108,,137,132
+181,summoner-6179419,182,みんなつよいです,Challenger,18,100,,247,250
+182,summoner-6168756,183,ちぇすと,Challenger,32,111,,199,198
+183,summoner-10590146,184,PING999GGINKOREA,Challenger,16,62,,150,112
+184,summoner-6171638,185,あるぱこ,Challenger,16,81,,105,92
+185,summoner-6591850,186,HikikomoriSupp,Challenger,15,54,,174,159
+186,summoner-6167876,187,德玛西亚 赵信,Challenger,13,87,,286,281
+187,summoner-6171261,188,えなめる,Challenger,13,105,,281,285
+188,summoner-6342555,189,オタク,Challenger,12,131,,128,128
+189,summoner-14110549,190,Bitte tragen,Challenger,12,38,,67,28
+190,summoner-6346631,191,kamikazes,Challenger,9,130,,569,538
+191,summoner-6334109,192,ImberLord,Challenger,7,87,,88,76
+192,summoner-6672888,193,コグマウ,Challenger,0,147,,673,682
+193,summoner-9810252,194,ai0c0,Challenger,0,153,,413,423
+194,summoner-6179943,195,SWJ Sirotama,Challenger,0,189,,410,400
+195,summoner-6167765,196,RushRush,Challenger,15,120,,364,345
+196,summoner-6178156,197,スターアライズ,Challenger,0,72,,240,238
+197,summoner-6690754,198,Pomchan,Challenger,0,73,,229,233
+198,summoner-7970299,199,eji,Challenger,0,95,,215,212
+199,summoner-6161600,200,Resistance,Challenger,0,146,,144,128
+200,summoner-9400627,201,BQB Hollis,Challenger,86,39,,36,18
+201,summoner-12340710,202,Yuupo,Challenger,56,49,,112,70
+202,summoner-6161191,203,SuddenImpact,Challenger,8,90,,142,133
+203,summoner-6188164,204,ryo riven baka,Master,0,173,,280,256
+204,summoner-6178301,205,友達いない,Challenger,0,46,,90,52
+205,summoner-6694471,206,kimunyan,Master,0,50,,65,43
+206,summoner-6325043,207,Pegboard,Diamond 1,100,130,,345,321
+207,summoner-6180567,208,Yoshioka fanboy,Diamond 1,100,118,,235,196
+208,summoner-6185155,209,Snowy,Diamond 1,100,63,,109,105
+209,summoner-6460338,210,LJL LCK,Diamond 1,100,124,,79,31
+210,summoner-12892095,211,Matou SakuLago,Diamond 1,100,45,,69,43
+211,summoner-6310421,212,つめたいアイス,Diamond 1,100,104,,61,45
+212,summoner-7990200,213,GIRAFFE BLUES,Diamond 1,98,123,,94,73
+213,summoner-12440529,214,XJ9,Diamond 1,98,42,,77,54
+214,summoner-12780571,215,RumbleMidGG,Diamond 1,94,100,,419,373
+215,summoner-7650619,216,金之助,Diamond 1,94,74,,148,126
+216,summoner-6184102,217,kazujyou,Diamond 1,94,53,,63,51
+217,summoner-6306421,218,Te eT me,Diamond 1,92,66,,63,50
+218,summoner-13300155,219,ELSSUT,Diamond 1,91,42,,60,38
+219,summoner-8240246,220,KarenTia,Diamond 1,91,55,,47,31
+220,summoner-6662039,221,Voss,Diamond 1,90,72,,222,199
+221,summoner-6263116,222,メンヘラアカリ,Diamond 1,90,69,,178,134
+222,summoner-6695082,223,kyu3,Diamond 1,90,64,,164,139
+223,summoner-9280138,224,ナポの負けです,Diamond 1,90,64,,121,82
+224,summoner-10630472,225,斉藤さんだぞおお,Diamond 1,90,65,,106,61
+225,summoner-12640175,226,에이스,Diamond 1,90,49,,84,55
+226,summoner-6177760,227,ナポです,Diamond 1,90,46,,78,57
+227,summoner-13082345,228,あいのり,Diamond 1,90,66,,76,40
+228,summoner-6185511,229,爆買渡米人Mid,Diamond 1,90,49,,72,49
+229,summoner-6160589,230,Edicimoh,Diamond 1,90,64,,71,53
+230,summoner-6162519,231,日村勇紀,Diamond 1,90,96,,69,67
+231,summoner-7032219,232,サラブリマンダラ,Diamond 1,90,47,,59,45
+232,summoner-6185209,233,紫乃花,Diamond 1,90,82,,57,43
+233,summoner-6160480,234,いだゆうき,Diamond 1,90,114,,52,51
+234,summoner-6180960,235,yasai7428,Diamond 1,90,90,,49,44
+235,summoner-6700902,236,josette1,Diamond 1,90,54,,43,24
+236,summoner-6830422,237,やさいちゃん,Diamond 1,90,43,,41,33
+237,summoner-6438330,238,ʚLove Storyɞ,Diamond 1,89,96,,154,132
+238,summoner-6310277,239,telite,Diamond 1,89,123,,41,22
+239,summoner-6168578,240,TMR,Diamond 1,87,111,,120,90
+240,summoner-6781283,241,Big Dikが大好き,Diamond 1,84,73,,88,78
+241,summoner-6291999,242,joseete,Diamond 1,84,36,,30,8
+242,summoner-6613009,243,Kiyio1997,Diamond 1,83,103,,444,415
+243,summoner-9251049,244,sonaka,Diamond 1,83,48,,65,37
+244,summoner-6342265,245,Rer Chino,Diamond 1,82,64,,109,90
+245,summoner-6178586,246,あまねくん,Diamond 1,82,97,,73,62
+246,summoner-6782630,247,Asterisk,Diamond 1,81,38,,48,35
+247,summoner-6182103,248,Looking for mom,Diamond 1,80,121,,117,107
+248,summoner-6471239,249,kunisu,Diamond 1,80,124,,47,43
+249,summoner-6177317,250,Kayahaak,Diamond 1,79,70,,91,86
+250,summoner-6295370,251,純 白,Diamond 1,78,97,,90,87
+251,summoner-9640424,252,GoGoラスカル,Diamond 1,78,51,,65,56
+252,summoner-8620958,253,Revelate,Diamond 1,77,70,,62,49
+253,summoner-6293906,254,Rimlet,Diamond 1,76,101,,88,89
+254,summoner-6190805,255,Oasis,Diamond 1,75,95,,398,383
+255,summoner-6163765,256,俺はs6チャレだぞ,Diamond 1,75,93,,292,286
+256,summoner-6692581,257,日本工学院蒲田校,Diamond 1,75,124,,246,209
+257,summoner-12620351,258,Cold2,Diamond 1,75,113,,222,206
+258,summoner-8000222,259,yukime,Diamond 1,75,65,,202,187
+259,summoner-6682604,260,aszxd,Diamond 1,75,65,,191,149
+260,summoner-6161384,261,BQB knot,Diamond 1,75,65,,190,146
+261,summoner-8051232,262,laining,Diamond 1,75,82,,181,163
+262,summoner-6310169,263,Swift U,Diamond 1,75,78,,175,162
+263,summoner-7391403,264,ちょばむ,Diamond 1,75,72,,166,146
+264,summoner-6831275,265,LYNN,Diamond 1,75,80,,164,151
+265,summoner-13270147,266,詩 花,Diamond 1,75,63,,162,121
+266,summoner-6310837,267,なぎさ親衛隊隊長,Diamond 1,75,74,,150,129
+267,summoner-6461417,268,熱のど鼻にルル,Diamond 1,75,59,,146,132
+268,summoner-6831880,269,Roger,Diamond 1,75,76,,133,116
+269,summoner-13910902,270,3etRiia,Diamond 1,75,49,,128,94
+270,summoner-13270697,271,みやみず みつは,Diamond 1,75,54,,128,70
+271,summoner-6706604,272,Andexi,Diamond 1,75,62,,128,120
+272,summoner-6165439,273,Cellier,Diamond 1,75,66,,127,95
+273,summoner-6349800,274,未 来,Diamond 1,75,138,,123,115
+274,summoner-14170136,275,SpringtT,Diamond 1,75,44,,123,79
+275,summoner-9550126,276,お弁当のパセリ,Diamond 1,75,97,,118,109
+276,summoner-6184494,277,凸凸凸凸,Diamond 1,75,95,,117,115
+277,summoner-6324922,278,ironkuzu,Diamond 1,75,47,,115,88
+278,summoner-6161547,279,赤バフ,Diamond 1,75,94,,112,110
+279,summoner-9242269,280,MajokkoMirakurun,Diamond 1,75,46,,109,63
+280,summoner-6334954,281,みそかつ,Diamond 1,75,97,,107,83
+281,summoner-6181771,282,ZouSenpai,Diamond 1,75,75,,104,90
+282,summoner-8311557,283,연속살인마,Diamond 1,75,57,,102,77
+283,summoner-8650321,284,AdrickSY,Diamond 1,75,74,,99,83
+284,summoner-13850984,285,KOREA MID,Diamond 1,75,42,,93,61
+285,summoner-6173331,286,Wingz of Justice,Diamond 1,75,71,,70,61
+286,summoner-13930183,287,PTE Taka,Diamond 1,75,49,,69,56
+287,summoner-6188710,288,asroc,Diamond 1,75,48,,66,48
+288,summoner-6171873,289,Estelim,Diamond 1,75,63,,63,63
+289,summoner-14240637,290,Ardent Boy,Diamond 1,75,36,,53,24
+290,summoner-6695814,291,SCP 8900 EX,Diamond 1,75,66,,51,50
+291,summoner-6187427,292,料亭の味,Diamond 1,75,68,,43,38
+292,summoner-7410667,293,Dârius Bot,Diamond 1,75,41,,42,25
+293,summoner-7630188,294,o3o,Diamond 1,74,43,,40,34
+294,summoner-6693006,295,Nakamo Bot,Diamond 1,71,58,,181,158
+295,summoner-6323993,296,ぶるぶるブルーク,Diamond 1,71,57,,133,123
+296,summoner-8950510,297,XiL,Diamond 1,71,48,,108,99
+297,summoner-6311006,298,ぱおうるむー,Diamond 1,71,67,,96,73
+298,summoner-6314686,299,Lynss,Diamond 1,71,41,,65,52
+299,summoner-8851286,300,LastSurprise,Diamond 1,71,57,,60,44
+300,summoner-6292286,301,SlashFF,Diamond 1,70,86,,95,87
+301,summoner-6341644,302,Snowball,Diamond 1,70,68,,95,91
+302,summoner-8000226,303,周熙璇,Diamond 1,67,71,,122,122
+303,summoner-6682419,304,good player98,Diamond 1,67,50,,79,64
+304,summoner-14240638,305,Ardent Girl,Diamond 1,67,36,,53,25
+305,summoner-6172979,306,Abukun,Diamond 1,66,83,,48,37
+306,summoner-6178225,307,qaz,Diamond 1,65,86,,117,100
+307,summoner-6163261,308,A Ganker,Diamond 1,65,47,,73,50
+308,summoner-6171007,309,siina17,Diamond 1,65,70,,44,41
+309,summoner-6662388,310,alFJ,Diamond 1,64,48,,51,41
+310,summoner-8171326,311,hizikimogura,Diamond 1,63,62,,125,84
+311,summoner-6312631,312,りんな,Diamond 1,63,127,,102,100
+312,summoner-9810251,313,MoreMore,Diamond 1,63,83,,66,50
+313,summoner-6387948,314,kalusu,Diamond 1,61,115,,100,78
+314,summoner-6164040,315,イキり前Flash,Diamond 1,61,76,,80,62
+315,summoner-6347450,316,PoponM,Diamond 1,61,85,,55,48
+316,summoner-6327716,317,佐村河内,Diamond 1,60,92,,178,153
+317,summoner-6184992,318,えとな,Diamond 1,60,124,,112,107
+318,summoner-6170269,319,USG Enty 20,Diamond 1,60,48,,103,50
+319,summoner-6892805,320,chataro,Diamond 1,59,75,,207,195
+320,summoner-8400528,321,Bless you,Diamond 1,57,39,,50,35
+321,summoner-12030247,322,B00SH,Diamond 1,56,71,,187,178
+322,summoner-6693732,323,韆齧夾曖,Diamond 1,55,60,,92,95
+323,summoner-6451982,324,fedtakada,Diamond 1,54,84,,310,281
+324,summoner-9810202,325,ボノボ,Diamond 1,54,48,,70,67
+325,summoner-6314596,326,Zhonya警察,Diamond 1,54,116,,62,54
+326,summoner-6293357,327,Eugeo,Diamond 1,52,92,,114,108
+327,summoner-8201066,328,Yoshuloo,Diamond 1,52,81,,101,79
+328,summoner-6685498,329,wowsosmart,Diamond 1,50,79,,231,218
+329,summoner-10840209,330,レイライン,Diamond 1,50,77,,165,133
+330,summoner-6250704,331,SSR POPO,Diamond 1,50,71,,162,172
+331,summoner-6179491,332,ぐれちーも,Diamond 1,47,65,,131,133
+332,summoner-6272644,333,小原鞠莉,Diamond 1,47,51,,74,51
+333,summoner-6295309,334,Jackn,Diamond 1,47,76,,38,36
+334,summoner-11890264,335,Suffle,Diamond 1,46,49,,102,97
+335,summoner-9830341,336,我がままの子,Diamond 1,67,105,,248,234
+336,summoner-6385121,337,lllllllllllIllll,Diamond 1,44,49,,78,74
+337,summoner-6704337,338,Imeria,Diamond 1,42,102,,46,37
+338,summoner-6160674,339,張文遠,Diamond 1,41,93,,74,76
+339,summoner-6164909,340,更科にゃん丸,Diamond 1,41,70,,73,71
+340,summoner-6700839,341,天才ちんはんすう,Diamond 1,40,45,,94,63
+341,summoner-8760270,342,ちぃたん,Diamond 1,40,57,,54,29
+342,summoner-6701340,343,ＹＲＴＫＴ,Diamond 1,39,73,,258,201
+343,summoner-6169154,344,じゅぴた,Diamond 1,39,112,,92,80
+344,summoner-8812035,345,SinceSpeak,Diamond 1,37,51,,55,56
+345,summoner-6173733,346,なおゆー,Diamond 1,35,69,,33,22
+346,summoner-6451616,347,WEQ,Diamond 1,34,48,,44,31
+347,summoner-6696421,348,Vomero,Diamond 1,33,49,,96,92
+348,summoner-6303130,349,hienso,Diamond 1,30,104,,104,82
+349,summoner-13141700,350,らいじんの妹,Diamond 1,30,45,,104,77
+350,summoner-6404863,351,Nii,Diamond 1,28,75,,156,153
+351,summoner-6162489,352,亜城木夢叶,Diamond 1,28,80,,94,92
+352,summoner-6471427,353,貴方のためにしぬ,Diamond 1,28,79,,94,53
+353,summoner-6181132,354,慰めるゆうちゃん,Diamond 1,27,125,,151,133
+354,summoner-6691416,355,ふぁんく,Diamond 1,26,105,,160,167
+355,summoner-6175152,356,Baoh7,Diamond 1,25,165,,293,281
+356,summoner-9180490,357,愛吃豬蹄,Diamond 1,25,93,,179,166
+357,summoner-13900437,358,Astralfoxy,Diamond 1,25,51,,131,79
+358,summoner-7061063,359,らふいた,Diamond 1,25,100,,122,98
+359,summoner-6291688,360,SOZAIGOMI,Diamond 1,25,138,,83,75
+360,summoner-6312269,361,はしもとなんか,Diamond 1,25,86,,60,42
+361,summoner-10010863,362,łike,Diamond 1,24,161,,321,329
+362,summoner-6584565,363,BIue,Diamond 1,10,140,,233,177
+363,summoner-6732995,364,i have three JB,Diamond 1,24,62,,178,162
+364,summoner-8870666,365,ろーれる,Diamond 1,22,43,,89,75
+365,summoner-12710897,366,tetras,Diamond 1,21,113,,279,275
+366,summoner-6163194,367,RadiationDevice,Diamond 1,21,70,,90,82
+367,summoner-6703036,368,ジャックス様,Diamond 1,20,53,,28,9
+368,summoner-6188627,369,Hamburger500RP,Diamond 1,19,105,,277,251
+369,summoner-6682953,370,仮野明日那,Diamond 1,19,54,,135,127
+370,summoner-6292832,371,Selphi,Diamond 1,18,56,,66,65
+371,summoner-6317080,372,すろ倉,Diamond 1,16,67,,148,125
+372,summoner-9270156,373,そまなの,Diamond 1,14,90,,148,134
+373,summoner-6319410,374,らいじん,Diamond 1,13,94,,217,233
+374,summoner-13000643,375,Reksa2,Diamond 1,13,86,,208,200
+375,summoner-6681167,376,namaeomoitukanai,Diamond 1,12,110,,178,171
+376,summoner-6333107,377,雑 魚,Diamond 1,11,57,,157,122
+377,summoner-6312042,378,caffeine,Diamond 1,10,77,,135,132
+378,summoner-6922081,379,スターマン,Diamond 1,10,72,,60,24
+379,summoner-9590858,380,JuIie Sigtuna,Diamond 1,9,65,,110,96
+380,summoner-6164971,381,7461409,Diamond 1,8,66,,181,158
+381,summoner-9181794,382,Day of Justice,Diamond 1,6,49,,66,61
+382,summoner-12240297,383,うるいちゃん,Diamond 1,3,50,,139,124
+383,summoner-6180703,384,Emily is Away,Diamond 1,3,63,,105,80
+384,summoner-6165504,385,くらら,Diamond 1,2,107,,116,99
+385,summoner-6317430,386,山田健一,Diamond 1,0,93,,381,339
+386,summoner-6160874,387,ynnoK,Diamond 1,0,129,,369,371
+387,summoner-6321619,388,WICKED,Diamond 1,0,117,,241,232
+388,summoner-7801113,389,ちーぼう,Diamond 1,0,82,,213,194
+389,summoner-12980291,390,EsportsMan,Diamond 1,0,61,,181,151
+390,summoner-6303051,391,a56,Diamond 1,0,56,,181,184
+391,summoner-12910482,392,ぞぞちゃん,Diamond 1,0,73,,161,155
+392,summoner-10170932,393,Emitting,Diamond 1,0,59,,143,95
+393,summoner-9490395,394,urï,Diamond 1,0,49,,123,98
+394,summoner-6163258,395,KillyKilly JOKER,Diamond 1,0,149,,119,102
+395,summoner-6160768,396,Halbida,Diamond 1,0,97,,112,124
+396,summoner-6695449,397,四楓院夜一,Diamond 1,0,61,,103,84
+397,summoner-10720137,398,Miyamoto Karin,Diamond 1,0,47,,94,80
+398,summoner-8841631,399,BossBoy,Diamond 1,0,42,,79,68
+399,summoner-6773921,400,Nyou道バリケード,Diamond 1,0,120,,73,58
+400,summoner-6171531,401,maisuta,Diamond 1,0,88,,71,74
+401,summoner-6312737,402,Aura,Diamond 1,0,86,,69,68
+402,summoner-14060210,403,Sad Lonely boy,Diamond 1,0,42,,59,29
+403,summoner-6702114,404,絶ツインターボ,Diamond 1,0,70,,54,58
+404,summoner-10240215,405,USG Fate,Diamond 1,0,76,,41,41
+405,summoner-6344699,406,DUCK TOGO,Diamond 1,0,82,,41,34
+406,summoner-6307144,407,STAP細胞,Diamond 1,0,49,,40,24
+407,summoner-14450141,408,CGA Harunika,Diamond 1,0,35,,35,20
+408,summoner-6162945,409,チャーシュー吉田,Diamond 2,100,113,,172,166
+409,summoner-13780580,410,twitch M17Dee,Diamond 2,100,47,,140,89
+410,summoner-6804563,411,倫チャン,Diamond 2,100,96,,87,84
+411,summoner-12912077,412,TohsakAro Rain,Diamond 2,100,46,,82,49
+412,summoner-6180267,413,まじめです,Diamond 2,100,45,,69,66
+413,summoner-6852246,414,ThintoNの姉,Diamond 2,100,41,,56,54
+414,summoner-6161588,415,LuckyTamago,Diamond 2,96,124,,66,59
+415,summoner-6173806,416,蒼海舞香,Diamond 2,89,58,,154,131
+416,summoner-6186140,417,A Farmer,Diamond 2,84,58,,175,128
+417,summoner-6189217,418,はちみつスキン,Diamond 2,80,123,,184,191
+418,summoner-6162290,419,Candy Blossom,Diamond 2,75,91,,269,243
+419,summoner-13120294,420,土老帽,Diamond 2,75,80,,222,191
+420,summoner-6175311,421,mafuyumh,Diamond 2,75,76,,212,212
+421,summoner-7052549,422,Wolhaiksong,Diamond 2,75,57,,159,125
+422,summoner-6164002,423,AliceClare,Diamond 2,75,107,,156,148
+423,summoner-6633880,424,俺来年で18だぞ,Diamond 2,75,53,,145,113
+424,summoner-6704000,425,綺チャン,Diamond 2,75,56,,140,139
+425,summoner-13730771,426,花魁ーる,Diamond 2,75,44,,123,80
+426,summoner-13300153,427,7h Raizin,Diamond 2,75,45,,107,91
+427,summoner-6317693,428,Muras4k1,Diamond 2,75,71,,104,96
+428,summoner-6184017,429,kyp,Diamond 2,75,131,,86,71
+429,summoner-6343049,430,rKH,Diamond 2,75,63,,67,59
+430,summoner-6704755,431,Bomelee,Diamond 2,75,94,,50,27
+431,summoner-8970756,432,Ghost Flash,Diamond 2,75,36,,33,18
+432,summoner-13082021,433,Ardyn Izunia,Diamond 2,64,57,,185,161
+433,summoner-6792954,434,森先生,Diamond 2,63,45,,119,103
+434,summoner-6189236,435,tuyoinarin,Diamond 2,60,68,,111,105
+435,summoner-6178966,436,中卒ドラゴン,Diamond 2,63,88,,110,104
+436,summoner-6680199,437,エルおじ,Diamond 2,62,87,,331,319
+437,summoner-6691170,438,かしくそちゃんぷ,Diamond 2,62,55,,104,71
+438,summoner-6169156,439,ShiitakeForest,Diamond 2,61,108,,151,124
+439,summoner-6210087,440,DESTRUCTION,Diamond 2,61,45,,96,70
+440,summoner-6181949,441,BQB shu,Diamond 2,56,70,,79,84
+441,summoner-6240128,442,STAR,Diamond 2,54,106,,203,218
+442,summoner-7080358,443,私のためにしんで,Diamond 2,54,105,,131,133
+443,summoner-6702059,444,ごっふぃ3号,Diamond 2,54,55,,103,108
+444,summoner-6176654,445,Ηaze,Diamond 2,54,64,,102,117
+445,summoner-6168500,446,エンペラー,Diamond 2,54,65,,87,91
+446,summoner-6174051,447,伊瀬茉莉也,Diamond 2,53,62,,57,64
+447,summoner-6705064,448,Tombstone,Diamond 2,53,38,,40,27
+448,summoner-6343812,449,Pierre Marcolini,Diamond 2,47,82,,152,149
+449,summoner-6349578,450,xtan,Diamond 2,47,69,,125,113
+450,summoner-6317968,451,issue,Diamond 2,46,109,,219,226
+451,summoner-6181632,452,EinSchwein,Diamond 2,45,53,,87,82
+452,summoner-6335050,453,Jade Flawed,Diamond 2,43,125,,382,363
+453,summoner-6177307,454,mefyideru,Diamond 2,43,77,,36,36
+454,summoner-9531229,455,MicKun Juice,Diamond 2,42,142,,151,94
+455,summoner-6218262,456,手corki足corki,Diamond 2,28,49,,148,59
+456,summoner-8882075,457,moka,Diamond 2,41,99,,135,73
+457,summoner-6451627,458,100 Meteos,Diamond 2,41,44,,75,69
+458,summoner-6186568,459,Amý,Diamond 2,40,143,,118,95
+459,summoner-6163133,460,Souler,Diamond 2,40,86,,98,104
+460,summoner-6344416,461,Ooさくらんぼ姫oO,Diamond 2,35,51,,56,49
+461,summoner-6163964,462,MID DIE,Diamond 2,16,95,,112,114
+462,summoner-6450342,463,Marry me,Diamond 2,32,39,,90,56
+463,summoner-12861457,464,UzukiLove,Diamond 2,32,50,,76,76
+464,summoner-6163203,465,NinjasHyper,Diamond 2,32,48,,61,52
+465,summoner-6179546,466,MadEmperor,Diamond 2,30,119,,56,65
+466,summoner-6189683,467,aripo,Diamond 2,28,102,,49,43
+467,summoner-6181161,468,なつは,Diamond 2,26,68,,126,131
+468,summoner-13111222,469,Barnes,Diamond 2,25,74,,324,293
+469,summoner-6301186,470,Chic man,Diamond 2,25,83,,238,218
+470,summoner-6691089,471,飛天流刀妹,Diamond 2,25,56,,161,142
+471,summoner-6195800,472,3onihS,Diamond 2,25,90,,135,147
+472,summoner-6162143,473,阿弥陀丸in春夢,Diamond 2,25,57,,134,90
+473,summoner-6165481,474,XJSwagger,Diamond 2,25,49,,118,82
+474,summoner-6451310,475,みずぴ,Diamond 2,25,88,,101,81
+475,summoner-6694477,476,たまちゃん,Diamond 2,25,76,,99,90
+476,summoner-9820199,477,ihE,Diamond 2,25,41,,90,37
+477,summoner-6164153,478,いぎりす,Diamond 2,25,71,,50,48
+478,summoner-13830960,479,wugn,Diamond 2,24,46,,117,96
+479,summoner-6313167,480,札幌商工会議所付属専門学校,Diamond 2,23,74,,120,69
+480,summoner-6184656,481,ろロrolo,Diamond 2,22,92,,165,148
+481,summoner-6803124,482,アンパンマン大佐,Diamond 2,22,59,,125,106
+482,summoner-6348556,483,双海真美,Diamond 2,33,121,,67,42
+483,summoner-6317289,484,uinyan,Diamond 2,21,89,,222,225
+484,summoner-6810315,485,堀之内九一郎,Diamond 2,20,56,,113,87
+485,summoner-6703512,486,えくちーも,Diamond 2,20,79,,55,52
+486,summoner-6187181,487,darkthinPooEX,Diamond 2,6,58,,38,30
+487,summoner-6186963,488,おにぎりの梅,Diamond 2,19,77,,216,200
+488,summoner-8570617,489,Fragment,Diamond 2,16,59,,173,146
+489,summoner-13800200,490,Νightblue3,Diamond 2,16,51,,145,85
+490,summoner-6170964,491,Insomania,Diamond 2,15,65,,58,44
+491,summoner-10120485,492,グラタン,Diamond 2,13,73,,128,115
+492,summoner-6173521,493,arenbatiko,Diamond 2,12,97,,102,91
+493,summoner-7740207,494,AD USER,Diamond 2,11,38,,34,28
+494,summoner-6170948,495,ざ  び,Diamond 2,10,132,,121,97
+495,summoner-6184849,496,GAOOOOOO,Diamond 2,9,59,,136,114
+496,summoner-6160682,497,Aporomoon,Diamond 2,8,71,,165,177
+497,summoner-6930647,498,No more perm,Diamond 2,7,66,,248,244
+498,summoner-7300433,499,Nothimoy,Diamond 2,7,59,,138,97
+499,summoner-6831198,500,ぱにょ,Diamond 2,7,44,,60,50
+500,summoner-6731229,501,あにこ,Diamond 2,1,135,,283,246
+501,summoner-6243133,502,命に嫌われている,Diamond 2,0,152,,816,788
+502,summoner-6181282,503,王 騎,Diamond 2,0,117,,402,399
+503,summoner-6694700,504,びろろろ,Diamond 2,0,77,,164,109
+504,summoner-6187517,505,gussan225,Diamond 2,0,108,,157,133
+505,summoner-8250219,506,MrTolkien,Diamond 2,0,66,,153,161
+506,summoner-6291695,507,Larie29,Diamond 2,0,62,,111,114
+507,summoner-8802152,508,foniXD,Diamond 2,0,53,,100,71
+508,summoner-6300312,509,ginTab,Diamond 2,0,99,,98,64
+509,summoner-14660135,510,Stealth User,Diamond 2,0,42,,93,73
+510,summoner-6291904,511,GumLOL,Diamond 2,0,88,,93,116
+511,summoner-6251779,512,Maradekaiser,Diamond 2,0,56,,83,59
+512,summoner-14120461,513,19Hz,Diamond 2,0,40,,78,46
+513,summoner-6166437,514,RabbitFive,Diamond 2,0,41,,74,63
+514,summoner-11510173,515,ぽきぽん,Diamond 2,0,83,,65,55
+515,summoner-6450158,516,AFKT T1 AFKER,Diamond 2,0,83,,40,35
+516,summoner-9861164,517,こだまでしょうか,Diamond 3,100,81,,257,258
+517,summoner-6694355,518,Fomalhaut,Diamond 3,100,195,,224,209
+518,summoner-6184089,519,Lockon Stratos,Diamond 3,100,84,,142,135
+519,summoner-10280592,520,えふぃ,Diamond 3,100,79,,135,104
+520,summoner-11960312,521,NB3 fanboy,Diamond 3,100,88,,133,111
+521,summoner-6166865,522,Ikamirup,Diamond 3,100,58,,64,45
+522,summoner-6166905,523,Kirby,Diamond 3,97,55,,41,20
+523,summoner-6438788,524,urgot only,Diamond 3,96,73,,262,233
+524,summoner-6175075,525,琴葉葵ちゃん,Diamond 3,92,103,,185,170
+525,summoner-6299637,526,たこたこ,Diamond 3,92,43,,23,12
+526,summoner-6701886,527,Z z,Diamond 3,90,54,,62,34
+527,summoner-6872549,528,Lonely,Diamond 3,88,108,,219,203
+528,summoner-6616908,529,Kanpo,Diamond 3,85,41,,73,47
+529,summoner-6299556,530,rA9,Diamond 3,83,72,,192,194
+530,summoner-6183577,531,FeeeeeelsGoodMan,Diamond 3,83,86,,180,170
+531,summoner-6314777,532,REIMEN2422,Diamond 3,83,133,,46,37
+532,summoner-6743522,533,Canaan00,Diamond 3,82,102,,83,76
+533,summoner-13711002,534,BOBO KAMPI,Diamond 3,76,49,,165,134
+534,summoner-6173063,535,透明シャルクルス,Diamond 3,76,63,,98,79
+535,summoner-6764369,536,Osaka1oN,Diamond 3,75,90,,316,303
+536,summoner-6912310,537,XieL,Diamond 3,75,122,,240,243
+537,summoner-6331904,538,Crimson Cascadё,Diamond 3,75,81,,210,204
+538,summoner-6180653,539,Clockday,Diamond 3,75,64,,200,188
+539,summoner-6324998,540,JH1N内智則,Diamond 3,75,67,,160,150
+540,summoner-6327228,541,Doranpen,Diamond 3,75,61,,147,133
+541,summoner-7190745,542,dancing侍,Diamond 3,75,47,,125,94
+542,summoner-6681245,543,会田薫,Diamond 3,75,72,,112,90
+543,summoner-12741109,544,mugiちゃん,Diamond 3,75,65,,105,79
+544,summoner-8840482,545,bbigbear,Diamond 3,75,151,,99,103
+545,summoner-6170869,546,Vtuber fanboy,Diamond 3,75,114,,94,96
+546,summoner-6293313,547,あいむすりーぴー,Diamond 3,75,46,,87,45
+547,summoner-6171577,548,f0cus,Diamond 3,75,57,,87,73
+548,summoner-12230249,549,V3 Maplestreet,Diamond 3,75,44,,68,60
+549,summoner-9800188,550,CG hachamecha,Diamond 3,75,58,,59,44
+550,summoner-12180908,551,Lisel0tte,Diamond 3,75,58,,54,32
+551,summoner-6160278,552,234,Diamond 3,75,43,,40,22
+552,summoner-6311421,553,はちゃめちゃ,Diamond 3,75,42,,37,30
+553,summoner-6295029,554,えんてぃ,Diamond 3,75,45,,36,23
+554,summoner-6443237,555,Sworf,Diamond 3,73,92,,268,221
+555,summoner-11820713,556,斗魚TV丶檸檬人,Diamond 3,73,40,,39,35
+556,summoner-6692602,557,BunNyAnn,Diamond 3,72,80,,370,339
+557,summoner-6316612,558,11soul,Diamond 3,72,53,,78,76
+558,summoner-6705587,559,5959,Diamond 3,72,38,,29,12
+559,summoner-6460637,560,th123,Diamond 3,71,71,,102,95
+560,summoner-6163776,561,Icoryze,Diamond 3,70,133,,677,669
+561,summoner-6163610,562,kumao,Diamond 3,70,91,,86,87
+562,summoner-6184406,563,tei syndrome,Diamond 3,70,45,,64,57
+563,summoner-6164024,564,まこも,Diamond 3,69,70,,104,82
+564,summoner-6160706,565,ゆりあ,Diamond 3,69,92,,73,73
+565,summoner-6181086,566,sorrymybad3,Diamond 3,69,93,,39,38
+566,summoner-6187898,567,CxAneki,Diamond 3,64,109,,365,358
+567,summoner-7020641,568,See Threepio,Diamond 3,63,48,,86,58
+568,summoner-6394975,569,Chernobyl,Diamond 3,63,43,,33,20
+569,summoner-6173582,570,Zaraky bot,Diamond 3,62,101,,305,301
+570,summoner-9500440,571,姫サポートちゃん,Diamond 3,60,107,,32,28
+571,summoner-12981043,572,シンデレラ多田,Diamond 3,59,52,,144,115
+572,summoner-6702599,573,Emp 小e神,Diamond 3,59,83,,133,132
+573,summoner-6461191,574,sundwe,Diamond 3,58,73,,180,178
+574,summoner-9141141,575,有心論,Diamond 3,58,71,,168,145
+575,summoner-13121314,576,ゅぃぃぃ,Diamond 3,57,38,,60,34
+576,summoner-6324277,577,D Rose,Diamond 3,56,130,,191,163
+577,summoner-6167450,578,kasaishouta12345,Diamond 3,56,87,,108,115
+578,summoner-6335258,579,ソリアゲ王者ハサキング,Diamond 3,56,95,,50,37
+579,summoner-6305393,580,zuiha,Diamond 3,54,95,,194,171
+580,summoner-6160440,581,19960821,Diamond 3,54,93,,57,54
+581,summoner-6317975,582,野生の生クリーム,Diamond 3,53,77,,87,74
+582,summoner-6167874,583,エトピリカ,Diamond 3,39,78,,66,50
+583,summoner-6319121,584,サモナ一ズリフト,Diamond 3,51,115,,248,214
+584,summoner-6335404,585,GOLD DARIUS,Diamond 3,50,91,,207,196
+585,summoner-6683516,586,卍悪霊退散卍前田卍魑魅魍魎卍,Diamond 3,49,39,,49,39
+586,summoner-7460217,587,Conside,Diamond 3,48,68,,191,155
+587,summoner-6700147,588,vanhouten,Diamond 3,48,91,,95,70
+588,summoner-8671253,589,Badult,Diamond 3,48,67,,55,22
+589,summoner-6188387,590,TOXIC BRAD,Diamond 3,47,122,,192,186
+590,summoner-11001098,591,kimitaka,Diamond 3,46,86,,280,233
+591,summoner-6183482,592,ミルコビッチ,Diamond 3,46,95,,111,108
+592,summoner-14290528,593,ふわたゃを,Diamond 3,46,36,,43,17
+593,summoner-6162645,594,Absolute Zer0,Diamond 3,45,45,,55,29
+594,summoner-14610620,595,アシホ,Diamond 3,45,36,,53,25
+595,summoner-6177230,596,Ruelo,Diamond 3,44,113,,213,201
+596,summoner-6752556,597,SUPERHOTSUPERHOT,Diamond 3,44,90,,123,98
+597,summoner-12620827,598,Reón,Diamond 3,44,46,,81,71
+598,summoner-8301594,599,Potata,Diamond 3,43,74,,294,263
+599,summoner-6173874,600,おぎん,Diamond 3,42,94,,106,112
+600,summoner-6470188,601,機動戦士ガベダム,Diamond 3,41,54,,118,129
+601,summoner-6173238,602,こんそめ,Diamond 3,41,83,,32,27
+602,summoner-6593645,603,Makase uN,Diamond 3,40,132,,232,227
+603,summoner-6232951,604,Eni,Diamond 3,39,61,,78,45
+604,summoner-6167874,605,エトピリカ,Diamond 3,39,78,,66,50
+605,summoner-12820181,606,Безработные,Diamond 3,39,35,,37,5
+606,summoner-8610350,607,勇者ほっともっと,Diamond 3,38,74,,119,86
+607,summoner-9910399,608,レディーガガ,Diamond 3,38,76,,49,28
+608,summoner-12020129,609,JPN reo,Diamond 3,37,72,,80,84
+609,summoner-8821760,610,しゅかしゅ,Diamond 3,36,43,,102,69
+610,summoner-6172999,611,Rend,Diamond 3,32,81,,87,74
+611,summoner-6160973,612,みやび,Diamond 3,29,54,,68,47
+612,summoner-8970887,613,山梨太郎君,Diamond 3,29,45,,49,12
+613,summoner-13111021,614,緊急退学,Diamond 3,28,56,,158,148
+614,summoner-10880685,615,おわきんぐ,Diamond 3,28,54,,80,68
+615,summoner-6183316,616,AmA,Diamond 3,27,113,,133,124
+616,summoner-6346156,617,香川広憲の亡霊,Diamond 3,26,41,,60,47
+617,summoner-10670497,618,あやりん,Diamond 3,25,83,,177,179
+618,summoner-6176277,619,hotzushi,Diamond 3,25,49,,161,129
+619,summoner-6183136,620,れもんまん,Diamond 3,25,70,,123,124
+620,summoner-6176839,621,username,Diamond 3,25,46,,96,56
+621,summoner-12371172,622,PaladinXD,Diamond 3,25,90,,96,74
+622,summoner-12851604,623,バイト戦士鈴羽,Diamond 3,25,54,,94,68
+623,summoner-13090209,624,pureheart player,Diamond 3,25,80,,76,51
+624,summoner-13480413,625,MID Emper0r,Diamond 3,25,41,,69,37
+625,summoner-6393298,626,Best Sona JP,Diamond 3,25,44,,62,27
+626,summoner-6694950,627,シンデレラ前川,Diamond 3,25,53,,47,35
+627,summoner-6171872,628,キバオウ,Diamond 3,25,48,,39,23
+628,summoner-6171123,629,ちびゅー,Diamond 3,24,76,,208,189
+629,summoner-8670315,630,fun XD,Diamond 3,24,37,,23,11
+630,summoner-8110259,631,deeex,Diamond 3,21,85,,112,119
+631,summoner-6290460,632,BlankNoir,Diamond 3,20,119,,348,326
+632,summoner-6616875,633,腰腰腰腰腰腰腰,Diamond 3,20,105,,49,33
+633,summoner-6680908,634,SneakyCastro,Diamond 3,19,77,,145,147
+634,summoner-6171102,635,ROX syaruru,Diamond 3,19,53,,143,139
+635,summoner-6181109,636,mizukami,Diamond 3,18,142,,326,316
+636,summoner-6693403,637,NeetNanaAil,Diamond 3,18,99,,226,186
+637,summoner-6733366,638,Wynn,Diamond 3,18,109,,154,129
+638,summoner-6301499,639,TimeNoodles,Diamond 3,18,72,,112,95
+639,summoner-12240261,640,韓国ダイヤ,Diamond 3,18,72,,92,95
+640,summoner-6180120,641,めぐみぃん,Diamond 3,18,103,,29,22
+641,summoner-6160669,642,otuno,Diamond 3,27,48,,28,19
+642,summoner-10210222,643,THE BM LORD,Diamond 3,17,145,,218,201
+643,summoner-6294057,644,luizana,Diamond 3,17,121,,153,135
+644,summoner-6292756,645,お饅頭コンバット,Diamond 3,17,47,,87,71
+645,summoner-6179383,646,あるべりー,Diamond 3,16,90,,150,146
+646,summoner-6301737,647,Ricca,Diamond 3,16,107,,110,90
+647,summoner-6176116,648,八乙女梓乃,Diamond 3,14,98,,174,158
+648,summoner-6161590,649,Haru,Diamond 3,14,89,,86,90
+649,summoner-6682874,650,LL Stylish,Diamond 3,14,43,,29,26
+650,summoner-6881557,651,shiro,Diamond 3,13,89,,182,155
+651,summoner-6325592,652,PhantomDeathBeta,Diamond 3,13,49,,78,78
+652,summoner-6311411,653,DianyA JP,Diamond 3,13,169,,45,33
+653,summoner-6303428,654,かぶぷん,Diamond 3,12,96,,160,170
+654,summoner-6290757,655,Resin,Diamond 3,10,92,,110,111
+655,summoner-6203445,656,1990 Oid man,Diamond 3,8,49,,135,108
+656,summoner-6181150,657,PCG owl,Diamond 3,6,83,,22,15
+657,summoner-6290826,658,絶食系男子,Diamond 3,4,112,,198,181
+658,summoner-6182263,659,しじみん,Diamond 3,3,152,,417,390
+659,summoner-6170857,660,未 玲,Diamond 3,3,124,,244,226
+660,summoner-6175268,661,Anasterse,Diamond 3,3,106,,72,59
+661,summoner-6690868,662,VallisLiccia,Diamond 3,1,47,,78,52
+662,summoner-6323905,663,TwitchMainOkita,Diamond 3,0,142,,552,529
+663,summoner-6176905,664,Elmyr,Diamond 3,0,108,,377,342
+664,summoner-7600153,665,ZhanQiSuSuSu,Diamond 3,0,130,,344,300
+665,summoner-6690196,666,kemukujara,Diamond 3,0,93,,259,238
+666,summoner-6704376,667,KIY Oshi,Diamond 3,0,64,,221,186
+667,summoner-13072105,668,daftness,Diamond 3,0,52,,118,91
+668,summoner-7230540,669,東京ジェラシィ,Diamond 3,0,58,,103,97
+669,summoner-9231455,670,KTRolster8,Diamond 3,0,47,,92,69
+670,summoner-14470140,671,ちいたん,Diamond 3,0,42,,89,73
+671,summoner-6365937,672,Melodyuko,Diamond 3,0,60,,87,79
+672,summoner-6684303,673,キヨシ,Diamond 3,0,69,,85,67
+673,summoner-6700558,674,Live and Learn,Diamond 3,0,52,,84,87
+674,summoner-6704681,675,Che1ucY,Diamond 3,0,55,,82,65
+675,summoner-6176027,676,おぐろと,Diamond 3,0,62,,80,61
+676,summoner-6332554,677,Rekkles,Diamond 3,0,48,,79,67
+677,summoner-6333769,678,nocchiPanty,Diamond 3,0,41,,76,56
+678,summoner-6970824,679,Tanto custom,Diamond 3,0,49,,75,62
+679,summoner-6293258,680,サポ野バブ美,Diamond 3,0,135,,74,66
+680,summoner-6171392,681,くりす,Diamond 3,0,91,,68,51
+681,summoner-6304831,682,ムシキング,Diamond 3,0,43,,64,64
+682,summoner-6336507,683,kudryavka1991,Diamond 3,0,102,,63,50
+683,summoner-6319269,684,いんでっくす,Diamond 3,0,77,,47,53
+684,summoner-13050222,685,みゅうだょ,Diamond 3,0,38,,47,24
+685,summoner-6700903,686,Nidalee AI,Diamond 3,0,40,,31,29
+686,summoner-6701782,687,kokokokokoko,Diamond 3,0,42,,30,20
+687,summoner-6181362,688,藤尾マサ,Diamond 4,100,82,,320,323
+688,summoner-6693049,689,Meménto Mori,Diamond 4,100,62,,225,186
+689,summoner-6180951,690,Larc,Diamond 4,100,94,,182,171
+690,summoner-6176621,691,Daath,Diamond 4,100,82,,115,105
+691,summoner-12440459,692,先生は孫笑川,Diamond 4,100,54,,112,70
+692,summoner-6189281,693,あすき,Diamond 4,100,110,,96,74
+693,summoner-7630197,694,ÿøšhüłõö,Diamond 4,100,56,,65,53
+694,summoner-6348343,695,SGL Throne,Diamond 4,100,45,,64,40
+695,summoner-6671963,696,脳内Montage,Diamond 4,100,41,,46,35
+696,summoner-8321667,697,温かいビデ,Diamond 4,97,46,,102,66
+697,summoner-6299663,698,ㅋㅋㅋ,Diamond 4,93,67,,56,42
+698,summoner-6173492,699,lllllllllllIII,Diamond 4,92,91,,242,230
+699,summoner-6700165,700,せやろかえふ,Diamond 4,92,62,,38,32
+700,summoner-6611761,701,HikikomoriADC,Diamond 4,91,50,,147,110
+701,summoner-13070705,702,チアキFrom TW,Diamond 4,91,43,,67,36
+702,summoner-13230137,703,ELMO IN JP,Diamond 4,90,50,,138,100
+703,summoner-9520348,704,erza9425,Diamond 4,90,39,,60,29
+704,summoner-6298059,705,べあー,Diamond 4,90,44,,42,38
+705,summoner-6170777,706,ふんどし日本丸,Diamond 4,90,57,,40,27
+706,summoner-6331326,707,RQ konomekaze,Diamond 4,90,53,,35,30
+707,summoner-11890219,708,Scrawboy,Diamond 4,89,58,,204,189
+708,summoner-6325492,709,EySSS,Diamond 4,88,67,,233,200
+709,summoner-6310418,710,Pitch and Bent,Diamond 4,85,85,,256,260
+710,summoner-11140602,711,19980810,Diamond 4,85,59,,178,149
+711,summoner-6172003,712,贅肉おばけ,Diamond 4,85,81,,58,49
+712,summoner-6176418,713,Forget me not,Diamond 4,84,55,,82,62
+713,summoner-11810890,714,コモレビの下,Diamond 4,84,39,,74,46
+714,summoner-6337433,715,onkami,Diamond 4,84,56,,52,28
+715,summoner-13380228,716,ゆめちゅん,Diamond 4,82,54,,125,91
+716,summoner-6302829,717,Deazo,Diamond 4,82,77,,87,69
+717,summoner-6178665,718,yumeat,Diamond 4,81,98,,260,260
+718,summoner-7280872,719,星崎希望,Diamond 4,81,62,,124,69
+719,summoner-6177378,720,llIIlIlIIIIllllI,Diamond 4,80,37,,58,43
+720,summoner-6701048,721,MаroZitE,Diamond 4,77,92,,126,100
+721,summoner-6843271,722,俺は行く,Diamond 4,76,123,,422,407
+722,summoner-7030942,723,とりき,Diamond 4,75,121,,375,378
+723,summoner-6169011,724,zakosuaran,Diamond 4,75,93,,310,294
+724,summoner-6861306,725,Rari城ドラ,Diamond 4,75,136,,285,271
+725,summoner-7380786,726,omtom1,Diamond 4,75,63,,211,210
+726,summoner-13670263,727,すこぶる動くウサギ,Diamond 4,75,51,,163,121
+727,summoner-6791751,728,sekususimasyo,Diamond 4,75,100,,143,80
+728,summoner-6450887,729,もぅﾏﾁﾞ無理 死ンヂャオ,Diamond 4,75,52,,119,93
+729,summoner-13280157,730,RJ Fanxy1,Diamond 4,75,47,,117,93
+730,summoner-6170500,731,り ん,Diamond 4,75,64,,103,111
+731,summoner-6168484,732,Etoile,Diamond 4,75,71,,101,104
+732,summoner-6336404,733,Tokoyuki,Diamond 4,75,71,,95,70
+733,summoner-6830175,734,EleaNoR,Diamond 4,75,73,,94,64
+734,summoner-7011396,735,Snows,Diamond 4,75,49,,89,70
+735,summoner-6331277,736,1715,Diamond 4,75,80,,82,71
+736,summoner-6310122,737,gaegwae,Diamond 4,75,48,,62,56
+737,summoner-7260357,738,Solo Horkew,Diamond 4,75,39,,60,49
+738,summoner-12610863,739,cotton candy,Diamond 4,75,43,,59,18
+739,summoner-6185426,740,maeken,Diamond 4,75,70,,47,32
+740,summoner-9810205,741,リトルデーモン,Diamond 4,75,52,,45,25
+741,summoner-9550124,742,7h RIP,Diamond 4,75,41,,41,25
+742,summoner-6173906,743,ミニスカート,Diamond 4,74,142,,138,119
+743,summoner-6461466,744,どぶさいく,Diamond 4,73,114,,142,132
+744,summoner-6165496,745,Leeroy Jenkins,Diamond 4,73,46,,63,54
+745,summoner-6700400,746,rogiaaa,Diamond 4,72,58,,103,88
+746,summoner-7360731,747,俺はs4マスター,Diamond 4,72,44,,69,51
+747,summoner-6292221,748,Yxum,Diamond 4,71,90,,199,185
+748,summoner-7891371,749,北見六花,Diamond 4,70,73,,85,48
+749,summoner-6394809,750,とっぱー,Diamond 4,69,115,,231,220
+750,summoner-6297288,751,新田美波,Diamond 4,69,50,,43,40
+751,summoner-6701006,752,TonkatsuSauce,Diamond 4,67,83,,218,184
+752,summoner-6931020,753,coyoi,Diamond 4,67,87,,165,157
+753,summoner-14040801,754,ctgwaybmkr,Diamond 4,85,71,,239,210
+754,summoner-6182749,755,れもんさんだよ,Diamond 4,66,73,,171,175
+755,summoner-6701131,756,Zeeerry,Diamond 4,65,99,,330,310
+756,summoner-6164321,757,mesya,Diamond 4,65,106,,153,125
+757,summoner-6706323,758,ACE OF KANI,Diamond 4,65,74,,125,118
+758,summoner-6165388,759,yurinn,Diamond 4,65,72,,70,54
+759,summoner-6160698,760,441,Diamond 4,64,68,,172,180
+760,summoner-6441172,761,jhin IS GOD,Diamond 4,63,75,,101,111
+761,summoner-12010132,762,ejii,Diamond 4,62,44,,84,61
+762,summoner-6940141,763,海のくまさん,Diamond 4,61,77,,361,335
+763,summoner-6704155,764,394,Diamond 4,61,40,,74,35
+764,summoner-6187442,765,moriwo god,Diamond 4,60,51,,49,30
+765,summoner-6202006,766,Huya丶Dop4,Diamond 4,60,41,,40,32
+766,summoner-6173837,767,ネオス,Diamond 4,59,81,,125,134
+767,summoner-6162657,768,Khaten,Diamond 4,58,87,,155,152
+768,summoner-6694459,769,Against All Odds,Diamond 4,58,137,,95,94
+769,summoner-6160967,770,あにーぼっと,Diamond 4,58,82,,42,43
+770,summoner-6187760,771,凖 提,Diamond 4,56,84,,239,229
+771,summoner-10250446,772,ねこみみ,Diamond 4,56,162,,205,169
+772,summoner-6329451,773,Dopaaa,Diamond 4,56,46,,86,60
+773,summoner-6167631,774,きみがすき,Diamond 4,54,94,,95,79
+774,summoner-6187805,775,べると,Diamond 4,54,78,,73,42
+775,summoner-13140250,776,おとろえ,Diamond 4,53,66,,199,162
+776,summoner-6172774,777,ぺろぺろしてぇな,Diamond 4,53,126,,126,87
+777,summoner-6685231,778,GokdWing,Diamond 4,53,39,,75,51
+778,summoner-6173745,779,美靏姬,Diamond 4,73,40,,71,53
+779,summoner-8491290,780,S2CcReece,Diamond 4,52,46,,127,66
+780,summoner-7391804,781,やばいleo,Diamond 4,52,84,,93,81
+781,summoner-6172444,782,nesscrystal,Diamond 4,52,43,,56,47
+782,summoner-6328054,783,BANKOISER,Diamond 4,51,102,,225,193
+783,summoner-6312931,784,Macarong v2,Diamond 4,51,50,,146,74
+784,summoner-8701271,785,LTB Sin,Diamond 4,51,66,,142,109
+785,summoner-6321167,786,Demrofer,Diamond 4,51,69,,103,89
+786,summoner-6166047,787,むっちょ,Diamond 4,51,86,,89,78
+787,summoner-6176851,788,きばみ,Diamond 4,51,75,,46,48
+788,summoner-6292029,789,Shiruma,Diamond 4,50,103,,154,144
+789,summoner-12820173,790,超銀河T1NPO,Diamond 4,50,54,,148,132
+790,summoner-14230703,791,chocotto,Diamond 4,50,45,,117,86
+791,summoner-6323019,792,GANJA NINJA,Diamond 4,50,56,,96,96
+792,summoner-9930186,793,7357,Diamond 4,50,49,,52,30
+793,summoner-6377670,794,Nightcolor,Diamond 4,49,123,,173,148
+794,summoner-6209791,795,Duxiilillilil,Diamond 4,48,144,,89,86
+795,summoner-6162091,796,Rebel blade,Diamond 4,46,92,,189,186
+796,summoner-6682043,797,Poppy chan,Diamond 4,46,66,,100,86
+797,summoner-7041550,798,Pito,Diamond 4,46,123,,65,53
+798,summoner-6292039,799,hanyu,Diamond 4,45,67,,185,182
+799,summoner-6322460,800,俺にかかれば2秒でマダガスカル,Diamond 4,44,42,,55,57
+800,summoner-6164245,801,kasujyou,Diamond 4,44,50,,39,26
+801,summoner-6298524,802,もこけね,Diamond 4,43,132,,252,244
+802,summoner-6690177,803,509 Is,Diamond 4,43,69,,69,61
+803,summoner-6189958,804,のちのち,Diamond 4,43,52,,69,58
+804,summoner-9810204,805,くぅちゃん,Diamond 4,43,110,,66,50
+805,summoner-6344063,806,勇者あああああ,Diamond 4,43,71,,50,46
+806,summoner-10901336,807,ℱĄKʃℛ,Diamond 4,42,85,,212,180
+807,summoner-6291049,808,Jerard,Diamond 4,42,94,,72,47
+808,summoner-8130161,809,集いし願いが新たに輝く星となる光,Diamond 4,42,64,,67,61
+809,summoner-6651348,810,LなoまL,Diamond 4,42,58,,64,35
+810,summoner-6348974,811,雪 梨,Diamond 4,42,137,,37,21
+811,summoner-13081642,812,イカレちんぽこ丸,Diamond 4,41,90,,162,129
+812,summoner-6173795,813,冰 糖,Diamond 4,40,158,,169,157
+813,summoner-6294994,814,ひろっぺん,Diamond 4,40,75,,163,147
+814,summoner-6161708,815,とうま,Diamond 4,40,55,,111,100
+815,summoner-12511187,816,最終のボス,Diamond 4,40,62,,40,39
+816,summoner-6283018,817,Dokurou,Diamond 4,39,96,,268,254
+817,summoner-6307952,818,ヌヲヌバ,Diamond 4,39,85,,217,192
+818,summoner-12950656,819,おじゃまるお,Diamond 4,39,59,,146,105
+819,summoner-6299347,820,W上げ本田圭佑,Diamond 4,39,97,,145,130
+820,summoner-6318960,821,チーズスタリオン,Diamond 4,38,83,,153,161
+821,summoner-6327349,822,ちょこまか,Diamond 4,38,95,,127,122
+822,summoner-7070260,823,松田超人最強伝説,Diamond 4,38,99,,59,43
+823,summoner-9620151,824,VioIeT,Diamond 4,37,59,,127,127
+824,summoner-14070171,825,Aussie,Diamond 4,37,63,,110,98
+825,summoner-7470187,826,ヤスオBANします,Diamond 4,37,89,,100,78
+826,summoner-6347482,827,かげを,Diamond 4,37,113,,50,43
+827,summoner-6180679,828,てれくしー,Diamond 4,36,94,,126,123
+828,summoner-6686136,829,Coba1t,Diamond 4,36,121,,112,100
+829,summoner-6250300,830,Rhivarak,Diamond 4,35,57,,184,164
+830,summoner-6169090,831,123123123,Diamond 4,35,99,,134,103
+831,summoner-6314810,832,Livraa,Diamond 4,35,96,,76,58
+832,summoner-6681244,833,PontaCard,Diamond 4,35,82,,70,57
+833,summoner-6297571,834,469ma,Diamond 4,34,73,,121,105
+834,summoner-6703664,835,LoveLoveRyutin,Diamond 4,34,45,,94,71
+835,summoner-6681539,836,INnoVation,Diamond 4,32,72,,127,123
+836,summoner-6215158,837,dogyzz,Diamond 4,32,110,,43,40
+837,summoner-6691420,838,ぼんぽち,Diamond 4,31,70,,110,98
+838,summoner-9521124,839,Mystix,Diamond 4,29,44,,55,42
+839,summoner-12940514,840,飲酒LoLマン,Diamond 4,28,44,,82,49
+840,summoner-6292126,841,kurooon,Diamond 4,27,92,,111,100
+841,summoner-12520695,842,ヨンジェ,Diamond 4,27,55,,79,55
+842,summoner-6175753,843,MOU MURI,Diamond 4,26,107,,162,126
+843,summoner-8320349,844,李愛希,Diamond 4,26,145,,99,69
+844,summoner-6345889,845,Fine2162,Diamond 4,26,75,,37,25
+845,summoner-9420186,846,Sprayz,Diamond 4,25,74,,315,281
+846,summoner-13230202,847,New zhondan,Diamond 4,25,52,,154,131
+847,summoner-13290150,848,USG Gang0,Diamond 4,25,46,,133,72
+848,summoner-7460250,849,7h Rokenia,Diamond 4,25,56,,111,91
+849,summoner-7321699,850,usagino,Diamond 4,25,50,,102,89
+850,summoner-6703099,851,琴チャン,Diamond 4,25,77,,81,100
+851,summoner-12200914,852,TRlGGER,Diamond 4,25,61,,76,75
+852,summoner-9950219,853,西日暮里戒网中心,Diamond 4,25,52,,67,46
+853,summoner-6182928,854,Tidus,Diamond 4,25,84,,63,63
+854,summoner-12260902,855,lWJack,Diamond 4,25,51,,39,35
+855,summoner-6188392,856,Rainsuta,Diamond 4,24,76,,161,133
+856,summoner-6372585,857,Maokai OTP,Diamond 4,23,153,,395,387
+857,summoner-6293332,858,MoZukuTea,Diamond 4,23,114,,107,93
+858,summoner-6695236,859,123,Diamond 4,23,92,,103,94
+859,summoner-6161164,860,Marble96,Diamond 4,39,94,,291,283
+860,summoner-6181369,861,太田佳奈,Diamond 4,21,58,,173,144
+861,summoner-6227944,862,My face is bad,Diamond 4,20,211,,834,794
+862,summoner-6177492,863,21歳無職,Diamond 4,20,127,,213,187
+863,summoner-6450728,864,Spicat,Diamond 4,20,45,,86,71
+864,summoner-13740351,865,乃 愛,Diamond 4,20,41,,78,54
+865,summoner-6680244,866,キリンレモン,Diamond 4,19,118,,397,369
+866,summoner-12910257,867,nananaa,Diamond 4,19,80,,344,325
+867,summoner-6291622,868,くま虎,Diamond 4,19,69,,139,118
+868,summoner-6666546,869,wing,Diamond 4,19,120,,107,74
+869,summoner-8691179,870,CarryBASHIBASHI,Diamond 4,19,39,,54,43
+870,summoner-6450745,871,あべくま,Diamond 4,19,100,,23,22
+871,summoner-6348760,872,よぴぴザウルス,Diamond 4,18,138,,235,213
+872,summoner-9670170,873,くっきー,Diamond 4,18,80,,154,149
+873,summoner-13790169,874,WanderingPro2,Diamond 4,18,53,,149,127
+874,summoner-13490210,875,Iwasawa,Diamond 4,18,46,,115,84
+875,summoner-6294946,876,chubet,Diamond 4,18,47,,89,82
+876,summoner-6811107,877,gannmo123,Diamond 4,18,84,,38,31
+877,summoner-6280514,878,Raharl,Diamond 4,17,112,,408,410
+878,summoner-6695493,879,PGM SonicLogic,Diamond 4,17,105,,331,335
+879,summoner-6313068,880,ろろれろろ,Diamond 4,17,125,,321,295
+880,summoner-6289741,881,JokerX,Diamond 4,17,79,,311,315
+881,summoner-6695156,882,るんちゃ,Diamond 4,17,106,,228,228
+882,summoner-11600486,883,TMaaH,Diamond 4,17,120,,189,166
+883,summoner-6950468,884,Endelyu,Diamond 4,17,73,,186,154
+884,summoner-6167794,885,Oreki,Diamond 4,17,84,,131,121
+885,summoner-6592828,886,Engineer,Diamond 4,17,46,,105,80
+886,summoner-12740857,887,practice nomi,Diamond 4,17,46,,62,44
+887,summoner-6175584,888,ロシナンテ,Diamond 4,16,65,,147,129
+888,summoner-6160649,889,にこぷり,Diamond 4,16,131,,101,95
+889,summoner-11260174,890,Ruki,Diamond 4,15,117,,140,146
+890,summoner-6173987,891,Wobbuffet,Diamond 4,15,97,,131,126
+891,summoner-6181413,892,1000DYE,Diamond 4,15,76,,126,120
+892,summoner-6162241,893,Erulein,Diamond 4,15,59,,66,56
+893,summoner-6344150,894,kasupi404,Diamond 4,15,108,,51,27
+894,summoner-6162908,895,はろーさんた,Diamond 4,14,95,,217,224
+895,summoner-10171220,896,君の唾液で口噛酒,Diamond 4,14,78,,111,102
+896,summoner-6271387,897,ハイセ,Diamond 4,13,70,,64,58
+897,summoner-7350233,898,Griever,Diamond 4,12,46,,109,81
+898,summoner-6310371,899,R1ngoKun,Diamond 4,12,67,,41,33
+899,summoner-6287685,900,Feeddlesticks,Diamond 4,10,119,,256,218
+900,summoner-6320302,901,メラゾーマ,Diamond 4,10,97,,62,46
+901,summoner-6170090,902,paddle star,Diamond 4,9,120,,136,132
+902,summoner-6171274,903,Rolo Lamperouge,Diamond 4,9,85,,130,111
+903,summoner-6161347,904,エッッッッッッ,Diamond 4,8,105,,46,49
+904,summoner-13790130,905,ˆSarah Myˆ,Diamond 4,7,71,,198,162
+905,summoner-8940405,906,Cherry Fizz,Diamond 4,7,116,,196,192
+906,summoner-8840634,907,무섭고외롭겠다,Diamond 4,7,124,,167,150
+907,summoner-6161727,908,TehLlghter,Diamond 4,4,143,,108,90
+908,summoner-6624647,909,LoviScenario,Diamond 4,3,74,,222,212
+909,summoner-8160442,910,sebearasi,Diamond 4,3,102,,53,49
+910,summoner-6700720,911,Ir1s,Diamond 4,2,56,,167,173
+911,summoner-13090962,912,SRDv,Diamond 4,2,69,,155,129
+912,summoner-6175258,913,SakuraSky,Diamond 4,2,108,,114,103
+913,summoner-6318881,914,Azuliet,Diamond 4,2,62,,91,86
+914,summoner-12760939,915,kneesox,Diamond 4,1,64,,235,209
+915,summoner-6165282,916,ヒカキンキッズ,Diamond 4,1,106,,151,138
+916,summoner-6301753,917,luoqisa,Diamond 4,1,67,,79,55
+917,summoner-8890153,918,프나틱 원딜,Diamond 4,1,66,,72,54
+918,summoner-6186260,919,Top or AFK,Diamond 4,1,47,,47,44
+919,summoner-6311328,920,Fumico,Diamond 4,0,202,,950,914
+920,summoner-10600137,921,島魚Jasconius,Diamond 4,0,108,,359,348
+921,summoner-6310158,922,TEDDY,Diamond 4,0,97,,303,279
+922,summoner-11000183,923,ダークシール,Diamond 4,0,65,,247,227
+923,summoner-6890761,924,Romane,Diamond 4,0,78,,246,224
+924,summoner-6316705,925,君のハートにイグナイト,Diamond 4,0,103,,241,233
+925,summoner-6315001,926,DE JEUX,Diamond 4,0,92,,216,210
+926,summoner-6272955,927,0A0,Diamond 4,0,106,,209,197
+927,summoner-6187890,928,kurewo god,Diamond 4,0,74,,206,175
+928,summoner-6690662,929,IIllII,Diamond 4,0,112,,206,187
+929,summoner-6170569,930,Japan Net Bank,Diamond 4,0,84,,205,181
+930,summoner-10690274,931,whiskeeey,Diamond 4,0,130,,185,185
+931,summoner-6302228,932,悔い改めよ,Diamond 4,0,82,,182,176
+932,summoner-6705132,933,From the Gekko,Diamond 4,0,56,,175,143
+933,summoner-6161550,934,terya,Diamond 4,0,70,,168,137
+934,summoner-10911515,935,WinstonCaster,Diamond 4,0,66,,168,144
+935,summoner-6161635,936,boylen,Diamond 4,0,60,,159,125
+936,summoner-6166702,937,わいるどかめおか,Diamond 4,0,106,,155,130
+937,summoner-11570397,938,EdwinVanCleef,Diamond 4,0,49,,152,137
+938,summoner-9180884,939,CatPenguin3,Diamond 4,0,71,,148,118
+939,summoner-6184769,940,ぺけのすけ,Diamond 4,0,123,,140,132
+940,summoner-6180802,941,lqs,Diamond 4,0,70,,134,123
+941,summoner-6681698,942,noobmanNA,Diamond 4,0,55,,134,110
+942,summoner-14180148,943,ぴーち,Diamond 4,0,52,,131,99
+943,summoner-6303936,944,StylishNoob4,Diamond 4,0,119,,129,119
+944,summoner-14170466,945,Aramia,Diamond 4,0,50,,128,101
+945,summoner-12430231,946,DoubleIift,Diamond 4,0,62,,115,101
+946,summoner-7200179,947,ItsNimbuS,Diamond 4,0,107,,112,88
+947,summoner-6811867,948,Uns,Diamond 4,0,76,,110,108
+948,summoner-8721259,949,rivenのアナ子,Diamond 4,0,60,,109,107
+949,summoner-6189797,950,Cine,Diamond 4,0,85,,100,69
+950,summoner-6174908,951,HaraNamayOkO,Diamond 4,0,96,,99,77
+951,summoner-13770959,952,mysql u root,Diamond 4,0,47,,96,81
+952,summoner-6701220,953,イオの手先,Diamond 4,0,77,,93,91
+953,summoner-6298181,954,Yunn,Diamond 4,0,73,,92,71
+954,summoner-6295282,955,7saki eye,Diamond 4,0,67,,91,66
+955,summoner-7200222,956,BGF,Diamond 4,0,49,,91,83
+956,summoner-6890241,957,ťele,Diamond 4,0,57,,90,87
+957,summoner-6321670,958,卍森林原人卍,Diamond 4,0,47,,90,83
+958,summoner-6262327,959,Lurix,Diamond 4,0,108,,84,68
+959,summoner-12251111,960,Best Janna NA,Diamond 4,0,106,,84,58
+960,summoner-6291946,961,ばきん,Diamond 4,0,141,,82,72
+961,summoner-6332429,962,takuman por,Diamond 4,0,41,,71,42
+962,summoner-6181074,963,Damnare Mantis,Diamond 4,0,117,,67,67
+963,summoner-6296124,964,14d,Diamond 4,0,49,,67,74
+964,summoner-6170724,965,インターネット,Diamond 4,0,79,,63,59
+965,summoner-6185989,966,ななせ,Diamond 4,0,118,,57,54
+966,summoner-6170708,967,河南実里,Diamond 4,0,104,,55,48
+967,summoner-13420258,968,ナッシュ,Diamond 4,0,70,,41,32
+968,summoner-6290250,969,Ｃherry,Diamond 4,0,39,,37,24
+969,summoner-9960670,970,Asterism,Diamond 4,0,53,,35,32
+970,summoner-6183784,971,Caim,Diamond 4,0,58,,34,18
+971,summoner-6160830,972,нoчь,Diamond 4,0,36,,32,17
+972,summoner-12420250,973,Deklaran,Diamond 5,100,89,,246,233
+973,summoner-6310164,974,freejapan,Diamond 5,100,64,,205,210
+974,summoner-9530609,975,月与海,Diamond 5,100,80,,200,194
+975,summoner-6262219,976,Pudge,Diamond 5,100,99,,179,164
+976,summoner-8900234,977,pirotyan,Diamond 5,100,73,,179,143
+977,summoner-10871337,978,アムルクレチア,Diamond 5,100,60,,173,155
+978,summoner-6301025,979,oけいo,Diamond 5,100,116,,154,132
+979,summoner-12862317,980,戦争魔王,Diamond 5,100,52,,147,122
+980,summoner-8140187,981,KIed BOT,Diamond 5,100,85,,124,105
+981,summoner-6275587,982,日代VX 460957987,Diamond 5,100,81,,123,90
+982,summoner-6184581,983,This,Diamond 5,100,61,,107,106
+983,summoner-6461019,984,morippe,Diamond 5,100,57,,99,89
+984,summoner-6318546,985,Y u K i SSSSSS,Diamond 5,100,64,,85,85
+985,summoner-12640672,986,止まらないオルガ,Diamond 5,100,47,,77,54
+986,summoner-6171785,987,BotLanersSuck,Diamond 5,100,144,,75,35
+987,summoner-6314723,988,MannérsMakethMan,Diamond 5,100,60,,68,62
+988,summoner-6722749,989,18cm魔法少女,Diamond 5,100,116,,45,39
+989,summoner-6335235,990,SukebeS,Diamond 5,100,119,,41,41
+990,summoner-6181321,991,Dont u trust Muu,Diamond 5,100,38,,24,16
+991,summoner-7820576,992,私は君がほしい,Diamond 5,99,36,,48,21
+992,summoner-6265283,993,GQVV,Diamond 5,98,45,,116,79
+993,summoner-6183757,994,Captain Musuka,Diamond 5,97,46,,41,35
+994,summoner-6171437,995,TaeyoungBoy,Diamond 5,96,112,,323,336
+995,summoner-6169272,996,tomomiii,Diamond 5,96,107,,255,232
+996,summoner-6178437,997,アストルフォ,Diamond 5,95,82,,265,238
+997,summoner-9440328,998,ScudCrosers,Diamond 5,95,92,,89,81
+998,summoner-6346451,999,MerukuLyrical,Diamond 5,95,103,,78,60
+999,summoner-6299948,1000,Migrile,Diamond 5,95,109,,68,64

@@ -1,0 +1,1004 @@
+#timestamp 1529744461840
+#date 2018-06-23T09:01:01+00:00
+#players 1000
+#index,id,rank,name,tier,lp,level,proTeam,win,loss
+0,summoner-16534242,1,TF BIade,Challenger,1185,44,,128,51
+1,summoner-41710,2,Pix CaritaTriste,Challenger,1144,77,,138,74
+2,summoner-5470459,3,LAE xSWRD,Challenger,1067,69,,165,112
+3,summoner-95820,4,VírusFx,Challenger,950,90,,132,67
+4,summoner-144414,5,Kunou,Challenger,882,97,,136,84
+5,summoner-2281875,6,Hirotaka Nifuji,Challenger,788,119,,144,110
+6,summoner-886644,7,vSack,Challenger,786,92,,189,153
+7,summoner-6130219,8,Geohelado,Challenger,761,74,,168,129
+8,summoner-640255,9,Swifu,Challenger,747,109,,162,122
+9,summoner-2342030,10,Athyż,Challenger,728,93,,158,120
+10,summoner-418941,11,MadBlade,Challenger,726,69,,189,137
+11,summoner-42749,12,Cliff0,Challenger,723,74,,252,196
+12,summoner-116294,13,MySunflower Dani,Challenger,688,99,,173,129
+13,summoner-2322700,14,CGC S A M Y 2,Challenger,647,84,,189,146
+14,summoner-139862,15,Säth,Challenger,595,127,,197,157
+15,summoner-48057,16,Luha,Challenger,590,95,,173,144
+16,summoner-4571935,17,Fighter1,Challenger,588,46,,150,105
+17,summoner-1157126,18,bubbleman08,Challenger,578,90,,119,87
+18,summoner-204315,19,lruga,Challenger,568,73,,264,229
+19,summoner-348223,20,Miketsü,Challenger,563,92,,189,156
+20,summoner-947428,21,TwitchTv Crecre,Challenger,546,89,,236,178
+21,summoner-5494753,22,Zorekk Onii Chan,Challenger,531,75,,149,115
+22,summoner-8801194,23,Hand of Obelisk,Challenger,529,83,,209,170
+23,summoner-537764,24,Thief of Relics,Challenger,528,87,,153,123
+24,summoner-56961,25,JuanDrd435,Challenger,527,133,,305,263
+25,summoner-61520,26,TES ArándanoAzul,Challenger,517,107,,147,104
+26,summoner-6291753,27,Güereca,Challenger,510,51,,131,96
+27,summoner-50080,28,Jujo,Challenger,502,103,,132,91
+28,summoner-168284,29,SomosAsc0Deduo,Challenger,495,94,,201,177
+29,summoner-941191,30,BoñeIo,Challenger,495,80,,187,153
+30,summoner-4591052,31,BloodyLion,Challenger,494,70,,208,171
+31,summoner-176354,32,Crecre,Challenger,492,87,,365,306
+32,summoner-5660236,33,ZXVMGBORSA95,Challenger,470,106,,300,266
+33,summoner-44037,34,Trash Game,Challenger,469,86,,150,113
+34,summoner-810373,35,NeoEclipsF0rever,Challenger,468,145,,133,100
+35,summoner-12830164,36,ØE Fas the Magi,Challenger,459,49,,114,84
+36,summoner-8604015,37,Darkin,Challenger,457,97,,153,126
+37,summoner-2501105,38,No Øne,Challenger,452,102,,216,188
+38,summoner-1155001,39,el chinguita,Challenger,452,111,,201,169
+39,summoner-153625,40,Haka,Challenger,449,112,,165,137
+40,summoner-392695,41,CGC S A M Y,Challenger,442,79,,212,172
+41,summoner-215450,42,CLK1,Challenger,442,63,,209,171
+42,summoner-4450189,43,tuabuelitaentang,Challenger,442,136,,120,89
+43,summoner-4163836,44,Alex Mercér,Challenger,441,66,,150,127
+44,summoner-75295,45,Her Demon Fenix,Challenger,424,77,,121,96
+45,summoner-112541,46,Snòopy,Challenger,423,73,,186,149
+46,summoner-2241940,47,GNO UmbraAP,Challenger,421,123,,192,161
+47,summoner-14101711,48,CGC S A M Y 3,Challenger,421,63,,178,133
+48,summoner-1740857,49,Jauny,Challenger,416,91,,223,173
+49,summoner-10841439,50,LawlietLelouch,Challenger,415,87,,228,202
+50,summoner-170093,51,FZXT,Challenger,414,64,,84,48
+51,summoner-331693,52,DarkShark10,Challenger,412,91,,348,317
+52,summoner-524840,53,ShyKid,Challenger,409,75,,137,104
+53,summoner-156320,54,Mikesos,Challenger,407,171,,507,469
+54,summoner-488562,55,Nezumi,Challenger,398,101,,229,197
+55,summoner-13643775,56,PAPAYlTA,Challenger,397,72,,274,242
+56,summoner-3480131,57,Doug,Challenger,396,44,,90,39
+57,summoner-11610140,58,Stròng,Challenger,392,64,,129,101
+58,summoner-75118,59,Soran,Challenger,386,114,,189,159
+59,summoner-4511925,60,KarenCosy,Challenger,382,53,,128,77
+60,summoner-2122221,61,Trippïe Redd,Challenger,378,63,,132,100
+61,summoner-41224,62,Kanra00,Challenger,376,70,,131,101
+62,summoner-98115,63,ReykoPa,Challenger,373,66,,134,111
+63,summoner-851199,64,SAMMAHEL,Challenger,369,141,,486,461
+64,summoner-153065,65,mid lane banter,Challenger,365,59,,176,142
+65,summoner-2191160,66,MacCuin,Challenger,354,99,,180,152
+66,summoner-1566287,67,KhaelMa,Challenger,351,60,,172,145
+67,summoner-211236,68,Sebastien,Challenger,345,69,,201,163
+68,summoner-162243,69,Legendary Lee,Challenger,360,58,,78,49
+69,summoner-5090223,70,Tonight We Hunt,Challenger,342,202,,329,300
+70,summoner-1356449,71,Rμby,Challenger,321,132,,336,306
+71,summoner-7204106,72,TG Re Zaidex,Challenger,333,118,,227,195
+72,summoner-39415,73,Vini,Challenger,332,66,,138,110
+73,summoner-403393,74,Un Pinguino Cool,Challenger,328,70,,125,82
+74,summoner-7680088,75,Estigia,Challenger,318,101,,112,87
+75,summoner-33732,76,atlanta,Challenger,318,59,,106,82
+76,summoner-118870,77,Tu Guardián,Challenger,315,105,,144,116
+77,summoner-213475,78,JesusCA,Challenger,314,64,,266,195
+78,summoner-181794,79,Lumi,Challenger,305,105,,165,148
+79,summoner-1630586,80,Huevø Frito,Challenger,301,105,,158,113
+80,summoner-138842,81,I Love Trump,Challenger,300,50,,170,47
+81,summoner-919104,82,Maîck,Challenger,297,82,,160,135
+82,summoner-1201237,83,Luprin,Challenger,295,76,,74,47
+83,summoner-1396107,84,24 03 2014,Challenger,293,60,,159,109
+84,summoner-290915,85,A Sexy Waifu,Challenger,292,98,,156,128
+85,summoner-622280,86,Fibrah,Challenger,289,46,,126,71
+86,summoner-6653525,87,SuperSave,Challenger,288,121,,192,168
+87,summoner-841541,88,MadTedd,Challenger,287,66,,150,124
+88,summoner-1070594,89,Lord Strider,Challenger,282,112,,147,120
+89,summoner-159044,90,Iana del rey,Challenger,282,49,,115,84
+90,summoner-208064,91,kodixia,Challenger,281,114,,204,174
+91,summoner-296596,92,Andrea Motz,Challenger,279,121,,307,277
+92,summoner-36473,93,Harahgon,Challenger,295,122,,376,346
+93,summoner-1231471,94,I Aru I,Challenger,277,126,,364,326
+94,summoner-213822,95,stay fresh,Challenger,272,104,,283,259
+95,summoner-1361857,96,Bryce Walker,Challenger,267,85,,230,218
+96,summoner-211435,97,Tu Gypsi,Challenger,264,115,,206,178
+97,summoner-157955,98,Daddy Eddie,Challenger,263,57,,140,107
+98,summoner-3304652,99,Noctix,Challenger,262,168,,482,441
+99,summoner-394180,100,Crystal Molly,Challenger,262,134,,373,343
+100,summoner-11762731,101,Sandër,Challenger,274,112,,169,145
+101,summoner-5140831,102,Deiv1d,Challenger,260,75,,113,92
+102,summoner-15280182,103,Poropops,Challenger,257,50,,81,43
+103,summoner-97956,104,Selfish Bastard,Challenger,256,67,,150,116
+104,summoner-1820423,105,Twitzze,Challenger,255,58,,194,138
+105,summoner-5513539,106,TC Bunny,Challenger,254,133,,266,242
+106,summoner-156335,107,Kindle,Challenger,253,107,,236,218
+107,summoner-5660249,108,Soradg,Challenger,253,118,,162,144
+108,summoner-1323789,109,ZoneDark,Challenger,252,68,,169,152
+109,summoner-1172068,110,Kanye Wesst,Challenger,252,103,,140,119
+110,summoner-5572510,111,NeonShy,Challenger,251,103,,257,231
+111,summoner-416409,112,Mágaña,Challenger,251,80,,215,199
+112,summoner-2400971,113,DonPacs,Challenger,250,70,,95,60
+113,summoner-10233192,114,SaekoUndBlack,Challenger,249,36,,62,10
+114,summoner-1990286,115,Gekkø,Challenger,248,144,,444,417
+115,summoner-409468,116,Säikou,Challenger,248,105,,154,136
+116,summoner-935643,117,Amigo Grifo,Challenger,247,79,,144,127
+117,summoner-1118998,118,Distortion,Challenger,246,114,,164,138
+118,summoner-157956,119,Rìku,Challenger,244,145,,101,78
+119,summoner-2303376,120,Jikann,Challenger,243,97,,206,183
+120,summoner-597117,121,Fazz,Challenger,242,114,,270,246
+121,summoner-33622,122,Lettiot,Challenger,239,93,,122,91
+122,summoner-127811,123,CG Snow,Challenger,238,118,,455,422
+123,summoner-1051840,124,Olivia,Challenger,238,113,,165,142
+124,summoner-117620,125,chimera r2,Challenger,237,94,,303,289
+125,summoner-15060130,126,fkin idiot,Challenger,237,55,,148,117
+126,summoner-40335,127,Prae,Challenger,235,138,,460,438
+127,summoner-3571348,128,paulisTinA,Challenger,235,77,,176,141
+128,summoner-65195,129,AnT Roski,Challenger,234,66,,76,49
+129,summoner-74750,130,Zcarnet,Challenger,227,95,,166,133
+130,summoner-33593,131,AG siegfred,Challenger,226,77,,137,118
+131,summoner-9781020,132,SkillHard,Challenger,225,153,,443,432
+132,summoner-1159062,133,SGT Sirius Can,Challenger,224,113,,244,230
+133,summoner-6532932,134,Andresu7,Challenger,222,100,,301,279
+134,summoner-523229,135,Supraga,Challenger,221,111,,338,304
+135,summoner-43897,136,Aletsis,Challenger,218,88,,183,161
+136,summoner-43094,137,Rossoneri,Challenger,217,80,,116,88
+137,summoner-32943,138,Yugí,Challenger,215,62,,129,103
+138,summoner-6313454,139,CougarDai,Challenger,214,74,,216,196
+139,summoner-1385807,140,Low elo trash,Challenger,214,53,,151,120
+140,summoner-5651686,141,Duca,Challenger,212,93,,274,255
+141,summoner-5020760,142,betatwinz,Challenger,212,44,,67,34
+142,summoner-800898,143,MuffinsPodridos,Challenger,211,76,,172,129
+143,summoner-4534154,144,Wb Taco,Challenger,210,112,,134,99
+144,summoner-825215,145,Nishkyu,Challenger,206,74,,248,187
+145,summoner-2133568,146,Dixel,Challenger,203,72,,227,197
+146,summoner-435308,147,Thelorien,Challenger,203,119,,132,103
+147,summoner-36834,148,EvoleX,Challenger,202,106,,204,199
+148,summoner-171271,149,Pichu,Challenger,198,88,,299,277
+149,summoner-203413,150,Andrew18,Challenger,197,108,,162,141
+150,summoner-142005,151,clantoz,Challenger,197,91,,156,120
+151,summoner-161248,152,Huxy,Challenger,196,89,,257,234
+152,summoner-6003403,153,betatwins,Challenger,192,117,,376,346
+153,summoner-5710759,154,BlìndWalker,Challenger,192,75,,302,230
+154,summoner-135079,155,HandGun,Challenger,192,95,,290,264
+155,summoner-14640442,156,PAPAY1TA,Challenger,191,48,,125,82
+156,summoner-5040611,157,Bebé Pinguino,Challenger,190,46,,73,42
+157,summoner-1396918,158,TwitchTv Danijrm,Challenger,187,53,,124,84
+158,summoner-1090707,159,KutarraX,Challenger,184,72,,124,102
+159,summoner-4107412,160,BorjaSOAD,Challenger,180,87,,111,86
+160,summoner-8581685,161,FLA Kamui,Challenger,176,124,,411,390
+161,summoner-1941206,162,JbayJbs,Challenger,176,86,,106,59
+162,summoner-11577579,163,Juego Solo top,Challenger,155,73,,158,135
+163,summoner-6551467,164,Ytterbium,Challenger,174,59,,149,112
+164,summoner-174950,165,NoLimit,Challenger,173,66,,134,113
+165,summoner-136713,166,ENG yisus,Challenger,172,94,,228,198
+166,summoner-540221,167,Meme King,Challenger,171,107,,212,192
+167,summoner-174213,168,Ábaddon,Challenger,167,87,,190,167
+168,summoner-9173721,169,Blakzx,Challenger,167,96,,148,129
+169,summoner-14610241,170,ltsukakotori,Challenger,166,63,,76,49
+170,summoner-626956,171,alboaron,Challenger,164,52,,148,62
+171,summoner-366242,172,Amo mis bíceps,Challenger,163,124,,274,258
+172,summoner-2260260,173,King Wukong,Challenger,162,113,,141,118
+173,summoner-63089,174,Thundraz,Challenger,161,132,,165,148
+174,summoner-3313144,175,Nirati,Challenger,157,115,,239,182
+175,summoner-3943350,176,Chevîs,Challenger,157,90,,159,128
+176,summoner-166992,177,SandwichDLechuga,Challenger,155,101,,226,178
+177,summoner-99291,178,Tëmpest,Challenger,155,97,,183,127
+178,summoner-1149078,179,Pandas Iove,Challenger,155,83,,63,41
+179,summoner-210491,180,DGE BLACMAN,Challenger,153,112,,311,305
+180,summoner-14690856,181,RoyaumLAN,Challenger,153,73,,267,198
+181,summoner-4311308,182,How to,Challenger,153,103,,212,187
+182,summoner-13050146,183,RNG 55open,Challenger,153,132,,159,135
+183,summoner-3143261,184,The Genesis,Challenger,153,66,,105,81
+184,summoner-545546,185,Acuarelas,Challenger,152,106,,128,108
+185,summoner-310350,186,GLG Honoka,Challenger,150,60,,121,102
+186,summoner-74002,187,Nils,Challenger,148,89,,139,124
+187,summoner-361221,188,Krezuel,Challenger,146,112,,201,192
+188,summoner-64005,189,Sandroxx,Challenger,145,63,,94,70
+189,summoner-197368,190,Góhan,Challenger,144,53,,113,101
+190,summoner-25753,191,Sh0ckwavee,Challenger,144,47,,59,32
+191,summoner-1220127,192,Kanizalez,Challenger,140,95,,245,221
+192,summoner-154798,193,Miguël,Challenger,139,94,,291,254
+193,summoner-12191961,194,S2 Kurama,Challenger,139,104,,278,234
+194,summoner-674461,195,1hollow3,Challenger,139,64,,159,137
+195,summoner-413636,196,VLK Sunriser,Challenger,138,57,,112,78
+196,summoner-10341706,197,asth4rotwan,Challenger,122,102,,176,164
+197,summoner-4443939,198,Ashtray,Challenger,121,150,,526,509
+198,summoner-130256,199,Papi Jodin,Challenger,113,72,,203,186
+199,summoner-93056,200,YSalex,Challenger,110,115,,332,315
+200,summoner-990938,201,Aaronlb,Master,165,88,,242,209
+201,summoner-4601043,202,Xpontaneous,Master,161,53,,45,18
+202,summoner-324984,203,Enryu The Red,Master,184,65,,206,169
+203,summoner-6620183,204,Vidal,Master,155,96,,206,188
+204,summoner-2601343,205,iFeedMe,Master,137,72,,230,216
+205,summoner-1404541,206,TONYTROXES,Master,137,76,,183,158
+206,summoner-137657,207,Zethric,Master,134,129,,71,40
+207,summoner-7472180,208,NA Fearuz,Master,133,54,,119,86
+208,summoner-501216,209,1Rem,Master,132,105,,243,235
+209,summoner-119645,210,MTH AlBREIK,Master,131,113,,211,181
+210,summoner-1042775,211,Whité,Master,129,60,,115,94
+211,summoner-147250,212,Maggatt,Master,122,86,,182,162
+212,summoner-54396,213,MW Star,Master,122,137,,148,115
+213,summoner-3532481,214,Sithys,Master,119,149,,149,122
+214,summoner-93208,215,pxry,Master,118,63,,107,86
+215,summoner-3340222,216,Chiquinquira IJ,Master,115,131,,113,76
+216,summoner-7153584,217,Neitzsche,Master,114,124,,226,188
+217,summoner-35651,218,Soul Worker,Master,110,73,,97,80
+218,summoner-438977,219,N l G H T,Master,103,168,,425,409
+219,summoner-2544168,220,Líl,Master,102,87,,187,164
+220,summoner-1735450,221,Kirâ,Master,101,38,,50,18
+221,summoner-531488,222,Carillon,Master,100,57,,70,49
+222,summoner-2941141,223,JaquenHaghar,Master,99,81,,222,204
+223,summoner-14231555,224,Doctrina Egoista,Master,96,53,,134,90
+224,summoner-877490,225,Goofy Goober,Master,94,202,,120,95
+225,summoner-1546393,226,Jedi Form VII,Master,111,65,,174,138
+226,summoner-4127893,227,Elekape,Master,86,100,,164,141
+227,summoner-150582,228,El Dios Guashi,Master,85,81,,251,231
+228,summoner-201606,229,Broodich,Master,85,95,,177,160
+229,summoner-303207,230,Bebe Shaka,Master,84,150,,283,261
+230,summoner-20563,231,add 4 web design,Master,84,85,,204,194
+231,summoner-500822,232,Kuul,Master,83,95,,135,115
+232,summoner-4782124,233,El humilde Yusty,Master,82,62,,183,136
+233,summoner-290618,234,OG Minu,Master,82,94,,142,102
+234,summoner-6250197,235,Hakuryuu Reen,Master,80,83,,268,246
+235,summoner-76695,236,Sterbenn,Master,80,113,,156,132
+236,summoner-330609,237,Carlos V,Master,78,106,,423,406
+237,summoner-14745216,238,Kaizeneka A,Master,78,66,,144,108
+238,summoner-15300174,239,Levis petrus,Master,78,51,,144,86
+239,summoner-437429,240,Kyuo,Master,74,96,,73,50
+240,summoner-12692888,241,Lucian ADC,Master,72,71,,254,211
+241,summoner-152128,242,Extravagance,Master,72,51,,152,124
+242,summoner-132278,243,rëdnaS,Master,69,51,,149,82
+243,summoner-615119,244,Khorix,Master,69,65,,86,71
+244,summoner-1594793,245,momo354,Master,68,58,,188,129
+245,summoner-15973031,246,Inli,Master,65,43,,111,64
+246,summoner-126144,247,Te Amo Fanny,Master,62,67,,72,56
+247,summoner-13482525,248,StarBunny,Master,61,51,,96,57
+248,summoner-62389,249,Dominick,Master,60,100,,244,232
+249,summoner-1273292,250,ezpate,Master,59,107,,278,267
+250,summoner-198637,251,Mythical Oberyn,Master,58,123,,293,265
+251,summoner-3830362,252,MarchedWaif89,Master,57,124,,432,425
+252,summoner-292746,253,Hakie,Master,57,67,,121,92
+253,summoner-280323,254,Cookiezai,Master,57,111,,105,77
+254,summoner-4101200,255,Ainz Ooal GØwn,Master,56,148,,627,606
+255,summoner-3740366,256,Carnage Rules,Master,56,136,,467,459
+256,summoner-3471888,257,Nessie,Master,56,146,,292,269
+257,summoner-177367,258,TOXICCCCCCCCCCCC,Master,56,48,,118,90
+258,summoner-52722,259,ØE Limitationss,Master,56,49,,69,51
+259,summoner-38617,260,Pëanut,Master,53,124,,97,78
+260,summoner-1595762,261,Isá Dainsleif,Master,15,139,,319,306
+261,summoner-3720694,262,FnR Kush,Master,52,121,,264,240
+262,summoner-12323358,263,Falconzs,Master,35,69,,119,104
+263,summoner-2000186,264,AdLarry,Master,51,68,,179,138
+264,summoner-188977,265,Doppel,Master,51,81,,145,130
+265,summoner-171009,266,PuuRplE,Master,50,111,,200,178
+266,summoner-136168,267,Nihilist Örlando,Master,49,108,,339,326
+267,summoner-13180512,268,Dmitri Putin,Master,47,81,,75,44
+268,summoner-1764966,269,CerquilloTilted,Master,43,64,,224,192
+269,summoner-1650862,270,Melvox,Master,42,133,,94,58
+270,summoner-91326,271,Z Ø Ð I A C,Master,41,97,,283,264
+271,summoner-13212405,272,Memox JnmR,Master,41,75,,197,179
+272,summoner-2213274,273,Pervertito,Master,41,62,,150,134
+273,summoner-629040,274,ØE Tyr,Master,39,71,,68,35
+274,summoner-15334874,275,Shìnon,Master,38,57,,175,139
+275,summoner-945818,276,Santíago,Master,38,68,,124,105
+276,summoner-210553,277,Aniivia,Master,38,46,,81,58
+277,summoner-2604044,278,orithkeeper,Master,37,74,,179,164
+278,summoner-1303280,279,Raylú,Master,36,122,,235,202
+279,summoner-3500800,280,Gweiss ENP,Master,32,101,,271,257
+280,summoner-212364,281,VLK Equalizer,Master,32,67,,118,97
+281,summoner-14611994,282,Malantë,Master,31,55,,108,78
+282,summoner-2460494,283,El Pecueca,Master,28,77,,211,164
+283,summoner-77347,284,Codename00,Master,47,59,,176,163
+284,summoner-1021337,285,King Monaco,Master,27,66,,188,170
+285,summoner-876702,286,Regulus no Leo,Master,27,69,,130,110
+286,summoner-1571472,287,Soy Paul,Master,12,50,,84,61
+287,summoner-3853491,288,Infamous,Master,26,127,,222,199
+288,summoner-2052468,289,UnicornG,Master,25,84,,176,167
+289,summoner-9751556,290,Ing Quimico,Master,24,78,,146,116
+290,summoner-440349,291,EDGARTOYIN,Master,23,84,,242,227
+291,summoner-25434,292,WET Varzinso,Master,21,99,,156,135
+292,summoner-84412,293,Garnidelia,Master,21,107,,125,117
+293,summoner-12950189,294,E Bfriend,Master,21,46,,96,66
+294,summoner-1790148,295,AQUILESCANTO2,Master,20,104,,218,189
+295,summoner-520325,296,Yaelonu,Master,20,94,,157,142
+296,summoner-372135,297,EL Uber,Master,20,101,,72,51
+297,summoner-285221,298,iTheEpicReaper,Master,19,80,,139,115
+298,summoner-7880294,299,TES PinkGoat,Master,19,92,,122,107
+299,summoner-15264702,300,OscarSolisG,Master,16,54,,129,76
+300,summoner-15264702,301,OscarSolisG,Master,16,54,,129,76
+301,summoner-4607522,302,Darling,Master,16,44,,83,50
+302,summoner-341551,303,Makeuz,Master,13,137,,396,388
+303,summoner-1376330,304,JuanStan,Master,13,103,,265,252
+304,summoner-452765,305,ill kms,Master,10,55,,145,110
+305,summoner-90933,306,Núit,Master,8,77,,130,112
+306,summoner-488455,307,Bareh,Master,5,96,,285,270
+307,summoner-139360,308,Darps,Master,3,54,,127,109
+308,summoner-9663451,309,Thúnder,Master,0,168,,349,345
+309,summoner-1744540,310,Jeff506,Master,0,103,,325,305
+310,summoner-340565,311,Lp3 Nyeloh,Master,0,120,,319,306
+311,summoner-4882455,312,Nightwolf9,Master,0,127,,299,275
+312,summoner-527786,313,SkyGless,Master,0,86,,298,293
+313,summoner-151439,314,ricopolllo,Master,0,108,,282,264
+314,summoner-4720242,315,Laxse,Master,0,100,,264,228
+315,summoner-8584366,316,AmanfromtheMoon,Master,0,68,,243,186
+316,summoner-40147,317,Diamond Stuck,Master,0,148,,206,189
+317,summoner-5613974,318,Josh2Play,Master,0,87,,172,138
+318,summoner-523266,319,Protego,Master,0,106,,163,139
+319,summoner-433265,320,Lord 4SaKeN,Master,0,95,,160,145
+320,summoner-11600165,321,Rocket Råccoon,Master,0,131,,158,131
+321,summoner-4903905,322,RafflesGaming,Master,0,83,,150,135
+322,summoner-208654,323,Crensil Diva,Master,0,87,,134,109
+323,summoner-3931575,324,Lann,Master,0,125,,129,103
+324,summoner-68678,325,HazärD,Master,0,88,,117,98
+325,summoner-815305,326,Nea,Master,0,101,,103,88
+326,summoner-16410630,327,MW Typhoon,Master,0,57,,89,44
+327,summoner-1103782,328,Fonck,Master,0,59,,46,38
+328,summoner-562204,329,Zask,Master,0,66,,39,15
+329,summoner-329765,330,CentenaryWarrior,Diamond 1,100,133,,431,410
+330,summoner-3462881,331,Panda Tom,Diamond 1,100,140,,345,334
+331,summoner-1159889,332,Hamy,Diamond 1,100,98,,253,226
+332,summoner-4601098,333,CSGblackrock,Diamond 1,100,84,,216,195
+333,summoner-129918,334,El Chuky Lozano,Diamond 1,100,118,,197,179
+334,summoner-119001,335,Scythes,Diamond 1,100,79,,170,150
+335,summoner-22299,336,Redscorpy,Diamond 1,100,138,,145,126
+336,summoner-941797,337,Tiltalin,Diamond 1,100,69,,130,97
+337,summoner-431286,338,Biboom,Diamond 1,100,73,,111,86
+338,summoner-426366,339,Saving,Diamond 1,100,50,,108,71
+339,summoner-219008,340,Shadesu,Diamond 1,100,74,,99,66
+340,summoner-423742,341,Sanha,Diamond 1,100,126,,97,68
+341,summoner-5932534,342,Noriel,Diamond 1,100,47,,86,63
+342,summoner-2630739,343,Kitorinho,Diamond 1,100,47,,62,41
+343,summoner-15475985,344,Quve,Diamond 1,97,64,,136,82
+344,summoner-303787,345,Fatal,Diamond 1,97,67,,75,59
+345,summoner-7132675,346,Justin LFT 2,Diamond 1,97,41,,58,29
+346,summoner-1531157,347,Dobleshot,Diamond 1,96,60,,172,117
+347,summoner-153891,348,Dkram,Diamond 1,96,66,,127,115
+348,summoner-873834,349,Ricardo Motta,Diamond 1,96,69,,79,66
+349,summoner-1292652,350,l  Jamon  l,Diamond 1,95,95,,116,97
+350,summoner-9974185,351,Tilted Meteoro,Diamond 1,95,44,,42,18
+351,summoner-10842590,352,edwinkirito LAN,Diamond 1,94,76,,130,118
+352,summoner-15891692,353,Santi Rank 1,Diamond 1,94,45,,100,65
+353,summoner-652463,354,Amnesía,Diamond 1,93,99,,162,142
+354,summoner-365511,355,Eudus,Diamond 1,92,99,,143,112
+355,summoner-3520800,356,xamexxdroxer,Diamond 1,91,102,,150,129
+356,summoner-155309,357,Diretlan,Diamond 1,90,81,,221,203
+357,summoner-37636,358,LEITSAK,Diamond 1,90,93,,198,160
+358,summoner-333945,359,Alex Ov,Diamond 1,90,72,,189,185
+359,summoner-8341551,360,Lankor,Diamond 1,90,99,,158,147
+360,summoner-2343019,361,ARTIFIZES,Diamond 1,90,61,,151,132
+361,summoner-4621033,362,Red Trainer,Diamond 1,90,55,,133,105
+362,summoner-3324306,363,xXAKILESVAESTAXx,Diamond 1,90,60,,103,53
+363,summoner-904554,364,Random Marksman,Diamond 1,90,59,,101,74
+364,summoner-676489,365,Inky Veil,Diamond 1,90,65,,97,53
+365,summoner-4902286,366,Fürer Reich,Diamond 1,90,55,,85,69
+366,summoner-3574195,367,Phyrfns,Diamond 1,90,75,,82,70
+367,summoner-15452277,368,TwTv Danijrm,Diamond 1,90,41,,69,30
+368,summoner-60466,369,N5 Garçon,Diamond 1,90,84,,63,50
+369,summoner-1152178,370,Jose12gab,Diamond 1,90,37,,58,19
+370,summoner-293255,371,Devoch,Diamond 1,90,87,,58,32
+371,summoner-2084890,372,chapaliku,Diamond 1,90,87,,42,27
+372,summoner-9974340,373,DeriD,Diamond 1,90,60,,42,26
+373,summoner-177587,374,Fallouch,Diamond 1,88,115,,156,140
+374,summoner-1397595,375,skarche31,Diamond 1,87,53,,170,75
+375,summoner-657505,376,TU JEFA,Diamond 1,87,69,,140,104
+376,summoner-36323,377,pokemexta2,Diamond 1,87,53,,75,56
+377,summoner-1164376,378,Momo Hirai,Diamond 1,86,91,,289,271
+378,summoner-593537,379,Nasus top orfeed,Diamond 1,86,106,,154,137
+379,summoner-41511,380,LiiiiT,Diamond 1,85,58,,177,163
+380,summoner-217410,381,WhitDude,Diamond 1,85,90,,154,138
+381,summoner-397019,382,lJuanma,Diamond 1,85,110,,129,106
+382,summoner-9673380,383,Netzukadas,Diamond 1,85,67,,117,79
+383,summoner-908592,384,Menfrox,Diamond 1,85,50,,96,67
+384,summoner-28055,385,Redkaz,Diamond 1,84,107,,179,148
+385,summoner-2871352,386,Old West,Diamond 1,84,113,,162,133
+386,summoner-622005,387,Miss Pamela Chu,Diamond 1,84,68,,91,76
+387,summoner-3353886,388,IN2U,Diamond 1,84,79,,53,24
+388,summoner-16132471,389,Almondia,Diamond 1,83,41,,81,39
+389,summoner-813006,390,agosaurio,Diamond 1,82,108,,279,259
+390,summoner-1540456,391,Feple,Diamond 1,82,70,,211,176
+391,summoner-128460,392,Slayer galactico,Diamond 1,82,63,,125,109
+392,summoner-138251,393,Quesíto,Diamond 1,82,128,,77,62
+393,summoner-1367691,394,CatSempai,Diamond 1,82,38,,48,24
+394,summoner-204170,395,Shykop,Diamond 1,82,65,,45,26
+395,summoner-1775562,396,White Nightmare,Diamond 1,81,96,,126,106
+396,summoner-6060805,397,Dulce Pepinillo,Diamond 1,81,72,,121,90
+397,summoner-530613,398,Potluck,Diamond 1,80,82,,66,49
+398,summoner-11530278,399,NiñoRata463,Diamond 1,77,73,,165,147
+399,summoner-292776,400,No juego lol,Diamond 1,77,54,,126,107
+400,summoner-537831,401,N5 Rach,Diamond 1,77,74,,114,97
+401,summoner-545911,402,Psicología,Diamond 1,76,100,,242,224
+402,summoner-328354,403,dont noobs,Diamond 1,76,71,,73,60
+403,summoner-104671,404,ZelCross,Diamond 1,75,102,,325,306
+404,summoner-7647944,405,Feeple,Diamond 1,75,79,,275,212
+405,summoner-557073,406,C3 RedMagic,Diamond 1,75,72,,261,226
+406,summoner-85590,407,Pikachu gr,Diamond 1,75,79,,248,232
+407,summoner-5473629,408,Koko Hekmatier,Diamond 1,75,77,,210,186
+408,summoner-10020131,409,z z,Diamond 1,75,102,,163,132
+409,summoner-58615,410,Chomi  µ,Diamond 1,75,87,,153,123
+410,summoner-28881,411,Killastorm,Diamond 1,75,67,,151,128
+411,summoner-14375080,412,appohC,Diamond 1,75,51,,148,94
+412,summoner-3182235,413,SoloAlguien,Diamond 1,75,112,,143,147
+413,summoner-16270127,414,TheFakerRD,Diamond 1,75,75,,140,111
+414,summoner-6470902,415,Kouke,Diamond 1,75,51,,134,109
+415,summoner-109838,416,Terquito,Diamond 1,75,89,,134,108
+416,summoner-42513,417,El Paté Centeno,Diamond 1,75,64,,131,97
+417,summoner-15180136,418,Fikuwu,Diamond 1,75,72,,131,106
+418,summoner-198009,419,T 4 R Z A N,Diamond 1,75,51,,129,96
+419,summoner-9632211,420,pentakill1997,Diamond 1,75,69,,128,48
+420,summoner-200362,421,Bruse Waynex,Diamond 1,75,47,,127,77
+421,summoner-212665,422,Wolf Franky,Diamond 1,75,52,,126,102
+422,summoner-1404528,423,CDA Simi,Diamond 1,75,71,,124,95
+423,summoner-32016,424,H O R A T I T O,Diamond 1,75,66,,124,107
+424,summoner-73125,425,LeftALone,Diamond 1,75,98,,120,89
+425,summoner-1033036,426,Ichiik46,Diamond 1,75,58,,111,89
+426,summoner-13311629,427,Diginerg,Diamond 1,75,47,,110,75
+427,summoner-130561,428,Xilss,Diamond 1,75,92,,109,82
+428,summoner-4113436,429,Kc TeamRem,Diamond 1,75,88,,107,81
+429,summoner-3680243,430,MichaelXBoyser,Diamond 1,75,56,,106,50
+430,summoner-142400,431,Sxecurity,Diamond 1,75,63,,101,81
+431,summoner-2033825,432,öttovaG,Diamond 1,75,51,,95,56
+432,summoner-58310,433,LennyLeonard,Diamond 1,75,68,,92,61
+433,summoner-2622412,434,TwchTV ARRRmando,Diamond 1,75,47,,90,71
+434,summoner-180439,435,theppcharlie,Diamond 1,75,78,,84,70
+435,summoner-1777510,436,KR0 Nian,Diamond 1,75,81,,84,65
+436,summoner-2831773,437,The King McFly,Diamond 1,75,117,,80,58
+437,summoner-1315791,438,NeeeerzhuL,Diamond 1,75,59,,78,44
+438,summoner-2230732,439,RIP XXXTENTACION,Diamond 1,75,43,,75,32
+439,summoner-1620159,440,IcyDrak,Diamond 1,75,41,,72,42
+440,summoner-1549064,441,EL CAPO DE LAN,Diamond 1,75,49,,66,49
+441,summoner-31930,442,SIushi,Diamond 1,75,54,,55,30
+442,summoner-8644313,443,BIackPink,Diamond 1,75,40,,46,13
+443,summoner-3104008,444,Deadly Insanity,Diamond 1,74,107,,152,136
+444,summoner-6083542,445,Avhernox,Diamond 1,74,58,,93,74
+445,summoner-9170369,446,CannabisJah,Diamond 1,73,57,,164,104
+446,summoner-1377608,447,Nukter xD 69,Diamond 1,73,87,,156,151
+447,summoner-47969,448,Genarox Kid,Diamond 1,73,79,,78,51
+448,summoner-550619,449,Zörek,Diamond 1,73,66,,72,53
+449,summoner-5002722,450,CaptainElroy,Diamond 1,72,60,,229,182
+450,summoner-63556,451,Bolita Erótica,Diamond 1,71,92,,170,155
+451,summoner-7301392,452,xEAvi,Diamond 1,71,91,,66,46
+452,summoner-427397,453,Zonixer,Diamond 1,71,83,,57,39
+453,summoner-670775,454,Shieldworm,Diamond 1,70,112,,269,260
+454,summoner-13340794,455,KZ Hyacinth,Diamond 1,70,58,,132,50
+455,summoner-391560,456,Mataz,Diamond 1,70,68,,127,114
+456,summoner-15070212,457,BirdsInTheTrap,Diamond 1,70,48,,101,43
+457,summoner-203336,458,Akjester,Diamond 1,69,83,,117,96
+458,summoner-2062267,459,NickArc,Diamond 1,69,124,,114,89
+459,summoner-4115179,460,She said yes,Diamond 1,68,81,,311,307
+460,summoner-1531657,461,Fallen IV,Diamond 1,68,105,,233,216
+461,summoner-3834209,462,Dya,Diamond 1,68,116,,108,80
+462,summoner-1523085,463,matadorcirijiyo,Diamond 1,68,102,,91,77
+463,summoner-1240313,464,Böb Toronja,Diamond 1,67,111,,354,339
+464,summoner-3854339,465,Pokemon Champion,Diamond 1,67,107,,124,83
+465,summoner-166210,466,Sycotiz,Diamond 1,67,60,,82,64
+466,summoner-464920,467,MLS Alowake,Diamond 1,66,151,,209,193
+467,summoner-427873,468,Develion,Diamond 1,66,99,,120,105
+468,summoner-415789,469,Not single btw,Diamond 1,66,67,,42,25
+469,summoner-1755142,470,King Kittan,Diamond 1,65,82,,252,236
+470,summoner-312340,471,FORONDA TU PAPÁ,Diamond 1,65,113,,243,215
+471,summoner-284782,472,TrashADCMeta,Diamond 1,65,89,,206,168
+472,summoner-71556,473,iHueco,Diamond 1,65,97,,201,180
+473,summoner-5890190,474,Hidden Clone,Diamond 1,65,85,,63,46
+474,summoner-7412387,475,Nymphia,Diamond 1,65,40,,57,29
+475,summoner-9710161,476,King of the Lane,Diamond 1,64,64,,196,177
+476,summoner-1553487,477,The Crimson Star,Diamond 1,64,94,,138,115
+477,summoner-2183324,478,Morty2,Diamond 1,64,61,,115,97
+478,summoner-168313,479,Reformed Adc,Diamond 1,62,55,,122,107
+479,summoner-281221,480,Guerecaxd,Diamond 1,62,58,,120,104
+480,summoner-284287,481,Rangerswer,Diamond 1,62,89,,104,92
+481,summoner-7874080,482,Verathrim,Diamond 1,62,101,,95,78
+482,summoner-660795,483,Seshúdoishy,Diamond 1,61,122,,237,212
+483,summoner-3974507,484,FNX Murdock,Diamond 1,61,90,,216,199
+484,summoner-15030694,485,GankedByElChapo,Diamond 1,61,71,,212,169
+485,summoner-4118306,486,0XxCarlitosxX0,Diamond 1,61,83,,179,76
+486,summoner-181695,487,0utsider,Diamond 1,61,75,,103,81
+487,summoner-145911,488,tactics88,Diamond 1,61,48,,57,33
+488,summoner-73140,489,asdadasdasda,Diamond 1,61,63,,47,37
+489,summoner-16390137,490,na secret eboy,Diamond 1,60,85,,228,211
+490,summoner-6610179,491,TheFenixx,Diamond 1,60,46,,87,69
+491,summoner-12571167,492,NerF reckles,Diamond 1,59,63,,120,105
+492,summoner-935464,493,Devours Bread,Diamond 1,59,114,,115,95
+493,summoner-137644,494,ENG Riverbear,Diamond 1,58,95,,133,114
+494,summoner-2190509,495,Hugrock,Diamond 1,58,85,,109,99
+495,summoner-68704,496,HellAngeal,Diamond 1,58,54,,105,84
+496,summoner-158371,497,Hienas,Diamond 1,57,130,,345,330
+497,summoner-409526,498,ClockworkApricot,Diamond 1,57,88,,324,282
+498,summoner-1597161,499,WET Granjero,Diamond 1,57,87,,214,201
+499,summoner-26278,500,AxI,Diamond 1,57,70,,187,173
+500,summoner-670630,501,Yuuna,Diamond 1,57,62,,113,78
+501,summoner-378426,502,Ssahka ll,Diamond 1,56,91,,284,278
+502,summoner-811460,503,Raél,Diamond 1,56,111,,135,124
+503,summoner-1559417,504,Hserul,Diamond 1,56,69,,99,86
+504,summoner-2290591,505,Suck My Lantern,Diamond 1,56,98,,96,62
+505,summoner-572077,506,2v diplo dog,Diamond 1,56,77,,85,61
+506,summoner-4068954,507,xAEvi,Diamond 1,55,58,,134,68
+507,summoner-665310,508,HI IM NIGLET,Diamond 1,55,72,,125,108
+508,summoner-157102,509,Jairomedusa,Diamond 1,54,73,,160,144
+509,summoner-878013,510,Im xDeathstrokex,Diamond 1,54,117,,134,107
+510,summoner-1783769,511,KSV CoreJJ,Diamond 1,54,60,,116,99
+511,summoner-133109,512,Justlikethat,Diamond 1,54,67,,105,92
+512,summoner-1582421,513,MartinSON,Diamond 1,53,99,,317,304
+513,summoner-1537815,514,Paziionate,Diamond 1,53,66,,223,208
+514,summoner-2052952,515,Beyond,Diamond 1,53,94,,218,206
+515,summoner-49588,516,Issei,Diamond 1,53,80,,200,181
+516,summoner-6813892,517,is dat her,Diamond 1,53,37,,40,14
+517,summoner-4561887,518,Rapid,Diamond 1,52,76,,173,160
+518,summoner-1118350,519,rey naturaleza,Diamond 1,52,99,,173,158
+519,summoner-1104107,520,delot,Diamond 1,52,67,,96,89
+520,summoner-5272961,521,Holles,Diamond 1,52,79,,57,40
+521,summoner-1733010,522,DoMiNiUs500,Diamond 1,51,83,,161,146
+522,summoner-111038,523,Lesoinne,Diamond 1,51,70,,153,137
+523,summoner-7021902,524,Mogwai,Diamond 1,51,61,,100,72
+524,summoner-178768,525,Johan1g,Diamond 1,50,113,,575,533
+525,summoner-890345,526,SR    SALVA,Diamond 1,50,147,,416,377
+526,summoner-52152,527,TwTv Tisshotzoh,Diamond 1,50,97,,336,313
+527,summoner-179912,528,JUANDJ0,Diamond 1,50,110,,308,298
+528,summoner-15273073,529,Hroudberht,Diamond 1,50,65,,259,227
+529,summoner-190354,530,Synergy,Diamond 1,50,64,,254,226
+530,summoner-12040150,531,Amianto,Diamond 1,50,101,,251,248
+531,summoner-335564,532,Pudge xd,Diamond 1,50,76,,244,211
+532,summoner-203508,533,Zeus sekin,Diamond 1,50,67,,236,215
+533,summoner-102547,534,Billyjimi,Diamond 1,50,93,,217,207
+534,summoner-270388,535,VizAbuelo,Diamond 1,50,106,,206,188
+535,summoner-2222342,536,Márth,Diamond 1,50,73,,184,166
+536,summoner-139550,537,Only Cat,Diamond 1,50,79,,177,161
+537,summoner-102290,538,Heimy,Diamond 1,50,67,,141,123
+538,summoner-144467,539,Chucknight,Diamond 1,50,94,,141,128
+539,summoner-5702867,540,Eve Látigo Cepa,Diamond 1,50,74,,131,107
+540,summoner-11180231,541,IrresistibIe,Diamond 1,50,65,,130,103
+541,summoner-810941,542,vampirin,Diamond 1,50,141,,129,111
+542,summoner-2620557,543,Uzzzi,Diamond 1,50,54,,128,123
+543,summoner-294748,544,Muzeh,Diamond 1,50,78,,123,112
+544,summoner-90648,545,DiosDelCielo,Diamond 1,50,73,,120,110
+545,summoner-31652,546,El MotoTaxi,Diamond 1,50,129,,112,93
+546,summoner-155909,547,KON EscanØr,Diamond 1,50,65,,110,88
+547,summoner-3320859,548,Rírina,Diamond 1,50,190,,101,82
+548,summoner-181355,549,Enanoks,Diamond 1,50,85,,94,87
+549,summoner-2075465,550,PiniMinero,Diamond 1,50,96,,93,79
+550,summoner-12710145,551,Brutak,Diamond 1,50,44,,84,66
+551,summoner-426368,552,Black Fist,Diamond 1,50,77,,83,73
+552,summoner-1107797,553,Kuchurrumin,Diamond 1,50,56,,73,55
+553,summoner-388914,554,Teddyy Kun,Diamond 1,50,109,,64,46
+554,summoner-16321895,555,Drasiel,Diamond 1,49,55,,157,116
+555,summoner-14739158,556,SKT 1 Fakerr,Diamond 1,49,53,,143,105
+556,summoner-427651,557,CG Leid,Diamond 1,49,77,,139,86
+557,summoner-13150129,558,Scorpio X,Diamond 1,49,44,,87,41
+558,summoner-3734374,559,Féng,Diamond 1,49,45,,56,25
+559,summoner-2061006,560,l tsubaki l,Diamond 1,48,47,,112,96
+560,summoner-8024235,561,Blasnais,Diamond 1,47,91,,86,67
+561,summoner-620623,562,Gabi,Diamond 1,46,78,,132,117
+562,summoner-4536116,563,demolder4510,Diamond 1,46,109,,93,65
+563,summoner-615010,564,Top sin TP,Diamond 1,46,95,,90,70
+564,summoner-6650972,565,Soraley,Diamond 1,46,41,,45,22
+565,summoner-288785,566,Ásura,Diamond 1,45,114,,260,251
+566,summoner-57319,567,Usell,Diamond 1,45,71,,90,68
+567,summoner-40541,568,NeiI,Diamond 1,43,157,,285,267
+568,summoner-6150207,569,Omega,Diamond 1,43,92,,142,129
+569,summoner-400742,570,Pacha De Cacique,Diamond 1,43,82,,126,125
+570,summoner-30776,571,Romeroski,Diamond 1,42,159,,527,516
+571,summoner-49094,572,Aione,Diamond 1,42,127,,440,434
+572,summoner-436358,573,À N U N N A K I,Diamond 1,42,92,,91,68
+573,summoner-284096,574,ADC 2K17,Diamond 1,42,69,,65,59
+574,summoner-2023328,575,Mid ABUSER,Diamond 1,41,115,,245,223
+575,summoner-1802879,576,legendario2,Diamond 1,41,74,,141,130
+576,summoner-139973,577,Blanc Chains,Diamond 1,41,188,,127,109
+577,summoner-1165031,578,l   Revólver  l,Diamond 1,41,73,,106,94
+578,summoner-3445115,579,Ariana,Diamond 1,41,55,,76,30
+579,summoner-5473863,580,Anderkiller76,Diamond 1,40,95,,220,208
+580,summoner-10283850,581,holaquehacelol 2,Diamond 1,40,94,,153,111
+581,summoner-9841766,582,YugiLAN,Diamond 1,40,65,,152,126
+582,summoner-552760,583,KC MidSlayer,Diamond 1,39,92,,159,136
+583,summoner-60242,584,NightRD Chelsea,Diamond 1,39,92,,80,54
+584,summoner-5991957,585,l MikyWoodz l,Diamond 1,38,105,,219,180
+585,summoner-527005,586,Purrfect Katido,Diamond 1,38,59,,178,152
+586,summoner-895621,587,blakyu,Diamond 1,37,86,,135,124
+587,summoner-5850853,588,Mø Nôctürnê Nø,Diamond 1,37,104,,104,86
+588,summoner-148297,589,20141231,Diamond 1,36,160,,406,398
+589,summoner-95053,590,Im Josho,Diamond 1,36,73,,155,129
+590,summoner-8161206,591,Qwertyuiop1615,Diamond 1,36,108,,139,115
+591,summoner-21314,592,JeiiZe,Diamond 1,36,57,,90,82
+592,summoner-383095,593,Simon Wrynn,Diamond 1,36,112,,73,51
+593,summoner-2853493,594,Salsami,Diamond 1,35,137,,430,429
+594,summoner-15960146,595,Angelus,Diamond 1,35,62,,219,185
+595,summoner-2381658,596,Sad Bünny,Diamond 1,35,144,,195,185
+596,summoner-920105,597,Softdrink870,Diamond 1,35,85,,134,98
+597,summoner-89554,598,Levis,Diamond 1,35,75,,108,102
+598,summoner-407192,599,Saiito,Diamond 1,35,109,,96,76
+599,summoner-6233600,600,Fearuz,Diamond 1,35,47,,81,58
+600,summoner-2812518,601,Betty n Jughead,Diamond 1,34,113,,386,361
+601,summoner-4524374,602,GO Chorla,Diamond 1,34,109,,281,254
+602,summoner-945098,603,xShinra,Diamond 1,34,108,,240,221
+603,summoner-89215,604,Chemamey Annie,Diamond 1,34,100,,173,154
+604,summoner-16280146,605,Strong Armed Jax,Diamond 1,34,48,,168,123
+605,summoner-3972181,606,JorgeFalcon,Diamond 1,34,123,,75,59
+606,summoner-585104,607,Xory,Diamond 1,33,105,,182,168
+607,summoner-2460760,608,Cardi Hellshok B,Diamond 1,33,97,,144,134
+608,summoner-4180164,609,IIWolfII,Diamond 1,33,118,,98,82
+609,summoner-205568,610,fat,Diamond 1,33,49,,98,81
+610,summoner-939403,611,Raisuke,Diamond 1,33,98,,89,85
+611,summoner-75351,612,Jalou,Diamond 1,32,63,,126,115
+612,summoner-2833877,613,Wåndering,Diamond 1,31,112,,292,274
+613,summoner-1608913,614,BaconEater,Diamond 1,31,80,,161,157
+614,summoner-559229,615,EdBars,Diamond 1,31,73,,123,109
+615,summoner-6213262,616,Líkkrit,Diamond 1,30,47,,85,70
+616,summoner-66356,617,Valente,Diamond 1,30,91,,49,26
+617,summoner-12410942,618,øAzin,Diamond 1,29,90,,328,283
+618,summoner-1166799,619,HítmonLee,Diamond 1,28,133,,450,452
+619,summoner-2074323,620,Lupo Bianco,Diamond 1,27,118,,359,347
+620,summoner-126471,621,Darkrastar,Diamond 1,27,95,,245,212
+621,summoner-173842,622,Drestik,Diamond 1,27,83,,199,197
+622,summoner-4610480,623,Yung Perez,Diamond 1,27,53,,135,109
+623,summoner-1114939,624,Enchanting Fox,Diamond 1,27,143,,95,82
+624,summoner-129455,625,Zutter,Diamond 1,27,121,,69,46
+625,summoner-400575,626,IguanaEmbarazada,Diamond 1,27,99,,65,53
+626,summoner-5463135,627,Arepin,Diamond 1,26,103,,304,296
+627,summoner-7590935,628,El Lobo,Diamond 1,26,144,,161,138
+628,summoner-1383832,629,Fernandoxx98,Diamond 1,26,99,,130,108
+629,summoner-4900157,630,Stiyl Izayoi,Diamond 1,25,84,,338,318
+630,summoner-22108,631,Mr Clean,Diamond 1,25,83,,197,177
+631,summoner-388374,632,GodSebas,Diamond 1,25,94,,153,126
+632,summoner-15221435,633,keurig cup,Diamond 1,25,50,,152,98
+633,summoner-205974,634,Wolf Karsa,Diamond 1,25,71,,144,128
+634,summoner-2114861,635,abcquiumein,Diamond 1,25,98,,103,64
+635,summoner-86685,636,D9 Zeypher,Diamond 1,25,51,,101,53
+636,summoner-168175,637,Ruma 01,Diamond 1,25,50,,72,44
+637,summoner-13764499,638,Anlvia Guy,Diamond 1,25,41,,57,29
+638,summoner-6663290,639,Anbμ,Diamond 1,24,75,,237,191
+639,summoner-2075139,640,Fąng,Diamond 1,24,85,,227,219
+640,summoner-89757,641,Nosco,Diamond 1,23,71,,219,202
+641,summoner-325957,642,RèiN,Diamond 1,23,70,,99,78
+642,summoner-75143,643,Frankyyy,Diamond 1,23,88,,93,75
+643,summoner-142533,644,Ren ˇuˇ,Diamond 1,23,74,,54,46
+644,summoner-1286229,645,madbrizk,Diamond 1,22,103,,307,292
+645,summoner-853257,646,Luhe,Diamond 1,22,61,,165,124
+646,summoner-70963,647,MW Tai,Diamond 1,21,89,,131,90
+647,summoner-3421358,648,Wazabie,Diamond 1,21,69,,128,71
+648,summoner-80398,649,Vipér,Diamond 1,21,80,,109,98
+649,summoner-2162915,650,AsprosDeGéminis,Diamond 1,21,48,,102,78
+650,summoner-91485,651,Ësperanza,Diamond 1,21,70,,55,36
+651,summoner-29426,652,FnR Zefdi,Diamond 1,20,112,,194,173
+652,summoner-585102,653,OliviaNyan,Diamond 1,20,59,,120,89
+653,summoner-2301170,654,afreeca,Diamond 1,20,119,,112,105
+654,summoner-11081519,655,Metal Upa,Diamond 1,20,98,,85,62
+655,summoner-4211874,656,Cefiro,Diamond 1,20,75,,45,26
+656,summoner-831531,657,iG Showtek,Diamond 1,19,119,,456,449
+657,summoner-4773531,658,miiller,Diamond 1,19,124,,389,379
+658,summoner-3894169,659,Fotógrafo de XV,Diamond 1,19,117,,214,172
+659,summoner-164716,660,Oblïvïon,Diamond 1,19,92,,187,180
+660,summoner-610872,661,Kinnes,Diamond 1,19,90,,93,66
+661,summoner-36118,662,eldonas,Diamond 1,18,65,,165,154
+662,summoner-1524175,663,Vectro Wayne,Diamond 1,18,88,,159,150
+663,summoner-137036,664,Nagûra,Diamond 1,18,69,,140,126
+664,summoner-2912867,665,YuphetS,Diamond 1,18,104,,97,73
+665,summoner-661943,666,Raf4s06,Diamond 1,18,75,,88,77
+666,summoner-126279,667,iPocho,Diamond 1,18,69,,61,48
+667,summoner-2282018,668,FelipeL,Diamond 1,18,59,,55,22
+668,summoner-3551662,669,Condon,Diamond 1,17,81,,180,163
+669,summoner-8031494,670,Ráider,Diamond 1,17,106,,133,126
+670,summoner-6521234,671,God of Talon,Diamond 1,17,64,,120,88
+671,summoner-321958,672,Míkoto,Diamond 1,17,61,,107,84
+672,summoner-3464376,673,RV ExiliumSword,Diamond 1,17,57,,97,80
+673,summoner-125839,674,Cm TzunK,Diamond 1,17,60,,92,73
+674,summoner-207719,675,Wolf Harahel,Diamond 1,17,56,,40,28
+675,summoner-2231373,676,DoomwaR,Diamond 1,16,100,,346,334
+676,summoner-77266,677,LaslwS,Diamond 1,16,97,,332,329
+677,summoner-192614,678,Nelsohn,Diamond 1,16,92,,172,163
+678,summoner-617233,679,Minecraft,Diamond 1,16,58,,71,58
+679,summoner-853456,680,92 Explorer,Diamond 1,15,71,,263,244
+680,summoner-72516,681,MedusaDeMar,Diamond 1,15,76,,251,245
+681,summoner-440660,682,Ninjor,Diamond 1,14,93,,366,361
+682,summoner-529633,683,FLA YIYA,Diamond 1,14,100,,202,194
+683,summoner-2683559,684,Rodrigo Ces,Diamond 1,14,75,,112,89
+684,summoner-55801,685,Fufu v2,Diamond 1,13,99,,352,318
+685,summoner-3760707,686,Coca de 600ml,Diamond 1,12,99,,230,219
+686,summoner-3652306,687,Rkman,Diamond 1,12,87,,130,108
+687,summoner-1213846,688,Tefi Baka,Diamond 1,12,97,,97,96
+688,summoner-7583100,689,Sigil of Balance,Diamond 1,12,44,,87,56
+689,summoner-16070139,690,Pyrople,Diamond 1,12,39,,74,37
+690,summoner-822693,691,Fk This Game,Diamond 1,11,118,,251,225
+691,summoner-152094,692,Hiko Lako,Diamond 1,11,77,,182,160
+692,summoner-1527045,693,Fupa Milkbone,Diamond 1,10,44,,86,45
+693,summoner-7230132,694,lBUBUl,Diamond 1,9,98,,205,196
+694,summoner-327704,695,Dr Mister Señor,Diamond 1,9,49,,106,85
+695,summoner-1620236,696,Gravy Milkshake,Diamond 1,9,44,,98,43
+696,summoner-6292617,697,Tom Lücitor,Diamond 1,9,89,,92,85
+697,summoner-10404302,698,Atomz999,Diamond 1,8,61,,184,115
+698,summoner-241604,699,Y Bestia,Diamond 1,7,108,,149,139
+699,summoner-841897,700,Gomez,Diamond 1,7,82,,102,84
+700,summoner-2132823,701,CG Dreams,Diamond 1,6,116,,226,214
+701,summoner-8003974,702,128 BPM,Diamond 1,6,60,,136,123
+702,summoner-10935968,703,R7 PapiSosa,Diamond 1,6,56,,111,90
+703,summoner-3822031,704,Savage Drahga,Diamond 1,5,67,,73,69
+704,summoner-2932738,705,Lord Shura,Diamond 1,4,92,,224,214
+705,summoner-35658,706,Tomoya san,Diamond 1,4,60,,95,76
+706,summoner-378449,707,Khey,Diamond 1,3,96,,278,265
+707,summoner-15433376,708,Draknion,Diamond 1,3,64,,166,125
+708,summoner-531600,709,Cindy,Diamond 1,3,108,,64,47
+709,summoner-14501267,710,D5 HardStuck lul,Diamond 1,2,118,,213,199
+710,summoner-6333065,711,EsojLeugim,Diamond 1,2,63,,196,136
+711,summoner-522106,712,The Dirty Man,Diamond 1,2,46,,92,80
+712,summoner-1090486,713,Boloman,Diamond 1,1,78,,99,89
+713,summoner-103181,714,Edgar,Diamond 1,1,82,,89,80
+714,summoner-8341082,715,Master Shifu,Diamond 1,0,126,,371,362
+715,summoner-1801041,716,PDS Notorious,Diamond 1,0,110,,369,354
+716,summoner-157951,717,Tav,Diamond 1,0,137,,360,346
+717,summoner-3651645,718,No soy Nishkyu,Diamond 1,0,124,,338,327
+718,summoner-44735,719,Murmullo,Diamond 1,0,116,,304,282
+719,summoner-521003,720,Two Guns,Diamond 1,0,105,,298,272
+720,summoner-201602,721,EternityBeast,Diamond 1,0,87,,293,283
+721,summoner-85582,722,ZamirZenNt,Diamond 1,0,99,,284,242
+722,summoner-4760941,723,Beibi Rekkles,Diamond 1,0,118,,273,256
+723,summoner-1111549,724,Mexican G0D,Diamond 1,0,81,,264,239
+724,summoner-156822,725,Rafaelito15,Diamond 1,0,101,,254,243
+725,summoner-297928,726,XoniCC,Diamond 1,0,92,,246,229
+726,summoner-325993,727,ina y ani,Diamond 1,0,76,,231,214
+727,summoner-2603639,728,Fractures,Diamond 1,0,122,,228,230
+728,summoner-2120351,729,Benns,Diamond 1,0,130,,222,205
+729,summoner-203629,730,Lobo Gélido,Diamond 1,0,91,,222,210
+730,summoner-74438,731,Purry,Diamond 1,0,95,,220,234
+731,summoner-1061148,732,TwTv elbananolol,Diamond 1,0,91,,218,224
+732,summoner-615288,733,STL Eifront,Diamond 1,0,91,,216,205
+733,summoner-14422529,734,Sensei Totyx,Diamond 1,0,143,,214,201
+734,summoner-9991796,735,Esaeon,Diamond 1,0,70,,214,218
+735,summoner-45479,736,Agape,Diamond 1,0,91,,203,193
+736,summoner-95768,737,King of Memes,Diamond 1,0,88,,196,181
+737,summoner-4621038,738,iSeltzer,Diamond 1,0,74,,194,150
+738,summoner-667937,739,Mr Cymbal Monkey,Diamond 1,0,85,,190,187
+739,summoner-1523251,740,Aracnidoso,Diamond 1,0,60,,184,143
+740,summoner-202912,741,KiluaHaruno,Diamond 1,0,111,,177,183
+741,summoner-1034041,742,MVP Poni,Diamond 1,0,87,,175,165
+742,summoner-4054538,743,Basura low elo,Diamond 1,0,69,,173,159
+743,summoner-616451,744,lHayl,Diamond 1,0,67,,164,105
+744,summoner-5000438,745,Aterus Loitrewyn,Diamond 1,0,60,,163,140
+745,summoner-2124370,746,Shirõ,Diamond 1,0,121,,161,152
+746,summoner-465010,747,Minatozaki Sana,Diamond 1,0,99,,157,141
+747,summoner-3652637,748,iBrownie,Diamond 1,0,139,,157,123
+748,summoner-15060180,749,SSW Pain,Diamond 1,0,120,,157,119
+749,summoner-156989,750,Säck,Diamond 1,0,80,,155,144
+750,summoner-326441,751,Krix,Diamond 1,0,129,,155,120
+751,summoner-4211612,752,TheQueen Is Back,Diamond 1,0,56,,153,131
+752,summoner-53237,753,Barbacoa Salvaje,Diamond 1,0,62,,152,140
+753,summoner-536362,754,MTH Zombix,Diamond 1,0,113,,151,142
+754,summoner-181748,755,BunnBunnn,Diamond 1,0,91,,150,136
+755,summoner-1321419,756,Yüge,Diamond 1,0,119,,149,132
+756,summoner-181649,757,Amonith,Diamond 1,0,70,,148,139
+757,summoner-40689,758,Żeta11,Diamond 1,0,91,,147,141
+758,summoner-200455,759,TMXChanGo,Diamond 1,0,51,,147,87
+759,summoner-620622,760,Wolf Sáber,Diamond 1,0,67,,140,131
+760,summoner-1010698,761,DTD HellBlaxer,Diamond 1,0,95,,135,123
+761,summoner-7031100,762,KT GorillA,Diamond 1,0,60,,132,122
+762,summoner-3971911,763,Damn Gøre,Diamond 1,0,121,,131,113
+763,summoner-1081104,764,TheLapiz,Diamond 1,0,74,,128,119
+764,summoner-324547,765,Opponent,Diamond 1,0,78,,125,105
+765,summoner-120180,766,Sr Caca,Diamond 1,0,68,,124,108
+766,summoner-1326698,767,zerkerfkin1,Diamond 1,0,99,,120,100
+767,summoner-1210331,768,BurningShärk,Diamond 1,0,75,,116,106
+768,summoner-1761953,769,ßastet,Diamond 1,0,69,,114,108
+769,summoner-2282751,770,Leé sin,Diamond 1,0,87,,108,98
+770,summoner-131151,771,ZoulFox,Diamond 1,0,111,,108,89
+771,summoner-1540530,772,Buscando a Nami,Diamond 1,0,58,,100,74
+772,summoner-31964,773,Merrowgeist,Diamond 1,0,59,,100,90
+773,summoner-16830174,774,HambertHM,Diamond 1,0,53,,98,68
+774,summoner-10100134,775,hi am lance,Diamond 1,0,111,,97,78
+775,summoner-2502529,776,cherud,Diamond 1,0,74,,95,79
+776,summoner-168968,777,μFrank,Diamond 1,0,82,,85,55
+777,summoner-1051669,778,Sinyi,Diamond 1,0,75,,84,71
+778,summoner-3373774,779,VEGÉTA,Diamond 1,0,165,,84,55
+779,summoner-105505,780,Verathrím,Diamond 1,0,70,,81,45
+780,summoner-2620981,781,ONllCHAN,Diamond 1,0,54,,75,55
+781,summoner-37177,782,WILL SMITE xD,Diamond 1,0,42,,75,65
+782,summoner-79085,783,Dango Daikazoku,Diamond 1,0,87,,74,62
+783,summoner-5732873,784,Tigz,Diamond 1,0,45,,72,64
+784,summoner-3353824,785,Feliipe99,Diamond 1,0,51,,59,34
+785,summoner-3190222,786,rub,Diamond 1,0,70,,52,28
+786,summoner-96031,787,thepoisonlol,Diamond 1,0,37,,50,28
+787,summoner-14592566,788,qQ tT,Diamond 1,0,45,,47,24
+788,summoner-2104807,789,z100DeCilantro,Diamond 1,0,34,,46,8
+789,summoner-683204,790,BlackEngel24,Diamond 2,100,156,,596,611
+790,summoner-51178,791,StraiderV2,Diamond 2,100,121,,240,228
+791,summoner-5320190,792,GT Ofwar,Diamond 2,100,112,,232,212
+792,summoner-170113,793,MTT Young Savage,Diamond 2,100,126,,224,208
+793,summoner-10203062,794,el srVładimir,Diamond 2,100,151,,178,136
+794,summoner-130197,795,Doc Efesoo McFly,Diamond 2,100,72,,150,130
+795,summoner-5530185,796,PG White Howl,Diamond 2,100,82,,147,125
+796,summoner-1398245,797,Levidant Joestar,Diamond 2,100,105,,144,120
+797,summoner-141948,798,3124560,Diamond 2,100,71,,141,122
+798,summoner-79214,799,Lp3 Fieram,Diamond 2,100,108,,136,122
+799,summoner-438655,800,Don iama,Diamond 2,100,66,,129,119
+800,summoner-69881,801,Nickleaf,Diamond 2,100,68,,127,105
+801,summoner-4152826,802,Témpest,Diamond 2,100,115,,124,114
+802,summoner-1586060,803,DAVIIXZ,Diamond 2,100,47,,113,70
+803,summoner-281655,804,Thalna,Diamond 2,100,133,,95,83
+804,summoner-284685,805,TheDrestik,Diamond 2,100,43,,90,62
+805,summoner-3942356,806,TSP Sn1p3rr,Diamond 2,100,69,,87,70
+806,summoner-136704,807,Wånheda,Diamond 2,100,51,,64,42
+807,summoner-49539,808,Jelex,Diamond 2,100,62,,38,19
+808,summoner-27961,809,AlexZetroc,Diamond 2,96,70,,225,207
+809,summoner-6140183,810,Shauna Shade,Diamond 2,95,42,,50,32
+810,summoner-270864,811,devztocker,Diamond 2,94,81,,160,147
+811,summoner-13222726,812,Vladímirovich,Diamond 2,94,204,,125,96
+812,summoner-5455176,813,Bayonetta ll,Diamond 2,94,89,,78,79
+813,summoner-1393157,814,caKestyle,Diamond 2,92,50,,146,105
+814,summoner-11362100,815,Bronze Five Elo,Diamond 2,92,47,,95,73
+815,summoner-1162922,816,Ascéndant,Diamond 2,91,102,,168,151
+816,summoner-6312806,817,willyrets,Diamond 2,90,51,,72,48
+817,summoner-4670397,818,lxNeteroxl,Diamond 2,90,63,,59,41
+818,summoner-1232589,819,RIP Yasuo,Diamond 2,89,60,,103,81
+819,summoner-939450,820,Hayashi Yuki,Diamond 2,88,79,,199,198
+820,summoner-3993525,821,Chivo Please,Diamond 2,88,63,,61,29
+821,summoner-536641,822,NxL Tyròn,Diamond 2,87,74,,139,123
+822,summoner-1270181,823,Ryogah,Diamond 2,86,86,,122,79
+823,summoner-3340628,824,El Pister,Diamond 2,85,68,,156,138
+824,summoner-3865079,825,DleGo,Diamond 2,85,84,,116,103
+825,summoner-84096,826,Buckpeck,Diamond 2,84,92,,327,315
+826,summoner-4460274,827,Jeziah,Diamond 2,84,74,,213,194
+827,summoner-426567,828,Danyyy,Diamond 2,84,55,,101,92
+828,summoner-72987,829,xxkatmaster17xx,Diamond 2,83,104,,127,117
+829,summoner-382713,830,Sir Legend,Diamond 2,83,53,,103,58
+830,summoner-649440,831,xxxKALINDORxxx,Diamond 2,83,46,,96,63
+831,summoner-137626,832,Waverly Place,Diamond 2,83,76,,80,66
+832,summoner-4940271,833,Lapara23,Diamond 2,83,56,,77,59
+833,summoner-137596,834,Héroe Heroína,Diamond 2,82,126,,356,343
+834,summoner-212126,835,Neal Caffrey,Diamond 2,82,48,,89,66
+835,summoner-15130529,836,EL WAPO 2,Diamond 2,81,45,,77,33
+836,summoner-5514232,837,RusherZombies,Diamond 2,80,85,,103,93
+837,summoner-15300179,838,ØE InKos,Diamond 2,80,41,,70,48
+838,summoner-1151107,839,Edgar Gv,Diamond 2,79,112,,301,278
+839,summoner-2303396,840,Aegís,Diamond 2,79,97,,150,131
+840,summoner-8320920,841,Lapierre,Diamond 2,79,80,,122,109
+841,summoner-153143,842,Jhiinso,Diamond 2,78,117,,255,234
+842,summoner-2504008,843,Àkali,Diamond 2,77,49,,65,55
+843,summoner-40012,844,Lloyd12,Diamond 2,76,67,,45,22
+844,summoner-92599,845,BréaK,Diamond 2,75,170,,406,383
+845,summoner-1742223,846,Le meilleur,Diamond 2,75,103,,399,369
+846,summoner-9762158,847,lPancito Asesino,Diamond 2,75,134,,348,335
+847,summoner-30855,848,Mechs,Diamond 2,75,126,,311,310
+848,summoner-216496,849,Scratchek,Diamond 2,75,109,,304,281
+849,summoner-74366,850,1Cannon,Diamond 2,75,98,,264,259
+850,summoner-523577,851,frusciante john,Diamond 2,75,65,,204,179
+851,summoner-202746,852,Desperadoo,Diamond 2,75,72,,203,205
+852,summoner-15510127,853,Battlecat lllaoi,Diamond 2,75,134,,199,185
+853,summoner-150207,854,DvD Pan Blandito,Diamond 2,75,74,,196,183
+854,summoner-323469,855,DARKDUGLAS,Diamond 2,75,91,,168,131
+855,summoner-12472445,856,Davô,Diamond 2,75,70,,162,155
+856,summoner-13860599,857,NLX Alovs,Diamond 2,75,81,,152,115
+857,summoner-23658,858,Yakuza AmmoStout,Diamond 2,75,99,,146,136
+858,summoner-4691320,859,7RS Zaot,Diamond 2,75,109,,131,128
+859,summoner-2073319,860,Áizen,Diamond 2,75,55,,123,90
+860,summoner-2491587,861,Deadly30,Diamond 2,75,59,,121,84
+861,summoner-564476,862,Cuborek,Diamond 2,75,69,,99,87
+862,summoner-33010,863,TheNarosOne,Diamond 2,75,94,,98,95
+863,summoner-124352,864,Toxic Lance,Diamond 2,75,64,,95,65
+864,summoner-13892126,865,márquez vladimir,Diamond 2,75,58,,73,58
+865,summoner-14521754,866,His Stan,Diamond 2,75,51,,62,48
+866,summoner-13825367,867,TranquisYoCarreo,Diamond 2,75,40,,58,22
+867,summoner-561407,868,Edapp,Diamond 2,75,48,,55,41
+868,summoner-4761751,869,MelodyEartha,Diamond 2,75,36,,50,20
+869,summoner-792069,870,Feno,Diamond 2,75,42,,49,33
+870,summoner-14520424,871,CaritaT Psosa,Diamond 2,75,39,,40,24
+871,summoner-8540147,872,HandGün,Diamond 2,74,87,,237,234
+872,summoner-5250523,873,Reysher,Diamond 2,73,140,,377,367
+873,summoner-7670266,874,Electric Sunrise,Diamond 2,72,57,,144,98
+874,summoner-435135,875,Sanae,Diamond 2,72,124,,116,94
+875,summoner-7163996,876,Capchii,Diamond 2,72,80,,58,43
+876,summoner-57100,877,Wander Senpai,Diamond 2,71,71,,157,144
+877,summoner-373682,878,Snurbox,Diamond 2,71,64,,145,134
+878,summoner-6601064,879,elhater,Diamond 2,70,103,,225,208
+879,summoner-524800,880,Mewby,Diamond 2,70,88,,191,173
+880,summoner-7570803,881,NanoSauriu,Diamond 2,69,142,,217,209
+881,summoner-510492,882,Valkiriq,Diamond 2,69,85,,102,79
+882,summoner-349707,883,Ferruccio,Diamond 2,69,65,,46,36
+883,summoner-2440596,884,Tenki,Diamond 2,68,83,,297,257
+884,summoner-1114480,885,KappaOhm,Diamond 2,68,89,,131,120
+885,summoner-3680381,886,Lavenza,Diamond 2,68,65,,62,50
+886,summoner-294667,887,jinxý,Diamond 2,68,46,,48,33
+887,summoner-79800,888,Dr Cero MD,Diamond 2,68,36,,42,26
+888,summoner-177321,889,KCG Arsa 1,Diamond 2,68,69,,39,17
+889,summoner-280715,890,The Blind King,Diamond 2,67,94,,235,228
+890,summoner-29658,891,Icarhoos,Diamond 2,67,76,,80,63
+891,summoner-87773,892,Garbage Riven,Diamond 2,67,87,,47,33
+892,summoner-3113788,893,Hype Meteoro,Diamond 2,67,44,,44,37
+893,summoner-13910607,894,Razzle Dazzle,Diamond 2,66,84,,216,204
+894,summoner-192497,895,Josiah,Diamond 2,66,121,,212,171
+895,summoner-10460164,896,MVP Manny,Diamond 2,66,87,,203,172
+896,summoner-282266,897,Raaay,Diamond 2,66,49,,76,68
+897,summoner-872837,898,Gank yuuta,Diamond 2,65,137,,426,367
+898,summoner-625136,899,PolaridadB,Diamond 2,65,124,,328,312
+899,summoner-143341,900,Mr HotCake,Diamond 2,65,138,,118,112
+900,summoner-125382,901,Arhysha,Diamond 2,65,69,,105,105
+901,summoner-304000,902,Ladyhawke,Diamond 2,65,110,,105,94
+902,summoner-1286628,903,ExtremeJorraf,Diamond 2,65,43,,94,44
+903,summoner-5041563,904,DukiT,Diamond 2,65,84,,94,70
+904,summoner-362379,905,Tawwuh,Diamond 2,64,113,,362,341
+905,summoner-6001640,906,xXvastagoXx,Diamond 2,64,46,,137,98
+906,summoner-627606,907,Siegman xd,Diamond 2,64,67,,89,88
+907,summoner-14471755,908,Hisie,Diamond 2,64,67,,72,71
+908,summoner-15880480,909,TRUMPS WALLS,Diamond 2,63,38,,58,24
+909,summoner-168620,910,Pingwii,Diamond 2,62,122,,316,305
+910,summoner-4003201,911,ADC SLAYER KR,Diamond 2,62,89,,251,248
+911,summoner-1374477,912,Ultimate Hunter,Diamond 2,62,115,,219,211
+912,summoner-16132923,913,llIlllllllllIll,Diamond 2,62,43,,107,75
+913,summoner-532418,914,DOKKAEBI,Diamond 2,62,50,,50,23
+914,summoner-1296476,915,CB Jetfree,Diamond 2,61,93,,122,94
+915,summoner-1534748,916,Mish,Diamond 2,61,95,,95,87
+916,summoner-4631106,917,Carita,Diamond 2,60,122,,183,178
+917,summoner-1153925,918,Seis Colores,Diamond 2,59,112,,224,208
+918,summoner-4614723,919,iPlay Top Lane x,Diamond 2,59,49,,151,78
+919,summoner-92344,920,REKKLES FAN No 1,Diamond 2,59,65,,140,124
+920,summoner-24111,921,jorgepereda,Diamond 2,59,70,,138,91
+921,summoner-3110343,922,Hikari Spirit,Diamond 2,59,106,,136,127
+922,summoner-624349,923,WDs Happy,Diamond 2,59,67,,134,132
+923,summoner-11310674,924,Useless Kogmaw,Diamond 2,59,48,,105,66
+924,summoner-1053538,925,Naysek,Diamond 2,58,83,,224,177
+925,summoner-1000537,926,lMaluma,Diamond 2,58,127,,185,174
+926,summoner-2203473,927,peromacho,Diamond 2,58,67,,152,121
+927,summoner-103138,928,Niquel Cobalto,Diamond 2,58,82,,112,103
+928,summoner-212515,929,Sleepwire,Diamond 2,58,57,,107,65
+929,summoner-1528529,930,hotsonabader,Diamond 2,58,75,,97,89
+930,summoner-680674,931,Illllllll,Diamond 2,57,103,,245,240
+931,summoner-530824,932,Azure Rathalos,Diamond 2,57,64,,216,176
+932,summoner-9150152,933,Justin LFT,Diamond 2,57,86,,213,199
+933,summoner-4573722,934,Hielø,Diamond 2,57,114,,123,114
+934,summoner-12924336,935,Panqué,Diamond 2,57,73,,96,70
+935,summoner-1395671,936,skillmouze,Diamond 2,56,132,,168,167
+936,summoner-10401386,937,Jihyö,Diamond 2,56,60,,146,110
+937,summoner-8150289,938,Satsuki Yone,Diamond 2,55,132,,502,494
+938,summoner-3554258,939,Nina Tucker,Diamond 2,55,78,,228,213
+939,summoner-211084,940,Ðánte,Diamond 2,55,65,,194,149
+940,summoner-51541,941,99pl,Diamond 2,55,69,,185,181
+941,summoner-34125,942,ChrisFx,Diamond 2,55,77,,185,189
+942,summoner-94458,943,Nevohteeb,Diamond 2,55,114,,158,137
+943,summoner-529543,944,La La Lanthys,Diamond 2,55,79,,152,143
+944,summoner-21126,945,punketo,Diamond 2,55,66,,101,93
+945,summoner-16521947,946,Jungle Pressure,Diamond 2,55,41,,84,51
+946,summoner-5910220,947,Pr0mesasKeep,Diamond 2,55,105,,74,62
+947,summoner-335491,948,oPonch,Diamond 2,54,104,,341,329
+948,summoner-487004,949,BOOST 4 NUDES,Diamond 2,54,102,,199,192
+949,summoner-1313311,950,SnowBoyz,Diamond 2,54,137,,170,160
+950,summoner-423722,951,Luiixs,Diamond 2,54,57,,96,79
+951,summoner-74991,952,CaMo,Diamond 2,54,60,,65,48
+952,summoner-14682404,953,Megamån,Diamond 2,53,86,,215,196
+953,summoner-173564,954,Rylin,Diamond 2,53,89,,150,105
+954,summoner-14644121,955,Mäddox,Diamond 2,53,65,,96,79
+955,summoner-949823,956,Sutad,Diamond 2,53,111,,84,61
+956,summoner-1041975,957,Murillo Sama,Diamond 2,53,49,,79,76
+957,summoner-114171,958,Lewd Nozomoo,Diamond 2,53,65,,43,29
+958,summoner-873419,959,GaboReformed,Diamond 2,52,148,,408,393
+959,summoner-184233,960,D a r k d e k a,Diamond 2,52,98,,207,202
+960,summoner-424234,961,iCandy,Diamond 2,52,60,,162,149
+961,summoner-25191,962,Dez x,Diamond 2,52,78,,130,117
+962,summoner-5465347,963,FNX Sáns,Diamond 2,51,159,,541,520
+963,summoner-2130864,964,ArchDrone,Diamond 2,51,105,,275,282
+964,summoner-32327,965,Q flojera,Diamond 2,51,67,,161,136
+965,summoner-153936,966,Shadö desu,Diamond 2,51,105,,124,107
+966,summoner-293748,967,Lemo Senpai,Diamond 2,51,117,,121,119
+967,summoner-2083705,968,Âriël,Diamond 2,51,105,,107,95
+968,summoner-4082449,969,Ðead Høpe,Diamond 2,51,83,,75,54
+969,summoner-291241,970,KanskaR,Diamond 2,51,38,,67,34
+970,summoner-12342465,971,mastercreative,Diamond 2,50,115,,345,323
+971,summoner-3811119,972,Shelldon,Diamond 2,50,73,,125,105
+972,summoner-3900261,973,RenGutz,Diamond 2,50,54,,101,85
+973,summoner-1083624,974,Piano,Diamond 2,50,72,,72,51
+974,summoner-190303,975,Shadow Flying,Diamond 2,49,94,,222,216
+975,summoner-2135855,976,Dopa Baby,Diamond 2,49,97,,199,175
+976,summoner-84791,977,DragonRedBlood,Diamond 2,49,37,,67,26
+977,summoner-81346,978,BitterBloom,Diamond 2,49,63,,61,47
+978,summoner-1543874,979,Diriak,Diamond 2,48,134,,177,160
+979,summoner-62293,980,JeanSuppy,Diamond 2,47,73,,148,144
+980,summoner-2293123,981,FnR Striked,Diamond 2,47,122,,130,116
+981,summoner-946863,982,ªTheEvolutionª,Diamond 2,47,100,,101,91
+982,summoner-310553,983,Atreyu Blacksoul,Diamond 2,46,65,,197,175
+983,summoner-383752,984,SW Lushen,Diamond 2,46,71,,134,107
+984,summoner-165556,985,Kíllua,Diamond 2,46,72,,92,79
+985,summoner-455859,986,Pìka,Diamond 2,46,79,,87,83
+986,summoner-467037,987,TDM Kauffmann,Diamond 2,45,136,,281,277
+987,summoner-1376379,988,Dðminic,Diamond 2,45,76,,196,174
+988,summoner-4850748,989,Dovah King,Diamond 2,45,126,,102,88
+989,summoner-1371071,990,Prøphet,Diamond 2,44,136,,261,247
+990,summoner-4626960,991,Gaesaekki,Diamond 2,43,96,,197,188
+991,summoner-2083822,992,THE HOPE,Diamond 2,43,59,,104,91
+992,summoner-299669,993,AnT Shield,Diamond 2,43,89,,89,78
+993,summoner-4100772,994,Midoriyaa,Diamond 2,43,82,,88,75
+994,summoner-9230363,995,Wonder,Diamond 2,43,40,,84,45
+995,summoner-400173,996,NutCoco,Diamond 2,43,57,,82,73
+996,summoner-7561560,997,Diana Cavendîsh,Diamond 2,43,81,,78,52
+997,summoner-69999,998,Podz,Diamond 2,43,84,,76,61
+998,summoner-426497,999,Baby Sonic,Diamond 2,43,46,,62,58
+999,summoner-11971334,1000,Venen1nMAKIO,Diamond 2,43,51,,57,24

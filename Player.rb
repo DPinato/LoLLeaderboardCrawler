@@ -1,4 +1,13 @@
+
+REGIONS = ["euw", "www", "jp", "na", "eune", "oce", "br", "las", "lan", "ru", "tr"]		# initials of the regions
+REGIONS_NUM = REGIONS.size		# number of regions being monitored
+
+
 class Player
+
+	class << self
+		attr_reader :REGIONS, :REGIONS_NUM
+	end
 
   def initialize(id=-1)
     @objId = id   # useful when using multiple threads
@@ -38,7 +47,8 @@ class Player
 			@win.push(playerObj.win.last)
 			@loss.push(playerObj.loss.last)
 
-			@totalGamesPlayed.push(playerObj.win.last + playerObj.loss.last)
+			tmpSum = playerObj.win.last.to_i + playerObj.loss.last.to_i
+			@totalGamesPlayed.push(tmpSum.to_s)
 
 		end
 	end
@@ -59,5 +69,6 @@ class Player
 	attr_accessor :region			# region where player is located
 	attr_accessor :regionID		# this will make it easier when players are categorised by region
 	attr_accessor :totalGamesPlayed
+
 
 end

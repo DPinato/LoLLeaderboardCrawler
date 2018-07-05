@@ -1,0 +1,1004 @@
+#timestamp 1530230407910
+#date 2018-06-29T00:00:07+00:00
+#players 1000
+#index,id,rank,name,tier,lp,level,proTeam,win,loss
+0,summoner-58260945,1,knight8,Challenger,1298,129,,544,425
+1,summoner-4460427,2,Hide on bush,Challenger,1255,128,,548,474
+2,summoner-28862717,3,MVP ADD,Challenger,1228,79,,246,167
+3,summoner-16380488,4,DontRemakeAatrox,Challenger,1215,112,,309,225
+4,summoner-56951349,5,댕 체,Challenger,1149,130,,669,574
+5,summoner-66820148,6,go to California,Challenger,1115,65,,214,150
+6,summoner-54892079,7,ZIBISUP,Challenger,1035,85,,334,257
+7,summoner-56931329,8,tjudlsawqz,Challenger,1023,73,,345,256
+8,summoner-58390689,9,롤스터단합KT,Challenger,1017,118,,694,617
+9,summoner-5802440,10,칼과 창 방패,Challenger,1000,124,,479,407
+10,summoner-43111655,11,KZ Cuzz,Challenger,994,96,,423,354
+11,summoner-66810143,12,아이거또어우,Challenger,959,63,,265,203
+12,summoner-22611767,13,SKT T1 Le0,Challenger,954,112,,460,398
+13,summoner-26421732,14,Lehends,Challenger,954,91,,396,309
+14,summoner-9810634,15,NekoL,Challenger,907,106,,403,322
+15,summoner-71150224,16,thgink9,Challenger,898,56,,265,146
+16,summoner-65821228,17,롤오브레전드1234,Challenger,896,108,,448,380
+17,summoner-59660326,18,yiwancibeishang,Challenger,894,185,,847,784
+18,summoner-48040865,19,하얼빈의쟝첸이야,Challenger,894,63,,271,176
+19,summoner-65710258,20,난 질수없다,Challenger,894,70,,176,111
+20,summoner-6986047,21,독이 있다,Challenger,891,129,,440,388
+21,summoner-57541180,22,MADKlNG,Challenger,884,112,,256,196
+22,summoner-66830152,23,학식먹을나이,Challenger,874,57,,200,140
+23,summoner-1412967,24,daydayupup,Challenger,842,126,,664,610
+24,summoner-3695029,25,real gankster,Challenger,836,114,,622,563
+25,summoner-12910223,26,이 차가 식기전에,Challenger,826,106,,447,386
+26,summoner-1252821,27,GimGoon,Challenger,818,66,,268,210
+27,summoner-68911210,28,Liu xiao you,Challenger,815,62,,297,201
+28,summoner-64250795,29,Karsa fans,Challenger,802,134,,659,603
+29,summoner-43920725,30,호잇이,Challenger,801,126,,545,447
+30,summoner-36871116,31,플리리,Challenger,798,77,,272,204
+31,summoner-66690330,32,greed3,Challenger,795,101,,585,492
+32,summoner-11641191,33,lookatmy,Challenger,793,59,,163,98
+33,summoner-7895259,34,SKT T1 Bang,Challenger,792,93,,268,218
+34,summoner-22071749,35,KT DEFT,Challenger,788,54,,167,103
+35,summoner-66810156,36,킹존 물만두,Challenger,784,66,,273,226
+36,summoner-38710450,37,출애굽기15장27절,Challenger,771,67,,238,180
+37,summoner-9007397,38,Klmjg,Challenger,769,164,,850,791
+38,summoner-8251858,39,IruguN,Challenger,769,91,,329,277
+39,summoner-4473652,40,Gen G CoreJJ,Challenger,761,117,,491,404
+40,summoner-4673576,41,뉴트 주니어,Challenger,758,83,,269,203
+41,summoner-69670582,42,Mark Time,Challenger,757,62,,201,113
+42,summoner-2009412,43,Billys,Challenger,756,108,,496,426
+43,summoner-66840149,44,안니어어엉,Challenger,742,93,,536,484
+44,summoner-26670323,45,츠코파이,Challenger,740,73,,228,163
+45,summoner-38100682,46,KDM LuBu,Challenger,734,122,,386,327
+46,summoner-50800386,47,20 1 1 14,Challenger,734,74,,228,172
+47,summoner-27061092,48,이도류,Challenger,732,110,,383,333
+48,summoner-4463953,49,마마돈워리,Challenger,737,72,,312,260
+49,summoner-66840154,50,Si tu es vivant,Challenger,719,81,,347,290
+50,summoner-16910609,51,DWG BeryL,Challenger,717,145,,690,628
+51,summoner-18791995,52,handcIap,Challenger,714,71,,312,257
+52,summoner-3457702,53,WE 77,Challenger,708,71,,380,258
+53,summoner-3084278,54,구린내가심하구나,Challenger,705,141,,823,726
+54,summoner-62350588,55,N1etonoShana,Challenger,704,88,,288,227
+55,summoner-40261890,56,북쪽의 괴물,Challenger,700,140,,580,527
+56,summoner-63050591,57,Jin Air Nova,Challenger,699,83,,192,136
+57,summoner-5354271,58,아름다운 서울,Challenger,696,124,,582,505
+58,summoner-4542720,59,PandaTV51654,Challenger,692,70,,255,200
+59,summoner-25260179,60,GabrielCRO,Challenger,683,125,,613,541
+60,summoner-50080859,61,htebaziIE,Challenger,682,94,,407,358
+61,summoner-23962092,62,타인은 지옥이다1,Challenger,680,191,,1060,1009
+62,summoner-57580784,63,칼과 창 방패2,Challenger,679,108,,449,382
+63,summoner-18971354,64,오뚜기3분미트볼,Challenger,676,67,,184,138
+64,summoner-42194700,65,ngwm,Challenger,674,80,,453,366
+65,summoner-26022557,66,Gen G Life,Challenger,671,217,,1036,942
+66,summoner-36250290,67,KT Ucal,Challenger,670,80,,372,317
+67,summoner-50830223,68,sorrysorrysorry,Challenger,666,119,,676,624
+68,summoner-19615477,69,Seroum,Challenger,665,91,,270,217
+69,summoner-8550920,70,Aitai1,Challenger,661,185,,485,437
+70,summoner-2481136,71,Jin Air SoHwan,Challenger,660,164,,731,674
+71,summoner-10080249,72,뽀오뽀오,Challenger,659,50,,133,82
+72,summoner-70960224,73,바위게 내꺼야,Challenger,659,38,,69,28
+73,summoner-29341663,74,JAG UmTi,Challenger,655,94,,326,265
+74,summoner-66810144,75,한겨레어린이,Challenger,652,69,,288,241
+75,summoner-16810685,76,SKT T1 ThaI,Challenger,651,123,,441,391
+76,summoner-54751506,77,아이러니,Challenger,648,78,,253,203
+77,summoner-66810141,78,강한남자 강덕배,Challenger,648,93,,236,186
+78,summoner-4425901,79,KZ Khan,Challenger,637,108,,383,339
+79,summoner-35490390,80,bully bully,Challenger,636,117,,463,406
+80,summoner-70980593,81,바다 에스페라,Challenger,632,58,,210,134
+81,summoner-66820147,82,Deft12345678,Challenger,630,76,,348,282
+82,summoner-25330313,83,BtC joker,Challenger,626,144,,518,466
+83,summoner-13555413,84,wo de xiao goumi,Challenger,621,75,,178,102
+84,summoner-41440812,85,BtC Savage,Challenger,617,81,,204,149
+85,summoner-8271480,86,바다의 상어,Challenger,616,71,,256,200
+86,summoner-51651113,87,귀여운안지영,Challenger,615,63,,203,155
+87,summoner-60430645,88,DoRun,Challenger,614,76,,321,262
+88,summoner-6865103,89,jiang you ping,Challenger,606,55,,263,160
+89,summoner-5054111,90,EEW SSUN,Challenger,606,73,,263,192
+90,summoner-5189510,91,돌잔치때도란잡음,Challenger,602,170,,769,721
+91,summoner-4843289,92,Be proud of me,Challenger,602,102,,352,302
+92,summoner-37960539,93,So1o,Challenger,602,91,,315,263
+93,summoner-55060589,94,너와나의연결Gori,Challenger,602,104,,236,181
+94,summoner-53091092,95,dont and me say,Challenger,601,208,,1017,978
+95,summoner-2068171,96,Gen G Ambition,Challenger,601,138,,709,660
+96,summoner-1773786,97,밥잘사주는나쁜형,Challenger,598,67,,223,165
+97,summoner-43871730,98,잘할수있어힘내자,Challenger,594,55,,153,88
+98,summoner-53250371,99,Afreeca Ruby,Challenger,593,116,,600,548
+99,summoner-2165869,100,슈렐리아의사정,Challenger,591,78,,287,239
+100,summoner-10150520,101,카페베네설탕도둑,Challenger,587,89,,261,210
+101,summoner-26592645,102,Hichael Dackson,Challenger,585,90,,348,307
+102,summoner-45311145,103,Deifinu,Challenger,582,93,,290,248
+103,summoner-10310672,104,yitiaoDaxianyu,Challenger,580,110,,709,615
+104,summoner-2706560,105,검은머리사나이,Challenger,580,73,,302,246
+105,summoner-43120962,106,jungsanghyun1,Challenger,577,119,,449,400
+106,summoner-59070567,107,카를로는하,Challenger,576,145,,860,815
+107,summoner-1796100,108,Gen G cuvee,Challenger,575,124,,583,540
+108,summoner-28870358,109,커피남신불쾌하다,Challenger,575,133,,532,483
+109,summoner-1945650,110,chenlun17,Challenger,572,89,,531,457
+110,summoner-57330154,111,엽북이,Challenger,570,91,,391,338
+111,summoner-2370292,112,XIAOXinAAA,Challenger,567,79,,471,346
+112,summoner-10134453,113,chenzhourenbuqu,Challenger,566,135,,565,519
+113,summoner-5154899,114,찬이숙이,Challenger,565,64,,301,235
+114,summoner-2187036,115,KDM Roach,Challenger,560,64,,209,167
+115,summoner-4501290,116,cyeol,Challenger,559,161,,569,526
+116,summoner-35801706,117,명구리버드,Challenger,553,111,,389,347
+117,summoner-38120473,118,Morgan5358,Challenger,550,104,,567,513
+118,summoner-1730843,119,수입뿌드,Challenger,549,113,,530,488
+119,summoner-58960292,120,TT 보배,Challenger,546,120,,685,642
+120,summoner-46311009,121,AFR ArT,Challenger,546,120,,443,401
+121,summoner-63181489,122,Gnarab,Challenger,546,67,,221,160
+122,summoner-29341237,123,WNS Fate,Challenger,543,98,,325,271
+123,summoner-58910718,124,Albus Dumbleluo,Challenger,541,192,,1037,979
+124,summoner-26101623,125,aceerfa,Challenger,541,78,,268,225
+125,summoner-54743978,126,KZ Rascal,Challenger,540,152,,806,740
+126,summoner-47820563,127,keria00,Challenger,540,133,,574,518
+127,summoner-56221322,128,Levellup,Challenger,538,98,,376,323
+128,summoner-19523335,129,DWG Nuclear,Challenger,538,58,,160,100
+129,summoner-64670611,130,술담배는절대안해,Challenger,538,50,,108,57
+130,summoner-29341691,131,ESS Dasher,Challenger,533,101,,326,278
+131,summoner-3181583,132,Nabi,Challenger,528,127,,398,350
+132,summoner-38160601,133,Gen G Ruler,Challenger,527,127,,506,448
+133,summoner-21320363,134,llllllllIIllll,Challenger,527,81,,331,287
+134,summoner-7791613,135,사스갓지지,Challenger,525,108,,407,363
+135,summoner-57960470,136,천천히올라감,Challenger,524,138,,557,501
+136,summoner-66500335,137,교도소 돼지,Challenger,523,111,,525,473
+137,summoner-32096236,138,Baby123,Challenger,522,87,,297,247
+138,summoner-51950149,139,XinMo,Challenger,521,130,,527,472
+139,summoner-12952008,140,강태공고추,Challenger,520,164,,844,793
+140,summoner-26691029,141,사 용 수,Challenger,517,139,,705,655
+141,summoner-65611597,142,zlp gj,Challenger,515,87,,500,424
+142,summoner-3335692,143,nekoneko1,Challenger,515,125,,480,447
+143,summoner-8377903,144,구마유시,Challenger,514,182,,827,790
+144,summoner-9112012,145,명구리버즈,Challenger,513,96,,325,277
+145,summoner-2712005,146,KZ GorillA,Challenger,512,104,,335,300
+146,summoner-66820145,147,독극물지미뉴트론,Challenger,509,68,,298,253
+147,summoner-45641407,148,ililiiiillliil,Challenger,508,82,,396,325
+148,summoner-3149868,149,단군의청춘부재,Challenger,508,95,,308,265
+149,summoner-2110301,150,퍼그개졸귀,Challenger,507,76,,284,235
+150,summoner-5662482,151,온자이족,Challenger,505,108,,592,546
+151,summoner-67340981,152,키네카,Challenger,498,56,,114,39
+152,summoner-1111747,153,mimimimmm,Challenger,496,105,,338,271
+153,summoner-11244514,154,qjy    QAQ,Challenger,493,102,,396,355
+154,summoner-48140675,155,세븐틴 하이딘,Challenger,493,79,,177,132
+155,summoner-5674873,156,chirchri,Challenger,487,62,,165,108
+156,summoner-1533024,157,aoligei,Challenger,482,117,,486,443
+157,summoner-3964535,158,Banana fish,Challenger,482,92,,397,354
+158,summoner-68551216,159,KT Kingen,Challenger,482,65,,277,215
+159,summoner-38471569,160,귤수호자 만기,Challenger,482,71,,197,152
+160,summoner-66480343,161,윤소완,Challenger,476,112,,634,589
+161,summoner-66800180,162,GangKING88,Challenger,475,65,,250,215
+162,summoner-17530810,163,1987 Plls,Challenger,474,103,,300,256
+163,summoner-66490303,164,Chuangshang,Challenger,474,63,,229,181
+164,summoner-1296022,165,김국어,Challenger,473,112,,377,336
+165,summoner-5588270,166,Rainbow22,Challenger,471,100,,387,343
+166,summoner-3648328,167,Sol로랭크,Challenger,469,73,,175,111
+167,summoner-3964487,168,센센S2,Challenger,467,107,,343,299
+168,summoner-63420567,169,승달리,Challenger,466,71,,191,126
+169,summoner-60621433,170,종학e,Challenger,465,95,,363,308
+170,summoner-5344238,171,WithApd,Challenger,482,73,,192,78
+171,summoner-25301734,172,HLE Kuzan,Challenger,464,111,,490,444
+172,summoner-12132641,173,이기자 할수있다,Challenger,462,68,,228,187
+173,summoner-57601149,174,Juan OVO,Challenger,461,70,,231,178
+174,summoner-59790246,175,뿡 형,Challenger,474,133,,666,606
+175,summoner-55622034,176,다른게아니라틀려,Challenger,457,72,,343,261
+176,summoner-66840152,177,집중좀할게요,Challenger,456,67,,231,192
+177,summoner-62380878,178,다소곳한,Challenger,455,116,,544,492
+178,summoner-42450647,179,RNG Vector,Challenger,452,43,,112,47
+179,summoner-64520617,180,간 츠,Challenger,505,104,,195,135
+180,summoner-17564611,181,성보고 권희원,Challenger,452,156,,836,792
+181,summoner-1323757,182,의 주,Challenger,452,139,,434,388
+182,summoner-37330462,183,율천고 최현우,Challenger,452,147,,418,376
+183,summoner-66820149,184,ABC123D4,Challenger,452,75,,249,200
+184,summoner-9740345,185,baby hang,Challenger,451,112,,500,449
+185,summoner-66500333,186,Victorique,Challenger,450,130,,573,531
+186,summoner-22033662,187,SKT T1 Pirean,Challenger,449,147,,774,732
+187,summoner-23980376,188,GIorie,Challenger,449,92,,232,183
+188,summoner-68800398,189,생뚱맞은앵뚱쌩뚱,Challenger,448,51,,141,75
+189,summoner-1990503,190,baramgaebi,Challenger,447,103,,326,284
+190,summoner-42095093,191,남포동 포동포동,Challenger,447,89,,230,180
+191,summoner-40810897,192,WNS Kuma,Challenger,446,128,,735,682
+192,summoner-32600160,193,화가 난 사람,Challenger,446,185,,721,680
+193,summoner-23606470,194,남동현,Challenger,441,118,,591,549
+194,summoner-49620761,195,asdojaiosjdo,Challenger,434,170,,741,699
+195,summoner-22804199,196,살기시러요,Challenger,431,96,,393,325
+196,summoner-1164825,197,우르프rider,Challenger,401,191,,1243,1206
+197,summoner-41790768,198,먹는게즐거워,Challenger,416,115,,439,396
+198,summoner-58860222,199,hf ghkyu,Challenger,410,67,,240,186
+199,summoner-44550314,200,걔나소나 유소나,Challenger,397,56,,224,149
+200,summoner-13931178,201,가나라마아바,Master,455,55,,95,53
+201,summoner-66830148,202,춘봉박,Master,446,54,,172,133
+202,summoner-66242092,203,winN1ebear,Master,442,98,,564,499
+203,summoner-17671966,204,거대현,Master,441,43,,144,72
+204,summoner-19524471,205,ke ai jiao,Master,440,49,,196,110
+205,summoner-28920777,206,Destiny,Master,433,81,,250,206
+206,summoner-8550362,207,Hellohowareyou,Master,433,61,,159,108
+207,summoner-7804261,208,숙련자3,Master,432,76,,206,140
+208,summoner-24910546,209,wkfgkrhtlvdj,Master,430,118,,483,446
+209,summoner-2521310,210,Afreeca Spirit,Master,429,105,,314,278
+210,summoner-9804278,211,Akumar,Master,427,123,,473,422
+211,summoner-30550903,212,HLE Lindarang,Master,425,98,,367,325
+212,summoner-66800152,213,veryverycold,Master,425,66,,238,199
+213,summoner-66450326,214,FW Shlauc,Master,422,154,,1007,963
+214,summoner-59880951,215,분노분노분노,Master,421,108,,400,368
+215,summoner-41780873,216,RBE Malrang,Master,421,65,,244,198
+216,summoner-8201453,217,RWSoSo,Master,418,113,,422,392
+217,summoner-17280234,218,JJUN12,Master,418,83,,197,153
+218,summoner-3464863,219,호 셍,Master,417,99,,441,406
+219,summoner-13881401,220,zhixun,Master,417,65,,219,159
+220,summoner-11936903,221,3 4yu ji,Master,416,83,,252,212
+221,summoner-3262127,222,Ask 섬집아기곰,Master,414,93,,215,166
+222,summoner-57730822,223,lbkgnfkgng,Master,411,75,,216,170
+223,summoner-1943712,224,만두 맛있어요,Master,409,129,,476,434
+224,summoner-38532544,225,Gen G 몽,Master,408,118,,484,434
+225,summoner-65470828,226,Mango Dog,Master,406,191,,1008,969
+226,summoner-64470199,227,zichenQAQ,Master,406,65,,305,202
+227,summoner-52162008,228,너무절실한사람,Master,406,64,,276,175
+228,summoner-66061536,229,TenShi,Master,405,91,,317,270
+229,summoner-54924744,230,its my day,Master,404,161,,574,555
+230,summoner-30090209,231,jin can yi,Master,402,92,,360,321
+231,summoner-59030865,232,lulie,Master,402,86,,197,156
+232,summoner-66830147,233,덩크슛의향연,Master,399,62,,236,206
+233,summoner-6140824,234,FW SwordArT,Master,396,113,,402,365
+234,summoner-12240511,235,할아브가주인공,Master,390,130,,554,502
+235,summoner-2932177,236,Luubaby,Master,388,137,,668,628
+236,summoner-51951264,237,와노쿠니 쇼군,Master,388,107,,554,506
+237,summoner-66810142,238,버터난프라운커리,Master,388,97,,233,189
+238,summoner-6390203,239,정상적인 심장,Master,387,144,,649,609
+239,summoner-19421492,240,멘탈잡자으쌰으쌰,Master,387,114,,462,425
+240,summoner-4252326,241,귀여운 나무인간,Master,385,114,,518,503
+241,summoner-3633510,242,1427538696835724,Master,381,46,,127,84
+242,summoner-34790605,243,커닝시티 몽땅따,Master,377,79,,284,238
+243,summoner-6831878,244,Unfortunate Soul,Master,376,86,,221,173
+244,summoner-26010272,245,봄에는쭈꾸미,Master,375,123,,459,403
+245,summoner-12600476,246,프제짱,Master,375,112,,449,405
+246,summoner-71810170,247,플리리2,Master,375,42,,107,43
+247,summoner-17571984,248,다표음식은너야,Master,374,169,,920,874
+248,summoner-58290226,249,Equality 7 2521,Master,373,49,,158,99
+249,summoner-66371904,250,꼬마 진우,Master,372,70,,258,193
+250,summoner-2031907,251,아테나찡,Master,371,92,,357,315
+251,summoner-43862013,252,실수는누구나한다,Master,369,60,,186,144
+252,summoner-48980950,253,HLE Brook,Master,368,173,,896,864
+253,summoner-9004218,254,pvman,Master,368,58,,214,149
+254,summoner-36990696,255,아라가키 유이,Master,366,70,,176,135
+255,summoner-3697742,256,격세지감,Master,362,137,,532,489
+256,summoner-38680194,257,지현이의빗자루,Master,360,130,,509,472
+257,summoner-3722221,258,Galactic lo,Master,355,75,,414,298
+258,summoner-66321931,259,하와나,Master,351,107,,596,540
+259,summoner-30961897,260,블 원,Master,351,94,,358,303
+260,summoner-56990787,261,MVP 모티브,Master,351,106,,323,281
+261,summoner-2212042,262,skt t1 jdm,Master,351,61,,239,181
+262,summoner-2577586,263,요플래,Master,350,72,,278,246
+263,summoner-9605250,264,군밤갓,Master,350,85,,172,131
+264,summoner-23524883,265,마산가자,Master,349,118,,457,427
+265,summoner-11483655,266,무질량,Master,348,173,,319,278
+266,summoner-7641018,267,Wake up0,Master,347,161,,666,615
+267,summoner-49900667,268,Akiyam2,Master,347,97,,432,383
+268,summoner-49570519,269,mei you da long,Master,347,73,,278,240
+269,summoner-12092486,270,온실속의감자,Master,343,85,,243,197
+270,summoner-13965344,271,6학년4반장용준,Master,342,99,,336,309
+271,summoner-57810272,272,17살 정글,Master,340,138,,631,592
+272,summoner-27971322,273,KZ Peanut,Master,340,116,,402,362
+273,summoner-66800178,274,Lakhesis,Master,337,77,,367,326
+274,summoner-34990391,275,무서운 뱀 독,Master,336,67,,135,93
+275,summoner-21531315,276,절대짜증내지않기,Master,332,112,,586,541
+276,summoner-37951232,277,MeiTian Kun,Master,332,96,,444,408
+277,summoner-30171275,278,혜지기여워,Master,332,74,,294,251
+278,summoner-69110589,279,엽북e,Master,332,63,,289,229
+279,summoner-17595057,280,KDM SSol,Master,331,70,,174,142
+280,summoner-54931012,281,나에게 기회를,Master,330,113,,416,371
+281,summoner-53061130,282,wyt0111,Master,329,90,,374,332
+282,summoner-68680307,283,Griffin fans,Master,326,64,,203,148
+283,summoner-66460321,284,NoYuiNoBABYMETAL,Master,324,80,,376,333
+284,summoner-1150203,285,서울카즈아,Master,324,96,,333,273
+285,summoner-66810154,286,Louis XIIl,Master,323,65,,277,234
+286,summoner-16022128,287,Na Ge Xing Li,Master,321,142,,748,717
+287,summoner-5187941,288,4seidon,Master,321,81,,393,335
+288,summoner-33260313,289,BtC Do LaoN,Master,321,105,,370,336
+289,summoner-66800153,290,스으을스으을,Master,320,119,,721,700
+290,summoner-1180166,291,좋은날,Master,318,81,,168,133
+291,summoner-67200131,292,Rockky,Master,318,46,,124,97
+292,summoner-7971961,293,Zhiqiang  nandao,Master,317,61,,275,165
+293,summoner-66820142,294,우산고로쇠,Master,317,53,,217,131
+294,summoner-65571508,295,S2vely,Master,317,85,,196,149
+295,summoner-4371502,296,angular 4,Master,316,83,,362,310
+296,summoner-70910217,297,CR7GOD,Master,316,37,,55,28
+297,summoner-70870210,298,Leesrael,Master,316,37,,55,28
+298,summoner-26512925,299,Curious PoP,Master,315,93,,274,231
+299,summoner-66431362,300,La Lune tear,Master,315,55,,204,88
+300,summoner-9081041,301,Cyberbully,Master,313,64,,215,166
+301,summoner-2771169,302,121754978,Master,311,135,,654,627
+302,summoner-1508361,303,gunwu,Master,311,111,,550,508
+303,summoner-9054348,304,미곤개 나갈꼬냐,Master,311,102,,474,432
+304,summoner-26372166,305,내눈은뜨여있다,Master,310,107,,453,416
+305,summoner-66031564,306,한번만 참는다,Master,310,84,,393,336
+306,summoner-1107455,307,whckiop,Master,310,71,,256,217
+307,summoner-47600290,308,cherish0120,Master,306,73,,351,302
+308,summoner-24953043,309,매일 졸려요,Master,306,98,,217,166
+309,summoner-31590644,310,Afreeca 청춘이다,Master,305,72,,246,198
+310,summoner-8342164,311,양치하고 자라,Master,299,158,,694,664
+311,summoner-67161308,312,Foy,Master,298,112,,584,517
+312,summoner-22191421,313,난 끝나지 않았어,Master,298,90,,367,330
+313,summoner-52170140,314,Kiiroitor1,Master,297,95,,414,374
+314,summoner-26473035,315,KDM Edge,Master,296,121,,472,437
+315,summoner-21310540,316,Frida Kahlo,Master,296,63,,223,178
+316,summoner-66800151,317,말걸지마람,Master,292,63,,300,249
+317,summoner-9334945,318,The Encounter,Master,291,113,,581,535
+318,summoner-65701396,319,너 없이도,Master,291,110,,461,435
+319,summoner-66171952,320,예리살렘,Master,307,64,,191,135
+320,summoner-54904131,321,KDM Umaru,Master,287,138,,539,502
+321,summoner-45290205,322,playplayy,Master,287,136,,403,365
+322,summoner-1233954,323,Homme,Master,286,84,,464,367
+323,summoner-48450255,324,unknovvn pIayer,Master,285,97,,306,259
+324,summoner-4403914,325,뭐라고번역하지,Master,283,103,,395,363
+325,summoner-8602299,326,엉덩국 갱승제로,Master,280,78,,261,215
+326,summoner-2143047,327,도 넛,Master,242,93,,226,183
+327,summoner-8906415,328,gym,Master,280,71,,136,93
+328,summoner-2006507,329,너구리팬,Master,279,118,,561,528
+329,summoner-28922117,330,HLE Mightybear,Master,278,100,,565,494
+330,summoner-22021606,331,Wmir,Master,278,67,,249,194
+331,summoner-46130461,332,Excuse,Master,277,141,,267,231
+332,summoner-56561937,333,Tanwanlanyue,Master,275,258,,1383,1344
+333,summoner-17753382,334,시오도메 미우나,Master,275,115,,158,115
+334,summoner-5734285,335,Jin Air Justice,Master,274,139,,567,539
+335,summoner-40720433,336,JungSangHyun,Master,274,94,,284,243
+336,summoner-18132662,337,wanyue,Master,273,45,,132,61
+337,summoner-11943987,338,By 불비,Master,272,118,,404,369
+338,summoner-27691177,339,jiijjijijijijii,Master,271,115,,368,333
+339,summoner-1407916,340,lovefxy713,Master,270,75,,335,283
+340,summoner-11016583,341,캐리욤,Master,269,64,,233,191
+341,summoner-4674798,342,135903panda,Master,285,104,,462,419
+342,summoner-3941091,343,aetcal,Master,267,89,,489,444
+343,summoner-12022069,344,HanGuo Xiao Daye,Master,266,81,,253,211
+344,summoner-7120223,345,미우나릿카니코,Master,266,74,,244,199
+345,summoner-50810794,346,98kkkkk,Master,265,99,,385,344
+346,summoner-58220393,347,허찌킬,Master,265,102,,328,286
+347,summoner-25170222,348,JAG Grace,Master,263,114,,428,395
+348,summoner-17113034,349,BlackGat,Master,262,106,,299,217
+349,summoner-54110219,350,미드프로지망인,Master,262,54,,218,146
+350,summoner-2395962,351,유내현,Master,262,104,,211,170
+351,summoner-44370797,352,권희원,Master,243,63,,203,156
+352,summoner-66470341,353,SupAug,Master,260,90,,456,399
+353,summoner-2437893,354,Kur1ko,Master,259,155,,753,721
+354,summoner-7391078,355,Huya CaiqiKate,Master,257,105,,511,469
+355,summoner-21993899,356,Sol로랭크2,Master,257,125,,216,167
+356,summoner-41170221,357,Nu99et,Master,255,106,,450,413
+357,summoner-14500181,358,선사고 1학년,Master,253,94,,355,295
+358,summoner-68870894,359,자퇴할래요,Master,253,58,,236,172
+359,summoner-70230632,360,t9c9y8,Master,251,62,,279,217
+360,summoner-66100310,361,식샤를합시다3,Master,251,84,,244,210
+361,summoner-4363128,362,suweisuweisuwei,Master,249,120,,789,744
+362,summoner-3618583,363,PandaTV93154,Master,248,76,,163,64
+363,summoner-69210383,364,qwrasdd1ldasa,Master,247,73,,427,356
+364,summoner-1091187,365,KT MATA,Master,247,54,,79,49
+365,summoner-17192280,366,DoJang,Master,245,117,,576,533
+366,summoner-1130167,367,Sim Student,Master,245,128,,546,507
+367,summoner-2434054,368,2데스미만,Master,245,47,,92,46
+368,summoner-9365589,369,하트곤듀,Master,244,64,,362,245
+369,summoner-63840337,370,4386509348,Master,244,78,,227,186
+370,summoner-11076959,371,술통 볼링,Master,243,121,,473,430
+371,summoner-1213025,372,뮤므리투슈,Master,242,114,,635,597
+372,summoner-31591492,373,ESS Troy,Master,242,88,,215,172
+373,summoner-69790491,374,Fairy Gyu,Master,241,51,,108,47
+374,summoner-44061008,375,숙련자 4,Master,240,144,,554,525
+375,summoner-54811204,376,DWG Nuguri,Master,240,69,,192,149
+376,summoner-5961330,377,죠니에요,Master,240,62,,131,42
+377,summoner-67021740,378,love jiaobao,Master,299,119,,754,684
+378,summoner-54864166,379,노력해야하는사람,Master,239,133,,508,474
+379,summoner-1779578,380,쫄깃한 우동사리,Master,238,111,,516,486
+380,summoner-65151558,381,RushRush,Master,237,127,,381,341
+381,summoner-19200756,382,헤 르,Master,237,104,,196,158
+382,summoner-5821947,383,chaoyuewuxian,Master,235,129,,562,521
+383,summoner-9880524,384,aNaT,Master,235,139,,428,387
+384,summoner-9617107,385,mingjing,Master,235,60,,179,139
+385,summoner-2190492,386,kiana,Master,234,116,,546,503
+386,summoner-42223084,387,SKT T1 Blossom,Master,234,96,,322,288
+387,summoner-1687546,388,시마시마 하나코,Master,234,87,,220,192
+388,summoner-1725011,389,dailexxxxx,Master,233,134,,691,663
+389,summoner-1317404,390,굴러 싶지 않아,Master,233,106,,489,456
+390,summoner-1262299,391,babymimi,Master,232,114,,448,406
+391,summoner-66301571,392,16살 원딜러,Master,231,123,,662,596
+392,summoner-2915858,393,장 닌,Master,230,67,,352,241
+393,summoner-7713866,394,An noob TOP,Master,228,69,,167,122
+394,summoner-1228815,395,FW Maple,Master,227,83,,158,121
+395,summoner-11191521,396,71의기적,Master,226,64,,241,190
+396,summoner-64650653,397,FortniteUser,Master,226,68,,144,89
+397,summoner-3591068,398,송익민,Master,225,115,,476,445
+398,summoner-59800833,399,마유즈미,Master,225,103,,420,372
+399,summoner-54350484,400,terqwasdgfgvxcvc,Master,224,125,,570,541
+400,summoner-7978352,401,taesang,Master,222,170,,857,825
+401,summoner-3700181,402,Fairy Bit,Master,220,157,,295,251
+402,summoner-36240175,403,인성쓰레기김근성,Master,219,81,,367,321
+403,summoner-68471059,404,짬뽕짜장탕수육,Master,217,51,,188,131
+404,summoner-64870667,405,치다망치,Master,217,62,,174,137
+405,summoner-48971080,406,fighttttt,Master,216,132,,624,591
+406,summoner-6824445,407,NO 브래인,Master,215,44,,102,50
+407,summoner-5630625,408,Xie yu yu7,Master,214,171,,758,721
+408,summoner-1639586,409,ShaShenFeng,Master,214,76,,331,260
+409,summoner-22825024,410,Victoria Island,Master,214,70,,290,247
+410,summoner-57611000,411,Nkachaiby,Master,213,113,,509,474
+411,summoner-13572669,412,swi3e,Master,213,65,,279,235
+412,summoner-37821214,413,부끄부끄,Master,211,60,,152,97
+413,summoner-3263292,414,Afreeca Kramer,Master,210,93,,265,224
+414,summoner-2387742,415,zhao AD113755088,Master,207,71,,387,286
+415,summoner-13684896,416,SKT T1 BIank,Master,207,100,,370,350
+416,summoner-54692988,417,담원 쇼메이커,Master,207,86,,290,238
+417,summoner-51621803,418,아우라백,Master,206,161,,663,631
+418,summoner-59240888,419,NOoOB Z,Master,206,118,,510,482
+419,summoner-51060360,420,SD건담캡슐파이,Master,206,79,,125,98
+420,summoner-11894870,421,온실화초,Master,205,136,,640,607
+421,summoner-1113700,422,zhonggu0 niu bi,Master,205,148,,617,593
+422,summoner-55000698,423,4Honey,Master,205,77,,267,221
+423,summoner-70570856,424,PandaTV1608339,Master,204,42,,117,60
+424,summoner-36130734,425,i want lck duo,Master,203,61,,232,178
+425,summoner-52013031,426,밤하늘 은,Master,202,92,,583,521
+426,summoner-4959450,427,TOP Ggoong,Master,202,97,,408,378
+427,summoner-55370930,428,멘탈안좋아,Master,202,100,,313,278
+428,summoner-20500168,429,감사한데더주세요,Master,167,105,,457,419
+429,summoner-33310849,430,너는나보다아래야,Master,201,99,,312,284
+430,summoner-65510569,431,Lizberne,Master,200,80,,269,207
+431,summoner-16020164,432,brrrr,Master,199,63,,206,157
+432,summoner-54863179,433,태을천 상원군,Master,199,48,,137,59
+433,summoner-1651289,434,나츠카린,Master,198,82,,391,359
+434,summoner-56920136,435,takma2,Master,197,90,,477,434
+435,summoner-37710890,436,더블비 보물섬,Master,197,98,,246,218
+436,summoner-3871049,437,KlNG,Master,197,76,,223,183
+437,summoner-21894104,438,사람한사람,Master,196,115,,449,418
+438,summoner-21620445,439,지존꼬부기,Master,196,94,,411,374
+439,summoner-1716004,440,난 질자신이없다,Master,157,148,,442,398
+440,summoner-13621964,441,새어악,Master,193,176,,966,938
+441,summoner-26152621,442,Pz ZZang,Master,193,79,,205,170
+442,summoner-60460400,443,수 넝,Master,193,45,,148,88
+443,summoner-51120921,444,Apk TolanD,Master,191,92,,481,408
+444,summoner-39891971,445,Patr1ck,Master,191,114,,403,361
+445,summoner-40200280,446,에이 알 티,Master,191,64,,190,157
+446,summoner-3791400,447,BtC SoaR,Master,190,119,,408,370
+447,summoner-1260851,448,Mute M1d,Master,190,65,,296,250
+448,summoner-50130702,449,l3est16,Master,189,108,,389,359
+449,summoner-34690137,450,DaYE,Master,189,85,,211,177
+450,summoner-5719445,451,김다은,Master,189,57,,178,128
+451,summoner-7703494,452,mangguoyunoma,Master,188,145,,613,579
+452,summoner-26602065,453,해산물shangdan,Master,188,113,,372,341
+453,summoner-9882091,454,스눈이,Master,188,62,,146,109
+454,summoner-66810150,455,Cofflswj123,Master,187,62,,223,182
+455,summoner-1781915,456,TS hencool,Master,166,49,,203,59
+456,summoner-50390691,457,양충하,Master,184,123,,433,395
+457,summoner-45380573,458,PopcornTv15462,Master,183,64,,100,59
+458,summoner-10723566,459,ktmgs,Master,182,76,,250,218
+459,summoner-49060978,460,dzs,Master,181,63,,230,197
+460,summoner-1961012,461,JK Te Fan Nao,Master,180,61,,312,184
+461,summoner-3349958,462,MVP Pilot,Master,180,69,,235,197
+462,summoner-1765372,463,바보2,Master,179,112,,308,278
+463,summoner-10558935,464,irmaking,Master,179,63,,273,205
+464,summoner-55272069,465,빛 인 영,Master,179,114,,222,184
+465,summoner-2932051,466,helper9,Master,178,143,,492,456
+466,summoner-5310176,467,yulihong22,Master,177,132,,598,576
+467,summoner-2725261,468,슝토리,Master,176,149,,471,441
+468,summoner-3713154,469,내가강만식,Master,176,76,,328,297
+469,summoner-5186173,470,KM  jun,Master,176,98,,321,281
+470,summoner-11856799,471,Robini,Master,174,66,,343,264
+471,summoner-2006300,472,XintaigodOVO,Master,174,44,,129,78
+472,summoner-64301029,473,Xayira,Master,172,65,,129,75
+473,summoner-65812333,474,한서준,Master,171,121,,625,589
+474,summoner-1561704,475,ERLKoNlG,Master,171,111,,516,470
+475,summoner-1804326,476,한남사냥꾼김진호,Master,171,87,,437,393
+476,summoner-17614530,477,Goldguns 하,Master,170,57,,257,167
+477,summoner-42112736,478,Zoo E,Master,169,119,,173,101
+478,summoner-66490301,479,첸 하오,Master,168,107,,632,595
+479,summoner-66443443,480,킹존 불만두,Master,168,44,,80,19
+480,summoner-59070863,481,Helpless,Master,166,108,,608,569
+481,summoner-55170797,482,love left,Master,166,92,,307,272
+482,summoner-3828290,483,TaiYuanPigGay,Master,165,122,,459,379
+483,summoner-6974223,484,2000 12 06,Master,165,112,,438,403
+484,summoner-51730382,485,설레임 에디션1,Master,164,139,,705,673
+485,summoner-6993034,486,nmsla,Master,163,79,,231,206
+486,summoner-66480341,487,무자비한 힘,Master,162,61,,218,179
+487,summoner-7986567,488,Smile2,Master,162,60,,197,129
+488,summoner-41913808,489,DWG ShowMaker,Master,159,109,,416,350
+489,summoner-8490152,490,lmdlfmh,Master,177,75,,417,300
+490,summoner-3131594,491,칭찬은항상짜릿해,Master,158,108,,457,413
+491,summoner-70370343,492,Cord 9,Master,158,42,,106,54
+492,summoner-13731393,493,이성조,Master,157,107,,322,289
+493,summoner-11962235,494,익 뇽,Master,157,93,,185,146
+494,summoner-3658991,495,WNS NiGHT,Master,157,92,,174,124
+495,summoner-69170643,496,매일 화나요,Master,156,52,,170,121
+496,summoner-10417053,497,Careful in Bush,Master,155,90,,360,275
+497,summoner-2042398,498,Excee cI,Master,155,70,,289,253
+498,summoner-10790592,499,악마검,Master,155,61,,202,154
+499,summoner-3649533,500,커피물조절장인,Master,154,158,,653,625
+500,summoner-17574071,501,헤 돈,Master,154,112,,487,448
+501,summoner-50401099,502,19IXU,Master,154,86,,308,273
+502,summoner-34711309,503,KDM Moo,Master,153,177,,980,941
+503,summoner-19500241,504,Chizko,Master,153,86,,223,187
+504,summoner-46510727,505,A Mask,Master,153,62,,187,150
+505,summoner-70460610,506,qqeewrshashasha,Master,186,46,,180,125
+506,summoner-54882156,507,miwu,Master,150,146,,867,833
+507,summoner-33790536,508,소미라,Master,150,127,,474,439
+508,summoner-15900620,509,1rony,Master,149,80,,250,210
+509,summoner-13987196,510,Restart  X,Master,148,71,,408,296
+510,summoner-37101022,511,zhongdan jayce,Master,146,94,,252,208
+511,summoner-11151197,512,IgNar,Master,145,98,,333,316
+512,summoner-7710745,513,StandAchance,Master,143,113,,441,401
+513,summoner-46320228,514,정재현1234,Master,143,94,,292,254
+514,summoner-1518380,515,모데꾸르잼,Master,142,145,,421,381
+515,summoner-31352881,516,레몬 나무,Master,142,121,,377,340
+516,summoner-12035736,517,떡락한다아아,Master,142,73,,184,139
+517,summoner-58990819,518,연갱양,Master,126,98,,397,366
+518,summoner-51470266,519,One Last Chen,Master,138,192,,653,630
+519,summoner-10605858,520,캐 인,Master,138,124,,547,503
+520,summoner-3829231,521,tiwqfjaskagfs,Master,138,101,,436,405
+521,summoner-67010248,522,MAD l3reeze,Master,138,129,,368,359
+522,summoner-10713040,523,Dont turn back,Master,138,58,,193,123
+523,summoner-2060159,524,뽀송뽀송개뽀송,Master,137,91,,305,266
+524,summoner-31700901,525,MVP Ian,Master,137,93,,267,233
+525,summoner-6841819,526,dont farm plz,Master,136,93,,294,261
+526,summoner-44911013,527,아삭아삭아삭,Master,136,68,,263,225
+527,summoner-61050186,528,IIrrooGG,Master,152,92,,313,267
+528,summoner-5860208,529,CN hf ghkyu 2,Master,134,118,,737,695
+529,summoner-1667914,530,binnnnnnnnn,Master,134,118,,507,470
+530,summoner-9051018,531,쌔배래가,Master,133,124,,493,456
+531,summoner-63012012,532,하뉴 아우아우,Master,133,66,,243,187
+532,summoner-34260312,533,L1sure,Master,132,60,,139,114
+533,summoner-1397152,534,By myself,Master,131,156,,591,560
+534,summoner-6712275,535,conglinroubo,Master,130,126,,728,680
+535,summoner-62360860,536,냥 체,Master,165,172,,587,550
+536,summoner-5072077,537,16 gua pi jg,Master,129,114,,665,624
+537,summoner-29072069,538,헤이스트TV,Master,129,146,,574,537
+538,summoner-8349635,539,YanXuan,Master,129,88,,231,194
+539,summoner-64710699,540,발전하는모습,Master,129,56,,200,145
+540,summoner-13021308,541,희미한 너의 미소,Master,128,184,,164,130
+541,summoner-1235113,542,멋있다남자친구,Master,127,111,,488,442
+542,summoner-31171991,543,빵재애오,Master,127,113,,433,410
+543,summoner-22844817,544,노을이 그린 그림,Master,127,83,,316,274
+544,summoner-66490304,545,Kabigon포켓몬,Master,126,92,,471,444
+545,summoner-10434522,546,콜르키,Master,126,98,,389,354
+546,summoner-61050384,547,goumeinie,Master,126,93,,369,347
+547,summoner-5340166,548,20세기출생틀딱,Master,125,64,,294,227
+548,summoner-22361159,549,N0T Going,Master,124,68,,224,187
+549,summoner-2931911,550,pi9,Master,124,73,,208,178
+550,summoner-60030452,551,APK Bonnie,Master,123,149,,522,492
+551,summoner-39891105,552,Hachi J,Master,140,72,,381,322
+552,summoner-66242600,553,Gen G 알파몽,Master,123,72,,289,228
+553,summoner-12230581,554,ForbesKorea,Master,122,105,,537,499
+554,summoner-60581657,555,메포스노,Master,121,126,,602,568
+555,summoner-55181097,556,티슈 없음,Master,83,110,,407,378
+556,summoner-51611085,557,Aopida,Master,121,72,,265,230
+557,summoner-3480396,558,Need change,Master,120,112,,653,624
+558,summoner-4652561,559,JG Revolution,Master,120,99,,373,340
+559,summoner-1978011,560,하나둘셋s,Master,120,87,,283,244
+560,summoner-58850925,561,cbzOvO,Master,119,97,,392,357
+561,summoner-60570127,562,Only Thrash Play,Master,118,124,,589,536
+562,summoner-34180971,563,MVP MaHa,Master,118,75,,337,283
+563,summoner-48980704,564,Afreeca GankZero,Master,117,63,,246,204
+564,summoner-71900132,565,남릉의꽃,Master,117,56,,244,178
+565,summoner-66800143,566,Uzumaki Zest,Master,116,84,,388,355
+566,summoner-5235895,567,want good lucky,Master,115,174,,851,841
+567,summoner-4281709,568,히yee찬,Master,115,105,,458,423
+568,summoner-12172266,569,어린시절의 결과,Master,115,110,,269,234
+569,summoner-69780132,570,Rrandolf,Master,115,58,,230,208
+570,summoner-7550251,571,외쳐주유소갓라카,Master,115,116,,218,186
+571,summoner-69870238,572,cause if you,Master,115,44,,124,64
+572,summoner-66810137,573,2188,Master,114,121,,614,581
+573,summoner-66301736,574,퍼플팀 판빙빙,Master,114,93,,329,290
+574,summoner-63081008,575,낮밤바꾸고싶어,Master,114,41,,105,47
+575,summoner-2066872,576,neshyoizn,Master,113,183,,478,451
+576,summoner-63110758,577,all etum,Master,112,105,,622,580
+577,summoner-6902195,578,mulda mulda,Master,112,81,,231,192
+578,summoner-41400135,579,wei bo xie,Master,112,46,,103,62
+579,summoner-28742441,580,KDM X,Master,111,64,,135,107
+580,summoner-19610794,581,FW MooJin,Master,109,98,,270,240
+581,summoner-60711437,582,현 솔,Master,109,93,,269,232
+582,summoner-59270778,583,Myple Story,Master,109,58,,180,126
+583,summoner-1222470,584,짱지드,Master,108,66,,265,231
+584,summoner-56131290,585,First start,Master,108,90,,138,109
+585,summoner-48620616,586,진짜잘안죽음,Master,106,53,,166,101
+586,summoner-63071630,587,노력중인레블이,Master,105,129,,466,440
+587,summoner-10749868,588,ililillliliilili,Master,104,89,,242,207
+588,summoner-42022952,589,내가잘했네,Master,104,61,,205,157
+589,summoner-2846565,590,Soul TuT,Master,103,90,,362,341
+590,summoner-68210223,591,황 시한,Master,103,61,,260,239
+591,summoner-59550611,592,FJHGGJ,Master,103,74,,221,190
+592,summoner-63140816,593,새비지 블로우,Master,103,54,,139,99
+593,summoner-20581773,594,I Do han,Master,102,148,,762,737
+594,summoner-30151254,595,grrenie,Master,102,78,,331,299
+595,summoner-10075062,596,북관서관남관동관,Master,101,118,,558,518
+596,summoner-63190661,597,나는 닭이다 어,Master,101,55,,234,185
+597,summoner-49021047,598,zxcjxcxxc,Master,103,159,,734,698
+598,summoner-1113675,599,CloserCloser,Master,100,124,,412,388
+599,summoner-45330484,600,람사한실절무너,Master,98,82,,349,324
+600,summoner-65651819,601,졸린가본데,Master,36,61,,129,85
+601,summoner-73410124,602,SNG Proud,Master,97,45,,63,44
+602,summoner-31363138,603,APK DalKa,Master,96,63,,180,143
+603,summoner-4104992,604,Seven7777777,Master,94,161,,746,717
+604,summoner-2862747,605,이걸살어,Master,93,93,,313,287
+605,summoner-66460322,606,MidAWM,Master,92,97,,500,464
+606,summoner-1099258,607,asfklhgaksfb02,Master,91,136,,641,622
+607,summoner-70790527,608,나 이찬희야,Master,91,54,,201,150
+608,summoner-47730170,609,qian qian ovo,Master,91,59,,154,113
+609,summoner-73230243,610,RankGameplayer1,Master,90,33,,42,18
+610,summoner-65350658,611,Born to dead,Master,89,68,,276,226
+611,summoner-38870618,612,ad only plz,Master,89,60,,199,167
+612,summoner-17141403,613,미치게써요,Master,89,82,,150,114
+613,summoner-56020747,614,FlaSH F,Master,88,93,,369,325
+614,summoner-68491462,615,유노유키,Master,88,58,,225,144
+615,summoner-4882335,616,Do1u1u,Master,87,90,,356,311
+616,summoner-21700581,617,정치질극혐함,Master,87,70,,207,170
+617,summoner-37650160,618,wo yao qu daye,Master,87,73,,190,161
+618,summoner-66273684,619,pandaTVhuiren,Master,87,51,,174,112
+619,summoner-58040878,620,CharmingKiller M,Master,86,82,,279,255
+620,summoner-29411909,621,금똥왁왁,Master,99,147,,625,603
+621,summoner-11067454,622,As is God,Master,84,68,,104,69
+622,summoner-4976700,623,닭체세,Master,84,80,,81,42
+623,summoner-4392845,624,한기울,Master,83,127,,545,498
+624,summoner-3843820,625,jiayo,Master,82,131,,561,533
+625,summoner-9260483,626,badeMan,Master,82,117,,510,477
+626,summoner-17920231,627,Chat sher,Master,82,60,,158,128
+627,summoner-54180535,628,페 냐,Master,80,90,,234,195
+628,summoner-66810155,629,아무것도못해따,Master,78,97,,306,281
+629,summoner-3590493,630,Rose 지창욱,Master,78,64,,199,153
+630,summoner-4042446,631,초보혁명,Master,77,58,,152,114
+631,summoner-61110963,632,WD4Y,Master,90,110,,189,122
+632,summoner-4611157,633,LuGeon,Master,75,64,,120,81
+633,summoner-62500783,634,가을이 오는 날,Master,73,166,,570,538
+634,summoner-5212676,635,우왕V,Master,73,74,,332,277
+635,summoner-34710713,636,HLE SeongHwan,Master,72,103,,382,354
+636,summoner-3292133,637,자신을증명하다,Master,72,62,,268,229
+637,summoner-54070956,638,선물용따까리계정,Master,72,68,,266,205
+638,summoner-62341029,639,WyverN,Master,72,46,,107,69
+639,summoner-23725641,640,Rain123,Master,71,61,,263,217
+640,summoner-40271865,641,퍼블따면뽀뽀해줘,Master,71,70,,106,70
+641,summoner-57691225,642,11122233344455,Master,70,91,,508,452
+642,summoner-43620322,643,T0P Jayce,Master,70,106,,466,444
+643,summoner-68471070,644,shijiemomori,Master,70,62,,306,251
+644,summoner-72400277,645,wnsrldkrl,Master,70,49,,188,131
+645,summoner-23486481,646,이실력에잠이안와,Master,70,67,,146,85
+646,summoner-5122177,647,핑42로점수올리기,Master,69,126,,607,592
+647,summoner-1782529,648,q237655984,Master,69,91,,543,455
+648,summoner-54540532,649,kmjsrh,Master,69,61,,181,144
+649,summoner-9008291,650,칼날부리의 반격,Master,68,127,,314,279
+650,summoner-66810184,651,qqwrewq,Master,68,53,,151,123
+651,summoner-1410703,652,블러드이블,Master,67,90,,529,423
+652,summoner-1534748,653,bie yang de wen,Master,67,55,,239,136
+653,summoner-5628391,654,조용히겜만해여,Master,66,72,,176,143
+654,summoner-66371145,655,오현택,Master,65,87,,419,361
+655,summoner-9100379,656,Heart,Master,65,101,,323,262
+656,summoner-53191044,657,Unfathomed f0rce,Master,64,127,,441,404
+657,summoner-1344293,658,진에어 카카오,Master,64,97,,429,407
+658,summoner-3774522,659,861016,Master,64,102,,351,322
+659,summoner-4463057,660,jiejiejiang,Master,64,64,,315,204
+660,summoner-48941378,661,Gaopei,Master,63,92,,276,241
+661,summoner-56921556,662,박범찬 독불장군,Master,59,110,,527,499
+662,summoner-1222794,663,Afreeca Kuro,Master,59,58,,60,32
+663,summoner-5332397,664,Lea Marcella,Master,58,107,,467,437
+664,summoner-29301571,665,gari1,Master,56,91,,315,279
+665,summoner-11331054,666,기혁 니은 디귿,Master,55,125,,457,439
+666,summoner-68831478,667,대해롤못함,Master,55,63,,229,176
+667,summoner-27401264,668,연초보,Master,54,81,,393,361
+668,summoner-65191458,669,Paddle Star,Master,53,120,,621,568
+669,summoner-66490308,670,GakkiQQ,Master,53,72,,310,281
+670,summoner-69070698,671,사랑조소진,Master,53,60,,282,223
+671,summoner-1657317,672,feIIasIeep,Master,52,132,,676,648
+672,summoner-32770348,673,잘 밍,Master,52,90,,408,336
+673,summoner-2146829,674,iCarry,Master,52,92,,195,156
+674,summoner-40712103,675,SNG Alpaca,Master,51,129,,540,500
+675,summoner-20450514,676,kfo,Master,51,117,,531,506
+676,summoner-33260366,677,Hanzel,Master,51,54,,113,62
+677,summoner-43540800,678,나카노 요츠Ba,Master,50,126,,639,610
+678,summoner-11801754,679,Sorry or Carry,Master,49,114,,384,347
+679,summoner-21762405,680,고가빈,Master,49,68,,179,132
+680,summoner-66361334,681,곰손아 사랑해,Master,47,105,,529,470
+681,summoner-2000928,682,oho oho,Master,47,110,,441,423
+682,summoner-10180990,683,Uzai go,Master,47,56,,255,169
+683,summoner-40161124,684,KEYIN,Master,26,60,,188,157
+684,summoner-63120486,685,띵킹왕,Master,45,79,,223,172
+685,summoner-67010249,686,MAD PiPi,Master,44,124,,582,583
+686,summoner-5891255,687,Hcq0101,Master,42,65,,338,270
+687,summoner-13712033,688,Mn Gale Adelaide,Master,42,195,,191,137
+688,summoner-11847335,689,18501159717,Master,42,56,,186,152
+689,summoner-69000687,690,빡굴희,Master,42,54,,140,50
+690,summoner-3764026,691,wJx,Master,42,47,,124,88
+691,summoner-50451034,692,와 말을 넘다,Master,41,115,,487,465
+692,summoner-65840766,693,Fairway,Master,41,79,,275,242
+693,summoner-1342472,694,설겅구,Master,40,80,,474,405
+694,summoner-31301623,695,쓰레기71,Master,40,102,,452,425
+695,summoner-37750750,696,태초마을의한지우,Master,40,105,,428,400
+696,summoner-25102783,697,love zxc,Master,40,89,,376,355
+697,summoner-13762462,698,BtC Dove,Master,40,103,,330,303
+698,summoner-10992152,699,논리가 없다,Master,38,78,,406,342
+699,summoner-51210803,700,창 그리고 활,Master,38,80,,292,258
+700,summoner-1513898,701,ELSSUT,Master,59,97,,286,249
+701,summoner-6102371,702,일반게임해설자,Master,38,66,,254,203
+702,summoner-2116208,703,Felda,Master,38,81,,183,144
+703,summoner-22971662,704,MEEEEEEEEE,Master,38,86,,93,62
+704,summoner-63011211,705,완벽해욜,Master,37,163,,601,569
+705,summoner-3232737,706,송중기오빠,Master,37,68,,337,301
+706,summoner-56920693,707,흥흥 똑땅해,Master,37,110,,185,149
+707,summoner-1567183,708,Choi inSec,Master,36,70,,232,198
+708,summoner-57451336,709,HLE Lava,Master,35,90,,291,260
+709,summoner-35190772,710,스누피808,Master,35,87,,279,248
+710,summoner-70130649,711,무엇이 정답일까,Master,35,55,,213,157
+711,summoner-10670581,712,JingJingYi,Master,34,113,,485,450
+712,summoner-4545607,713,오키콜,Master,34,61,,284,207
+713,summoner-52042347,714,악시 뒷바라지,Master,33,86,,271,249
+714,summoner-62491425,715,BJ건이야,Master,33,92,,223,185
+715,summoner-40050381,716,널 사랑할 시간,Master,33,81,,184,155
+716,summoner-27730240,717,서쿤 봇,Master,76,134,,698,659
+717,summoner-17676141,718,Bisu0,Master,32,137,,417,380
+718,summoner-1302185,719,kkkiwi,Master,32,55,,167,136
+719,summoner-5930944,720,프간로절,Master,30,98,,303,271
+720,summoner-67131392,721,최기명,Master,33,68,,295,222
+721,summoner-38801035,722,MidMldMldMIdplzz,Master,30,58,,204,131
+722,summoner-43280170,723,CDD1최상위 레벨,Master,29,143,,636,605
+723,summoner-57210288,724,wldrcdqyuwnkvqmw,Master,29,111,,520,496
+724,summoner-1562737,725,스마트섹시뷰티,Master,29,137,,447,419
+725,summoner-2387650,726,M3 xyTvTzz,Master,29,66,,168,132
+726,summoner-59520737,727,ESOK,Master,27,138,,361,339
+727,summoner-68621057,728,yemengxiyue,Master,27,48,,151,84
+728,summoner-22310736,729,Xiaolizi,Master,26,161,,706,674
+729,summoner-40330567,730,162cm 150kg  3cm,Master,26,112,,360,334
+730,summoner-3425381,731,Kuro유키,Master,26,103,,258,234
+731,summoner-1872558,732,흐아아아압하아압,Master,10,77,,233,197
+732,summoner-1442769,733,오십반,Master,26,57,,120,83
+733,summoner-1241372,734,ZeroLouise,Master,25,88,,289,258
+734,summoner-55820410,735,CutieMisaki,Master,24,84,,294,258
+735,summoner-54813482,736,APK Paladin,Master,23,105,,466,438
+736,summoner-53210668,737,진에어 노바,Master,23,104,,402,380
+737,summoner-1733792,738,Fox B Remind,Master,23,91,,210,169
+738,summoner-52981223,739,BongSu,Master,22,70,,176,128
+739,summoner-2007632,740,졉같네,Master,22,41,,103,52
+740,summoner-63071145,741,kimtaem1n,Master,21,110,,506,479
+741,summoner-2554610,742,RagTag,Master,20,155,,697,660
+742,summoner-5104972,743,삶이뒤틀린사람,Master,20,50,,160,125
+743,summoner-8881423,744,BnBRnR,Master,19,89,,391,364
+744,summoner-5090851,745,KCIRT2,Master,19,101,,383,364
+745,summoner-66500330,746,Mingriqingfeng,Master,19,94,,375,345
+746,summoner-8245498,747,kkkkkkkkki,Master,19,113,,371,348
+747,summoner-56421884,748,Eloim Essaim,Master,19,73,,338,311
+748,summoner-18901686,749,넝 꿀,Master,19,99,,293,257
+749,summoner-64340466,750,July777,Master,19,71,,217,114
+750,summoner-18501905,751,어휴에휴으휴,Master,19,51,,149,100
+751,summoner-3691479,752,you cant gank me,Master,18,116,,649,603
+752,summoner-53140760,753,LilianOvO,Master,18,128,,585,563
+753,summoner-68900410,754,포기없는삶,Master,18,80,,343,275
+754,summoner-1422190,755,warmdays,Master,18,90,,341,310
+755,summoner-11424264,756,J때리지마요,Master,18,61,,282,183
+756,summoner-4824523,757,모르탱,Master,54,59,,273,204
+757,summoner-2017411,758,곰탱이하루,Master,18,96,,254,221
+758,summoner-7790307,759,다현준의,Master,18,95,,214,180
+759,summoner-44320436,760,FW MooJin2,Master,18,65,,195,168
+760,summoner-4110666,761,불가원,Master,17,115,,725,663
+761,summoner-14041881,762,도라에이몽,Master,17,101,,412,373
+762,summoner-11114073,763,생각좀하면서하자,Master,17,102,,395,364
+763,summoner-11360697,764,개찍겨,Master,17,72,,374,303
+764,summoner-1513734,765,zi bi zhong dan,Master,17,61,,259,188
+765,summoner-59931614,766,me2,Master,17,86,,216,190
+766,summoner-2466512,767,Rehsad,Master,17,48,,93,68
+767,summoner-13605621,768,마술사 JeffeRy,Master,17,42,,85,53
+768,summoner-66401184,769,qixingzhaoyang,Master,16,65,,220,178
+769,summoner-65500242,770,can win please,Master,16,67,,205,171
+770,summoner-30411283,771,1등찍고죽을사람,Master,15,104,,558,520
+771,summoner-7942386,772,iite,Master,15,112,,457,426
+772,summoner-13862454,773,살려줘요 형님아,Master,15,99,,350,330
+773,summoner-67951591,774,새우볶음밥,Master,15,66,,287,227
+774,summoner-1097326,775,Expession,Master,15,97,,184,157
+775,summoner-1982691,776,woYishijie,Master,15,47,,168,115
+776,summoner-54792651,777,살아난이중구,Diamond 1,37,135,,730,722
+777,summoner-1971751,778,광어는서뉴꺼,Master,14,170,,664,647
+778,summoner-9971877,779,Todesstunde,Master,14,110,,366,331
+779,summoner-1454207,780,CrazzyCat,Master,14,72,,243,193
+780,summoner-19301692,781,SogaUnda,Master,14,96,,212,176
+781,summoner-29300816,782,사랑해 나의 라칸,Master,14,61,,192,134
+782,summoner-68021068,783,생애첫벌금오만원,Master,14,50,,141,74
+783,summoner-13330988,784,GCA BarOh,Master,30,156,,690,660
+784,summoner-11906407,785,쭈스잡기,Master,13,90,,459,389
+785,summoner-20511519,786,Cott0n,Master,13,134,,400,375
+786,summoner-20881975,787,the maus,Master,13,57,,248,164
+787,summoner-46040986,788,상처잘받아요,Master,13,61,,174,133
+788,summoner-56501204,789,너무못하는 지노,Master,13,73,,108,59
+789,summoner-5972919,790,독산동섹마남선우,Master,12,61,,156,99
+790,summoner-45430880,791,EXpress7,Master,12,63,,77,48
+791,summoner-45140675,792,진에어 테디,Master,10,58,,161,107
+792,summoner-8355881,793,yizhiyu fans,Master,9,83,,287,261
+793,summoner-66500332,794,AlphaGo 002,Master,9,63,,227,206
+794,summoner-48270239,795,Shibuya Haruka,Master,8,110,,650,615
+795,summoner-56521696,796,MrPJ,Master,7,139,,831,781
+796,summoner-71500208,797,맘글렛,Master,7,43,,99,49
+797,summoner-66840138,798,326310326310,Master,6,98,,541,509
+798,summoner-5578721,799,월수화목토금일,Master,6,71,,211,188
+799,summoner-66820133,800,사진 작가 YC,Master,5,97,,522,502
+800,summoner-41981013,801,WNS Lucifer,Master,4,95,,270,252
+801,summoner-50170375,802,소라카로 투 마티,Master,3,55,,163,84
+802,summoner-27780169,803,액쇼니,Master,2,124,,381,359
+803,summoner-1890851,804,드레모닉,Master,2,81,,343,289
+804,summoner-2024672,805,16sup,Master,1,118,,518,497
+805,summoner-60301490,806,R1kka,Master,1,75,,269,243
+806,summoner-66470336,807,Shima R1n,Master,0,226,,1132,1113
+807,summoner-25640828,808,1703 1128,Master,43,142,,931,878
+808,summoner-6761042,809,WNS Latina,Master,0,134,,697,660
+809,summoner-2482319,810,하나니나리타이,Master,0,165,,637,611
+810,summoner-3835427,811,와이제겜도재미잃,Master,0,129,,567,545
+811,summoner-2713017,812,나는 또 죽었다,Diamond 1,50,125,,557,538
+812,summoner-2175404,813,사랑은뜨겁게,Master,0,140,,556,530
+813,summoner-8642728,814,HIP FO,Master,0,101,,554,532
+814,summoner-26080688,815,성욱쟝,Master,0,100,,529,513
+815,summoner-58220473,816,Not human 견백,Master,0,147,,528,502
+816,summoner-3063578,817,400점,Master,0,131,,511,481
+817,summoner-50820240,818,Tangwa,Master,0,92,,491,463
+818,summoner-27381116,819,Virus9,Master,0,89,,490,414
+819,summoner-24140974,820,meixiangdao8,Master,0,111,,465,448
+820,summoner-63210893,821,User01,Master,0,132,,460,435
+821,summoner-21801752,822,Reload My Life,Master,0,118,,460,422
+822,summoner-55800299,823,날 탓 할 차례,Master,0,104,,456,428
+823,summoner-13482118,824,JWE,Master,0,123,,419,388
+824,summoner-66412213,825,술먹은오태식,Master,0,98,,419,365
+825,summoner-27791602,826,시게왕,Master,0,101,,416,377
+826,summoner-58880640,827,라밀라이아,Master,0,76,,407,336
+827,summoner-1513290,828,라 꼬,Master,0,99,,396,368
+828,summoner-68840964,829,혜화역일기토,Master,0,79,,375,302
+829,summoner-25900779,830,Cryin Fans,Master,0,90,,373,351
+830,summoner-66850142,831,HLE 나는상윤123,Master,0,96,,362,334
+831,summoner-2145512,832,덕업일신망라사방,Master,0,92,,360,336
+832,summoner-13951415,833,채영이의 야스오,Master,0,88,,360,264
+833,summoner-17170984,834,내가바로금수저,Master,0,66,,346,280
+834,summoner-62030940,835,Dekar,Master,0,108,,336,313
+835,summoner-9872623,836,niuwadiand1an,Master,0,66,,332,261
+836,summoner-23542834,837,BtC Hollow,Master,0,89,,328,308
+837,summoner-3826390,838,쏠 플,Master,0,168,,324,296
+838,summoner-6992257,839,hard gir1,Master,0,80,,316,291
+839,summoner-50950290,840,수 얌,Master,0,87,,306,278
+840,summoner-63540335,841,제 짱,Master,0,73,,303,243
+841,summoner-1201977,842,메인퓌디,Master,0,72,,302,270
+842,summoner-41910589,843,드하자 시르도엔,Master,0,81,,299,267
+843,summoner-20650168,844,Stifits,Master,0,91,,298,267
+844,summoner-10594791,845,miaohulu,Master,0,81,,293,273
+845,summoner-19603923,846,주기지마 살려죠,Master,0,86,,292,228
+846,summoner-1154367,847,AP Innovation,Master,0,68,,281,257
+847,summoner-21874201,848,LLeave,Master,0,86,,278,259
+848,summoner-69750516,849,KoMi,Master,0,60,,272,214
+849,summoner-2066937,850,앙 88용띠,Master,0,87,,268,242
+850,summoner-54830581,851,qgqcjz,Master,0,63,,268,220
+851,summoner-59000220,852,고독 환자,Master,0,64,,264,225
+852,summoner-17091518,853,우아아  참잘해써,Master,0,110,,256,223
+853,summoner-38941060,854,변춘수,Master,0,86,,251,224
+854,summoner-2939463,855,피곤한 느낌,Master,0,59,,249,210
+855,summoner-60370643,856,LilJA,Master,32,72,,243,204
+856,summoner-3870539,857,MJ Heros,Master,0,72,,238,201
+857,summoner-11830459,858,Lil Chubby,Master,0,84,,214,178
+858,summoner-3922123,859,Ssol z,Master,0,66,,198,171
+859,summoner-17903039,860,추 억,Master,0,60,,193,146
+860,summoner-1727678,861,Wukong yixin,Master,0,87,,191,169
+861,summoner-4033066,862,그래또,Master,0,62,,187,158
+862,summoner-65680243,863,급식체 원딜,Master,0,54,,179,119
+863,summoner-34771433,864,l블루비틀l,Master,0,66,,173,141
+864,summoner-5195538,865,Cw Johnny,Master,0,120,,171,120
+865,summoner-41111160,866,롤마우스,Master,0,60,,162,128
+866,summoner-46720169,867,독도카즈아,Master,0,63,,157,102
+867,summoner-28740893,868,SRunner,Master,0,60,,147,89
+868,summoner-64870489,869,피하지않을래,Master,0,48,,146,101
+869,summoner-56221258,870,행복하자 정서야,Master,0,124,,145,116
+870,summoner-1440174,871,sanspareil2018,Master,0,72,,141,100
+871,summoner-69400149,872,마금느,Master,0,53,,130,71
+872,summoner-56920192,873,달빛 여왕 럭스,Master,0,66,,128,86
+873,summoner-10629543,874,개구리는폴짝,Master,0,61,,124,67
+874,summoner-28410882,875,성혁님미드가신다,Master,0,65,,122,91
+875,summoner-46270177,876,bb71,Master,0,45,,121,80
+876,summoner-3013675,877,순천 리븐,Master,0,77,,114,52
+877,summoner-68321331,878,mid noob,Master,0,94,,109,54
+878,summoner-27911894,879,사막 여우r,Master,0,56,,102,50
+879,summoner-5346873,880,달파고,Master,0,53,,93,51
+880,summoner-38141698,881,dsilverloves,Master,0,38,,86,33
+881,summoner-4904093,882,덕 구,Master,0,93,,49,15
+882,summoner-3623762,883,mklzxcviui,Diamond 1,100,157,,720,700
+883,summoner-13641185,884,I3est17 jg,Diamond 1,73,125,,689,665
+884,summoner-9096281,885,수없는 피할,Diamond 1,100,131,,619,583
+885,summoner-3650899,886,lalalahhhaa,Diamond 1,100,95,,577,525
+886,summoner-8744622,887,Tomoya Aki,Diamond 1,100,141,,549,523
+887,summoner-39710916,888,DouyuTVlengtong,Diamond 1,100,103,,522,491
+888,summoner-5283326,889,Tamen women,Diamond 1,100,136,,504,494
+889,summoner-66800147,890,miss i i,Diamond 1,100,120,,490,472
+890,summoner-49590764,891,죽음nI,Diamond 1,100,125,,484,471
+891,summoner-31710134,892,Twitch Murthhlol,Diamond 1,100,95,,481,423
+892,summoner-19001325,893,파지다,Diamond 1,100,150,,450,422
+893,summoner-9637443,894,청청주,Diamond 1,100,90,,411,353
+894,summoner-55020857,895,Zstu10k,Diamond 1,100,94,,404,371
+895,summoner-13592521,896,아재보리,Diamond 1,100,78,,354,273
+896,summoner-19551398,897,해방된분노홍진희,Diamond 1,100,118,,345,320
+897,summoner-28520919,898,숨쉴 틈도 없다,Diamond 1,100,96,,343,309
+898,summoner-56930858,899,Msilence,Diamond 1,100,73,,339,303
+899,summoner-9872989,900,Noble7,Diamond 1,100,64,,319,259
+900,summoner-4805840,901,티모 짱v,Diamond 1,100,75,,312,269
+901,summoner-66810198,902,일본인 엔티,Diamond 1,100,71,,295,270
+902,summoner-43591081,903,아타타타타타타타,Diamond 1,100,127,,289,267
+903,summoner-9823581,904,Cherry house,Diamond 1,100,88,,279,253
+904,summoner-5342084,905,중 탈,Diamond 1,100,112,,273,244
+905,summoner-70130171,906,뇌가 망가졌어요,Diamond 1,100,71,,267,207
+906,summoner-13654477,907,옥진영,Diamond 1,100,76,,240,155
+907,summoner-39830996,908,가로우식 딜교환,Diamond 1,100,75,,202,166
+908,summoner-69360669,909,APK Cover,Diamond 1,100,58,,196,142
+909,summoner-39081144,910,앙 기묵찌     빠,Diamond 1,100,85,,194,164
+910,summoner-66840146,911,밀크티농업종사자,Diamond 1,100,73,,180,128
+911,summoner-4015420,912,혼종 탑신병자,Diamond 1,100,62,,176,117
+912,summoner-2815305,913,재스기형,Diamond 1,100,52,,165,86
+913,summoner-17516317,914,기현준식혜성종우,Diamond 1,100,86,,150,114
+914,summoner-43180345,915,여  암,Diamond 1,100,131,,133,101
+915,summoner-10042590,916,You are 300 cash,Diamond 1,100,82,,132,104
+916,summoner-65710271,917,텔포단검도,Diamond 1,100,47,,131,65
+917,summoner-36791704,918,zuiquidpdn,Diamond 1,100,47,,126,94
+918,summoner-3200686,919,숙련자 1,Diamond 1,100,57,,124,93
+919,summoner-21832542,920,iwantbesomething,Diamond 1,100,72,,117,86
+920,summoner-66810153,921,생크림초코파이,Diamond 1,100,52,,102,67
+921,summoner-36200619,922,dasjkldjkljkl,Diamond 1,99,167,,827,812
+922,summoner-2469602,923,5000만,Diamond 1,99,97,,328,294
+923,summoner-66901746,924,트벤이,Diamond 1,99,55,,196,138
+924,summoner-54770540,925,Wan shen,Diamond 1,99,52,,191,142
+925,summoner-56140259,926,한화팬이라행복해,Diamond 1,99,51,,95,49
+926,summoner-63030472,927,63030472del,Diamond 1,98,88,,262,235
+927,summoner-3751785,928,협곡으로 떠나요,Diamond 1,98,86,,166,137
+928,summoner-54843915,929,GCA ThirDeR,Diamond 1,97,124,,682,654
+929,summoner-65311301,930,PandaTV51741,Diamond 1,100,79,,243,205
+930,summoner-7026929,931,JJangwane,Diamond 1,95,148,,841,811
+931,summoner-59070717,932,1sry,Diamond 1,94,99,,474,445
+932,summoner-5034630,933,강한대물,Diamond 1,94,91,,228,187
+933,summoner-4193019,934,목긋기,Diamond 1,94,131,,193,140
+934,summoner-8249338,935,갓연희,Diamond 1,94,63,,160,133
+935,summoner-26221381,936,그누야 갱가자,Diamond 1,94,108,,122,65
+936,summoner-42084354,937,뽀허니,Diamond 1,93,150,,676,651
+937,summoner-5593565,938,oil0ilOil,Diamond 1,92,73,,344,307
+938,summoner-61330748,939,만25세마도로스기,Diamond 1,92,81,,288,260
+939,summoner-1591068,940,탈모유망주,Diamond 1,92,69,,281,218
+940,summoner-66840150,941,lIllllllllIIll,Diamond 1,92,61,,149,122
+941,summoner-60570385,942,I do not have to,Diamond 1,92,54,,146,82
+942,summoner-68081148,943,세메론,Diamond 1,65,77,,368,309
+943,summoner-2320576,944,AIgorism,Diamond 1,91,150,,328,299
+944,summoner-52001187,945,Viu,Diamond 1,91,63,,217,181
+945,summoner-8243675,946,loneliness r,Diamond 1,90,102,,385,362
+946,summoner-57530142,947,BurgerDragon,Diamond 1,90,90,,357,329
+947,summoner-5273226,948,첫 겨울,Diamond 1,90,98,,331,311
+948,summoner-14017705,949,포쓰컨드,Diamond 1,90,99,,298,260
+949,summoner-61620264,950,Permaban10196841,Diamond 1,90,93,,286,270
+950,summoner-52061756,951,처음은누구나초보,Diamond 1,90,91,,254,217
+951,summoner-56200652,952,달콤쌉쌀칸타타,Diamond 1,90,72,,227,200
+952,summoner-33461854,953,My Y0Uth,Diamond 1,90,70,,210,174
+953,summoner-35290643,954,성공하고싶은자,Diamond 1,90,68,,206,174
+954,summoner-13160172,955,AFY,Diamond 1,90,74,,204,161
+955,summoner-2528997,956,나야 나 여기여기,Diamond 1,90,64,,190,148
+956,summoner-59800945,957,QPFHSLZK,Diamond 1,90,192,,151,99
+957,summoner-66850138,958,쓰레기59,Diamond 1,90,56,,141,114
+958,summoner-2100716,959,메론 농사 종업자,Diamond 1,90,66,,116,80
+959,summoner-25460826,960,트라이아웃,Diamond 1,90,47,,96,74
+960,summoner-68711265,961,Woo Xiang 3,Diamond 1,90,42,,84,38
+961,summoner-3367629,962,알쿵이달쿵,Diamond 1,90,49,,81,49
+962,summoner-45740249,963,감귤먹을나이,Diamond 1,90,61,,80,51
+963,summoner-1102161,964,PAKA,Diamond 1,90,43,,64,35
+964,summoner-66150299,965,1516426,Diamond 1,90,62,,64,39
+965,summoner-5632240,966,소답동 바위게,Diamond 1,90,64,,64,49
+966,summoner-27750189,967,새드엔딩,Diamond 1,90,59,,55,27
+967,summoner-7006605,968,마너츄만점,Diamond 1,89,63,,266,194
+968,summoner-49041395,969,n37,Diamond 1,89,53,,190,151
+969,summoner-3322267,970,산 희,Diamond 1,89,103,,177,157
+970,summoner-4056214,971,원딜전용라이너,Diamond 1,16,93,,586,486
+971,summoner-4948654,972,육 봉구리,Diamond 1,88,115,,261,234
+972,summoner-8071267,973,독도짜응,Diamond 1,88,47,,97,67
+973,summoner-1606423,974,내친구건들지마,Diamond 1,87,92,,405,375
+974,summoner-6704587,975,양자리 소년,Diamond 1,87,120,,328,309
+975,summoner-69740222,976,basic jg,Diamond 1,87,50,,175,125
+976,summoner-66850144,977,liliiililia,Diamond 1,87,54,,165,112
+977,summoner-57130781,978,메 끠,Diamond 1,87,62,,147,112
+978,summoner-2426765,979,범구 펭구,Diamond 1,87,91,,143,115
+979,summoner-65171114,980,도룡팀 대장,Diamond 1,87,45,,110,63
+980,summoner-51110557,981,INO kynee,Diamond 1,87,118,,91,61
+981,summoner-66321772,982,고개를 숙인다,Diamond 1,87,61,,87,58
+982,summoner-66800156,983,12354321,Diamond 1,87,49,,58,39
+983,summoner-50520154,984,유아스,Diamond 1,87,87,,50,22
+984,summoner-66480342,985,자폐아 어린이,Diamond 1,86,109,,606,580
+985,summoner-66383694,986,Prmois,Diamond 1,100,66,,310,268
+986,summoner-49750756,987,xihan,Diamond 1,86,63,,236,207
+987,summoner-9603938,988,AD EZ 15 GG,Diamond 1,86,55,,234,143
+988,summoner-36340135,989,Destiny YouTube,Diamond 1,85,97,,336,308
+989,summoner-2336922,990,JunB,Diamond 1,85,89,,250,219
+990,summoner-7841333,991,용신2,Diamond 1,85,104,,207,182
+991,summoner-39960849,992,살랑꼬마,Diamond 1,85,64,,198,114
+992,summoner-27460222,993,발라주겟다,Diamond 1,85,63,,144,99
+993,summoner-1241150,994,이그자일 트페,Diamond 1,84,57,,192,163
+994,summoner-18651657,995,6월1일합격,Diamond 1,84,68,,118,86
+995,summoner-1453183,996,윤상e,Diamond 1,83,105,,371,350
+996,summoner-4054770,997,아름다운산청,Diamond 1,86,80,,324,295
+997,summoner-70370763,998,아이마이미,Diamond 1,83,39,,78,37
+998,summoner-1095340,999,다크엠페러김혜성,Diamond 1,82,124,,480,456
+999,summoner-67170216,1000,Viper fans,Diamond 1,82,78,,380,359
