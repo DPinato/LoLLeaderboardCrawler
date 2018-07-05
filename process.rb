@@ -94,8 +94,8 @@ class ProcessLOL
 
 	def loadAllPlayerData()
 		# calls readPlayerData() for every entry in actionList
-		# (0...actionList.size).each do |i|
-		[0,11,22,33,44,55,66,77,88,99,110,121,132,143,154,165,176,187,198,209,220].each do |i|	# for testing
+		(0...actionList.size).each do |i|
+		# [0,11,22,33,44,55,66,77,88,99,110,121,132,143,154,165,176,187,198,209,220].each do |i|	# for testing
 			# go through every CSV file, put players of each region in the appropriate regionID
 			tmpStatsFile = statsDir + actionList[i].csvFileName
 			regionID = REGIONS.index(actionList[i].region)
@@ -159,7 +159,7 @@ class ProcessLOL
 	end
 
 	def plotPlayerGamesStats(plotFile, num, regionID)
-		# save stats of games of players of a certain region, (wins, losses, total games)
+		# plot stats of games of players of a certain region, (wins, losses, total games)
 		# use num to specify how many players, from the top ranked player, i.e. num=10 will take the 10 highest ranked players
 		# if a single player is given, num should be 1
 		if num == 0	# bad input parameter
@@ -224,6 +224,75 @@ class ProcessLOL
 	end
 
 
+	def plotPlayerLPStats(plotFile, num, dataset)
+		# save stats of games of players of a certain region, (wins, losses, total games)
+		# use num to specify how many players, from the top ranked player
+		# i.e. num=10 will take the 10 highest ranked players
+		# dataset may be a Hash or an array
+
+		# if a single player is given, num should be 1
+		if num == 0	# bad input parameter
+			return false	# TODO: raise exception?
+		end
+
+		# if dataset is a Hash, order it before plotting using the top num players from the most recent sample
+		# if dataset is an Array, just use it as is
+		playerData = nil
+		if dataset.instance_of?(Hash)
+			playerData = dataset.values
+			playerData = playerData.sort_by!{|player| player.rank.last}
+		elsif dataset.instance_of?(Array)
+
+		else
+			puts "plotPlayerLPStats does not like the dataset object type, #{dataset.class}"
+			exit	# TODO: raise exception?
+		end
+
+		playerData = playerData[0,num]	# take the top num players
+		samples = playerData[0].lp.size
+		puts "players: #{playerData.size}\tsamples: #{samples}"
+		# pp playerData[0].epoch
+		# pp playerData[0].lp
+
+
+		# plot the playerData array
+		Gnuplot.open do |gp|
+			Gnuplot::Plot.new(gp) do |plot|
+				# set general gnuplot things
+			  plot.terminal("png size 1280,720 transparent")
+				plot.title("PLAYER LP")
+			  plot.output(plotFile)
+
+			  # stuff for x-axis
+				plot.xlabel("Sample")
+				plot.grid("xtics")
+				plot.xrange("[:]")
+
+				# stuff for y-axis
+			  plot.ylabel("LP")
+				plot.grid("ytics")
+				plot.yrange("[:]")
+
+				plotGnuArray = Array.new(playerData.size) { |i|
+
+					Gnuplot::DataSet.new([playerData[i].epoch, playerData[i].lp]) { |ds|
+						ds.with = "lines"
+						ds.title = playerData[i].id
+						ds.linewidth = 2
+
+					}
+				}
+
+				#puts plotGnuArray.class
+				plot.data = plotGnuArray
+
+			end
+		end
+
+
+	end
+
+
 
 	# private
 	def readActionLog()
@@ -273,8 +342,10 @@ testObj = ProcessLOL.new(str1, str2, str3)
 testObj.loadAllPlayerData
 testObj.printUniquePlayerNum
 
-testObj.savePlayerGamesStats(str4 + "games_euw.dat", 3, 0)
-testObj.plotPlayerGamesStats(str4 + "games_euw.png", 10, 0)
+# testObj.savePlayerGamesStats(str4 + "games_euw.dat", 3, 0)
+# testObj.plotPlayerGamesStats(str4 + "games_euw.png", 10, 0)
+testObj.plotPlayerLPStats(str4 + "lp_euw.png", 10, testObj.playerList[0])
+testObj.plotPlayerLPStats(str4 + "lp_kr.png", 10, testObj.playerList[1])
 
 exit
 
